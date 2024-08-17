@@ -6,7 +6,11 @@ use std::{
 };
 
 fn main() -> Result<(), Box<dyn Error>> {
-    let rg_cmd = "rg -e 'fail-pat' ~/code/angler/";
+    let pattern_half = "fail";
+    let rg_cmd = format!(
+        "rg -e '{}-{}' ~/code/angler/ && exit 1 || exit 0",
+        pattern_half, pattern_half
+    );
     let hook_path = "/Users/romain/code/angler/.git/hooks/pre-commit";
 
     let mut options = OpenOptions::new();
