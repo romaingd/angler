@@ -51,6 +51,16 @@ package.json    # Modified on running `husky init` to auto-install `husky`
 # project-level
 pre-commit-config.yaml
 .git/hooks/
-    pre-commit      # Templated, runs `<python> -m pre-commit hook-impl <config_file> type=pre-commit`
-    pre-push        # Templated, runs `<python> -m pre-commit hook-impl <config_file> type=pre-push`
+    pre-commit      # Templated, runs `<python> -m pre-commit hook-impl <config> type=pre-commit`
+    pre-push        # Templated, runs `<python> -m pre-commit hook-impl <config> type=pre-push`
+```
+
+```
+# global
+~/.cache/pre-commit/
+    db.db                       # TODO Store
+    repo-<cloned_repo_id>/      # Cached across configs
+        <repo_content>              # Cloned from source
+        .pre-commit-hooks.yaml      # Manifest describing how to run the hook, part of the source
+        <venv>                      # Contains hook dependencies, created during install
 ```
