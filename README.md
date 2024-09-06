@@ -43,3 +43,14 @@ package.json    # Modified on running `husky init` to auto-install `husky`
 - Redirects all git hooks to a single dispatcher `h`, that runs the appropriate human-written script
 - Purely shell-based
 - Can be disabled using the `HUSKY` environment variable
+
+
+### Pre-commit
+
+```
+# project-level
+pre-commit-config.yaml
+.git/hooks/
+    pre-commit      # Templated, runs `<python> -m pre-commit hook-impl <config_file> type=pre-commit`
+    pre-push        # Templated, runs `<python> -m pre-commit hook-impl <config_file> type=pre-push`
+```
