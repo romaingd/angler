@@ -58,8 +58,8 @@ pre-commit-config.yaml
 ```
 # global
 ~/.cache/pre-commit/
-    db.db                       # TODO Store
-    repo-<cloned_repo_id>/      # Cached across configs
+    db.db                       # Store, sqlite DB, tables `repos` [repo, ref, path] and `configs` 
+    repo-<cloned_repo_id>/      # Cached across configs, referenced in the Store
         <repo_content>              # Cloned from source
         .pre-commit-hooks.yaml      # Manifest describing how to run the hook, part of the source
         <venv>                      # Contains hook dependencies, created during install
