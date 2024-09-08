@@ -64,3 +64,32 @@ pre-commit-config.yaml
         .pre-commit-hooks.yaml      # Manifest describing how to run the hook, part of the source
         <venv>                      # Contains hook dependencies, created during install
 ```
+
+- Structure
+    - Git hook-level templated block that invokes a dispatcher
+    - Project-level YAML config
+    - Global-level cached repo hooks + venv
+    - Global-level `config -> repos -> path` store for cleanup
+    - Repo-level manifest (for hook-defining repos)
+- Support
+    - Many languages
+    - Hooks can require additional dependencies
+    - Extensible
+    - Hook-defining repos must expose a manifest
+    - Local hooks possible
+- Install
+    - Global cache is populated
+    - Adds templated redirects to a shared dispatcher
+    - Auto-install possible with template-dir
+- Run
+    - Dispatcher `<python> -m pre-commit hook-impl <config> type=<hook-type>` runs
+        - Python process
+        - Loads config, finds hooks
+        - Installs missing hooks
+        - Builds hook commands
+        - Runs hooks within subprocesses (Python `xargs`)
+    - Concurrency
+        - `xargs` runs in multithreading
+        - Serial execution can be explicitly required
+    - Directly invokable with `pre-commit run`
+    - Targeted skips possible with `SKIP=` environment variable
