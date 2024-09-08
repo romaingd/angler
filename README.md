@@ -1,4 +1,4 @@
-# Angler: efficient git hooks management
+# (WIP) Angler: Manage git hooks and run them fast
 
 ## Plan
 
