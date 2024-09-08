@@ -22,6 +22,17 @@
 - [ ] Lock config
 - [ ] More languages
 
+## Key features
+
+- Fast
+    - Rust binary, no intermediate VM
+    - Concurrency across and within hooks
+    - Pre-computed exact commands to run
+- Simple
+    - Human-readable expansion of each hook
+    - Local / global install
+    - No need for a repo-side manifest
+    - CLI (?)
 
 ## Similar tools
 
