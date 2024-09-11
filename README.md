@@ -32,7 +32,9 @@
     - Human-readable expansion of each hook
     - Local / global install
     - No need for a repo-side manifest
-    - CLI (?)
+    - Display only failing hooks
+    - Sourceable multi-part config (?)
+    - CLI add/remove/stats (?)
 
 ## Similar tools
 
