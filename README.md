@@ -34,7 +34,7 @@
     - No need for a repo-side manifest
     - Display only failing hooks
     - Sourceable multi-part config (?)
-    - CLI add/remove/stats (?)
+    - CLI add/remove/stats + autocompletion (?)
 
 ## Similar tools
 
@@ -56,6 +56,10 @@ package.json    # Modified on running `husky init` to auto-install `husky`
 - Redirects all git hooks to a single dispatcher `h`, that runs the appropriate human-written script
 - Purely shell-based
 - Can be disabled using the `HUSKY` environment variable
+
+### Overcommit
+
+TODO
 
 
 ### Pre-commit
