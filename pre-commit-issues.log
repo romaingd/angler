@@ -1,0 +1,2053 @@
+3292	CLOSED	there is no access to commit_msg_filename in prepare-commit-msg hook		2024-09-10T15:17:54Z
+3291	CLOSED	Install prebuilt node failed to download		2024-09-09T20:16:14Z
+3290	CLOSED	Add debug output to GitHub issues		2024-09-08T15:29:21Z
+3289	CLOSED	Accepting standard git merge commit messages as valid commit message.		2024-09-06T12:17:48Z
+3288	CLOSED	Run just one hook when two or more hooks have the same id		2024-09-03T20:59:50Z
+3287	CLOSED	Enable pass through of exit code		2024-09-02T13:15:13Z
+3285	CLOSED	Failed to read dockerfile: open Dockerfile: no such file or directory		2024-08-26T21:25:07Z
+3284	CLOSED	Implement `--jobs` for `pre-commit install-hooks`		2024-08-26T13:54:23Z
+3282	CLOSED	Execute hook when another hook failed		2024-08-24T12:44:04Z
+3281	CLOSED	Include other config files		2024-08-22T16:43:58Z
+3280	CLOSED	`run --all-files` ignores files from `git commit --no-verify`		2024-08-22T11:54:18Z
+3279	OPEN	bug: pre-commit's script is installed in migration mode		2024-09-02T07:02:55Z
+3278	OPEN	migrate rust language's addition-dependencies to use cargo install		2024-08-21T13:17:36Z
+3277	CLOSED	"virtualenv python version did not match created version" error on Windows		2024-08-16T18:12:40Z
+3276	CLOSED	No output for docker_image hooks on WSL		2024-08-07T09:49:24Z
+3274	CLOSED	`git.get_root()` fails with return code -11 in NixOS WSL2		2024-08-05T00:48:38Z
+3273	CLOSED	pre-commit importing python code from the current directory		2024-08-01T17:12:27Z
+3272	CLOSED	Pass pip options to pre-commit		2024-07-31T12:31:30Z
+3271	CLOSED	Customizing 'pre-commit not found' message		2024-07-30T13:01:05Z
+3269	CLOSED	`Duplicate module` between `.py` and `.pyi` stub in mypy		2024-07-29T19:17:08Z
+3268	CLOSED	While Performing Powershell linting using Pre-commit through hook 'PSScriptanalyzer' I am getting below error: Invoke-ScriptAnalyzer : A positional parameter cannot be found that accepts argument		2024-07-29T12:44:02Z
+3267	CLOSED	syntax error near unexpected token `(' when runnin git commit -m		2024-07-27T19:13:08Z
+3266	CLOSED	pre-commit doesn't work with the socks5 proxy set in `~/.pip/pip.conf`.		2024-07-27T13:59:36Z
+3261	CLOSED	Executable `eslint` not found		2024-07-21T17:08:27Z
+3260	CLOSED	Golang integration attempts new install even when go is installed on system.		2024-07-18T15:50:56Z
+3258	OPEN	Incorrect usage of cached virtualenv		2024-07-24T17:26:21Z
+3256	CLOSED	AssertionError: BUG: expected environment for python to be healthy() immediately after install (Ubuntu 22)		2024-07-16T20:39:44Z
+3255	CLOSED	Installed hooks with incorrect path names for import		2024-07-22T14:55:48Z
+3254	CLOSED	Additional logging when `--verbose` is specified and hooks are being installed/updated		2024-07-15T17:03:36Z
+3252	CLOSED	PermissionError: [Errno 13] Permission denied: '/run/wrappers/bin/op' on NixOS		2024-07-22T01:21:51Z
+3251	CLOSED	How to use it in local machine pre-commit for multiple repos		2024-07-12T08:36:16Z
+3250	CLOSED	Failure with newly released pkgdown		2024-07-11T05:39:20Z
+3249	CLOSED	html checker which plays nice with Jinja2		2024-07-10T18:18:57Z
+3248	CLOSED	Wrong pip version used		2024-07-05T13:47:23Z
+3246	CLOSED	Support something a la `fromfile_prefix_chars` (filenames in file as singular arg)		2024-07-03T21:08:25Z
+3245	CLOSED	Issue with stashed changes when running from GitHub Desktop		2024-07-29T12:46:08Z
+3243	CLOSED	Install additional dependencies from local Python pre-commit hook		2024-06-25T21:18:26Z
+3242	CLOSED	Allow using builtin environment variable or exec python code in args for hooks		2024-06-25T14:26:22Z
+3241	CLOSED	Support prec-ommit for unmake		2024-06-25T20:32:13Z
+3239	CLOSED	Apply patches to hooks before execution		2024-06-19T12:16:47Z
+3238	CLOSED	perltidy hook fails in container		2024-06-19T12:21:48Z
+3236	CLOSED	[Question]: How to maintain previous workflow? (`global hooks`)		2024-06-17T15:09:53Z
+3234	CLOSED	Installation issue on msys2 / mingw64		2024-08-06T14:51:57Z
+3233	CLOSED	pre-commit touching files it doesn't actually edit		2024-06-16T02:43:21Z
+3231	CLOSED	disable loading Gemfiles in the enclosing project in ruby applications		2024-06-13T02:07:16Z
+3230	OPEN	Allow to pass features to cargo install in rust hooks		2024-06-12T21:27:14Z
+3229	CLOSED	Python 3.9.19 `TypeError` from `virtualenv`		2024-06-12T19:20:36Z
+3228	CLOSED	Allow passing the filenames absolute paths, to support chdir in command		2024-06-11T13:03:59Z
+3226	CLOSED	Pre-commit to only apply to staged .swift files		2024-06-10T13:51:42Z
+3225	CLOSED	Installed dotnet SDK is shown as incompatible		2024-06-08T15:34:54Z
+3224	CLOSED	pre-commit autoupdate bug?		2024-06-07T13:41:00Z
+3223	CLOSED	can run on Mac osx dir		2024-06-07T20:37:57Z
+3222	CLOSED	Python language: add option to use uv instead of pip for venv creation & dependency installs		2024-06-07T00:05:25Z
+3221	CLOSED	Unable to redirect stderr		2024-06-04T23:58:33Z
+3220	CLOSED	Regression in `nodeenv` 1.9.0		2024-06-04T12:42:59Z
+3219	CLOSED	No such file or directory: '/Users/xxx/.cache/pre-commit/repoun1c2d52/golangenv-system/.install_state_v1staging		2024-06-07T14:14:32Z
+3218	CLOSED	How to ignore files in pre commit like gitignore file		2024-06-04T12:48:57Z
+3216	CLOSED	Extremely long timeout when hook repo is not reachable		2024-06-03T14:10:47Z
+3215	CLOSED	Respect `default_language_version` for local python hooks		2024-06-02T17:18:06Z
+3214	CLOSED	A way for defining Top level config variables to reuse		2024-06-01T12:33:27Z
+3213	CLOSED	perl hook environment not cleaned up		2024-05-31T17:04:23Z
+3212	CLOSED	Restrict a hook to run exclusively in prepare-commit-msg		2024-05-31T14:14:26Z
+3211	CLOSED	Warn when archived		2024-06-04T12:48:13Z
+3210	CLOSED	running single hook on a single file runs all hooks `pre-commit run --files [filename] [hook name]`		2024-05-31T05:01:26Z
+3209	CLOSED	hook not triggering!!		2024-05-30T06:21:59Z
+3208	CLOSED	pre-commit install-hooks fail for python when also using language perl hooks		2024-05-28T14:55:41Z
+3206	CLOSED	Global R upgrade breaks pre-commit	feature, r	2024-07-28T19:54:29Z
+3205	CLOSED	Change `default_language_version` to either support multiple versions to allow for ranked picking		2024-05-17T19:02:01Z
+3204	CLOSED	Where to get help on pre-commit		2024-05-14T11:55:59Z
+3203	CLOSED	ModuleNotFoundError: No module named 'distutils' on Ubuntu 24.04		2024-05-14T09:59:55Z
+3202	CLOSED	Fail when trying to ```additional_dependencies=[googleads==3.8.0]```		2024-05-11T12:55:44Z
+3200	CLOSED	--all-files flag does not work for untracked files		2024-05-09T21:07:00Z
+3198	CLOSED	Pre-push hook stuck		2024-05-08T18:56:44Z
+3197	CLOSED	`pre-commit sample-config` should create file by default		2024-05-07T12:41:18Z
+3196	CLOSED	Github token not propagated		2024-05-03T01:11:11Z
+3195	CLOSED	More verbose messaging/reason in `pygrep` hooks		2024-04-30T14:15:45Z
+3191	CLOSED	Difference in behaviour between pre-commit hook and running command locally		2024-04-25T14:21:56Z
+3189	CLOSED	Show additional information when a hook fails		2024-04-25T13:25:00Z
+3187	CLOSED	pre-commit hangs while stashing unstaged changes, requires 'enter' key to continue		2024-04-23T00:36:09Z
+3186	CLOSED	Running pre-commit on windows yields in error		2024-04-22T21:19:38Z
+3183	CLOSED	`pre-commit g` does not delete temporary patch files from cache		2024-04-19T13:00:43Z
+3182	CLOSED	Force `pre-commit run` to exit with code 0 with `--exit-zero` flag		2024-04-18T13:48:14Z
+3181	CLOSED	how to mark file types to bianry by extensions?		2024-04-19T13:07:31Z
+3180	CLOSED	Support creating custom pre-commit environments		2024-04-15T13:42:36Z
+3179	CLOSED	Output reported in blocks		2024-04-15T03:37:53Z
+3178	CLOSED	How should this project be named to distinguish it from the identically-named Git hook?		2024-04-10T23:09:41Z
+3177	CLOSED	SKIP is not recognized		2024-04-09T12:44:45Z
+3175	CLOSED	An unexpected error has occurred: CalledProcessError: command:		2024-03-29T17:41:51Z
+3174	CLOSED	pre-commit in pre-commit creating excessive log output		2024-03-28T17:23:04Z
+3171	CLOSED	Add support for Python 3.12 + PEP632		2024-03-27T19:54:31Z
+3170	CLOSED	AssertionError during pre-commit Installation		2024-03-27T17:05:48Z
+3167	CLOSED	Hook fail_fast stops pre-commit if any prior hook fails		2024-03-24T17:28:38Z
+3166	CLOSED	Missing files when using `entry: bash -c "... $@"`		2024-03-22T12:42:47Z
+3165	CLOSED	Expose diff-filter options to pre-commit api		2024-03-21T21:45:25Z
+3164	CLOSED	File selection criteria based on contents?		2024-03-21T19:46:34Z
+3162	OPEN	Install Rust tools with `--locked` by default or add a parameter to allow this		2024-07-08T10:43:44Z
+3161	CLOSED	Unable to commit if repo with hooks is unavailable		2024-03-21T11:16:50Z
+3160	CLOSED	documentation request / guidance needed: how to add pre-commit to the build in an existing large codebase		2024-03-20T23:11:11Z
+3159	CLOSED	documentation request / guidance needed: how to add pre-commit to the build in an existing large codebase		2024-03-20T23:03:21Z
+3158	CLOSED	Pre-commit Python Not Found		2024-03-20T15:11:20Z
+3157	CLOSED	Allow to pass files args through file to avoid MAX_ARGS size limit		2024-03-19T12:43:07Z
+3156	CLOSED	Environments being recreated		2024-03-19T11:14:18Z
+3154	CLOSED	The exclude option should support lists as well as strings		2024-03-18T14:27:00Z
+3153	CLOSED	Download raw .pre-commit-hooks.yaml file instead of whole repository		2024-03-18T12:41:58Z
+3151	CLOSED	Add option to configure the path of where to install the hook		2024-03-13T20:22:09Z
+3149	CLOSED	golang: toolchain not available		2024-03-12T13:40:53Z
+3148	CLOSED	`prettier` hook unable to find plugins in presence of `node_modules` folder in subtree		2024-03-12T13:03:19Z
+3147	CLOSED	Variable and slow runtimes		2024-03-09T17:14:44Z
+3145	CLOSED	Bash Variable Expansion Not Working	invalid	2024-03-05T20:16:39Z
+3144	CLOSED	Using 'pre-commit install -c' with an invalid path still succeeds, even though the '--allow-missing-config' flag is not provided		2024-03-04T18:24:02Z
+3142	CLOSED	Add a `no-todo` hook that warns or fails if there's any TODOs in your code		2024-03-01T20:15:28Z
+3140	CLOSED	Running pre-commit uninstall still shows the "no .pre-commit-config.yaml file found" message		2024-03-02T14:32:28Z
+3139	CLOSED	delete me		2024-02-29T13:53:54Z
+3138	CLOSED	when I userd the fixture in pytest, it will have some problems.		2024-02-29T13:55:16Z
+3137	CLOSED	pre-commit ignores failures in env setup		2024-03-20T15:10:05Z
+3136	CLOSED	Prefer to fail on invalid argument list		2024-02-28T07:17:50Z
+3135	CLOSED	`prepare-commit-msg` is not receiving commit message object		2024-02-27T16:14:29Z
+3134	CLOSED	Question: Remove logger from whole repo?		2024-03-03T12:13:41Z
+3133	CLOSED	`mirrors-prettier` not supporting `prettier` version 3 after `v3.1.0`		2024-02-23T19:13:31Z
+3129	CLOSED	Can this gitlab CI pipeline be improved by using caching or pre-commit install-hooks?		2024-02-15T16:02:17Z
+3128	CLOSED	missin prettier versions in mirrors-prettier		2024-02-14T18:22:40Z
+3127	CLOSED	Warning message Unexpected key(s) present at root		2024-02-13T14:43:06Z
+3124	CLOSED	In Windows, `pre-commit -a` silently skips files as xargs.py partitions are too long for command line		2024-04-12T20:06:04Z
+3123	CLOSED	virtualenv python version did not match created version		2024-04-11T12:44:28Z
+3121	CLOSED	#1119 Completions - project		2024-02-07T00:13:24Z
+3120	CLOSED	Running `local` hook with `stages: [commit-msg]` never triggers		2024-02-02T15:04:59Z
+3119	CLOSED	--top-keys parameter to pretty-format-json errors out		2024-01-30T06:47:50Z
+3118	CLOSED	Types / files filtering *.ipp files		2024-01-29T17:11:32Z
+3117	CLOSED	Node hooks not installing dependencies		2024-01-26T21:00:28Z
+3116	CLOSED	KeyError "resources/hook-tmpl" when running "pre-commit-3.6.0.pyz" in Windows		2024-01-26T21:02:07Z
+3115	CLOSED	Compose multiple .pre-commit.yaml files		2024-01-20T01:18:49Z
+3114	CLOSED	Sqlfluff profiles error		2024-01-18T20:58:27Z
+3112	CLOSED	Pre-commit does not correctly check files when a commit is amended		2024-01-15T18:11:39Z
+3111	CLOSED	`types: [c]` doesn't pick up `.h` files, but `identify-cli` does		2024-01-13T21:47:55Z
+3109	CLOSED	Different behavior between local usage and Github Actions		2024-01-11T18:04:48Z
+3108	CLOSED	Mark official releases for mirrors-prettier		2024-01-08T22:02:18Z
+3106	CLOSED	pre-commit installation on MacOS via homebrew is incomplete		2024-01-04T19:31:24Z
+3105	CLOSED	`pip install .` works but hook "executable not found" error when running pre-commit		2023-12-29T16:44:27Z
+3104	CLOSED	require_serial: true splitting files into multiple lists		2023-12-28T19:37:15Z
+3103	CLOSED	hooks should merge arguments from config with hooks before running	invalid	2023-12-27T21:41:41Z
+3098	CLOSED	Prettier additional dependencies are not found		2023-12-11T13:41:26Z
+3097	CLOSED	Allow passing extra argument to "language" program		2023-12-11T19:19:50Z
+3096	CLOSED	Use SKIP variable in `pre-commit install-hooks`		2024-05-17T21:32:04Z
+3094	CLOSED	Improve error message if repo not set up for pre-commit		2023-12-09T22:17:28Z
+3091	CLOSED	[bug] Directory paths `\` missing: No such file or directory: pre-commit run fails.		2023-12-09T20:42:01Z
+3090	CLOSED	Pre-commit.pyz Bump to Python3.12	invalid	2023-12-09T22:25:59Z
+3089	OPEN	Allow using bun instead of node	feature, good-first-issue	2023-12-08T19:38:44Z
+3088	CLOSED	uses old .flake8 config if .flake8 change not staged		2023-12-08T00:37:12Z
+3087	CLOSED	args inside `pre-commit-hooks.yaml` not working		2023-12-27T20:29:58Z
+3086	CLOSED	3.5.0 bug with pre-commit and python virtualenv	invalid	2023-12-06T21:19:57Z
+3085	CLOSED	Guix container: `An unexpected error has occurred: AssertionError: BUG: expected environment for node to be healthy immediately after install`		2023-12-05T23:52:39Z
+3084	CLOSED	Update validate_config to provide user feedback when used		2023-12-04T20:04:28Z
+3082	CLOSED	Pre-commit 3.5.0 installed with Homebrew fails to run because virtualenv cannot be executed		2023-12-04T13:41:09Z
+3081	CLOSED	AttributeError: module 'virtualenv.create.via_global_ref.builtin.cpython.mac_os' has no attribute 'CPython2macOsFramework'		2023-12-02T10:04:35Z
+3080	CLOSED	The use of args		2023-12-02T04:56:01Z
+3077	CLOSED	local hooks not detected when adding stages		2023-11-24T15:00:08Z
+3076	CLOSED	pre-commit can not find a file to process	invalid	2023-11-29T07:05:26Z
+3075	CLOSED	Using --files flag to apply the run on specific subfolder		2023-11-23T15:57:59Z
+3074	CLOSED	Custom hook last call is sometimes invoked with no arguments		2023-11-22T18:51:59Z
+3073	CLOSED	Document what pre-commit considers a mutable reference to be, or tweak the definition		2023-11-20T13:42:38Z
+3070	CLOSED	Display the sub-command being run when in `--verbose` mode		2023-11-17T13:43:32Z
+3069	CLOSED	Local dotnet format killing PC by running multiple copies		2023-11-17T13:46:51Z
+3068	CLOSED	InvalidManifestError for black (while the manifest is seemingly fine)		2023-11-15T12:27:26Z
+3067	CLOSED	pre-commit takes a long time when GIT_DIR is set		2023-11-14T21:19:21Z
+3066	CLOSED	`files` and `types` not filtering correctly	invalid	2023-11-14T21:23:18Z
+3065	CLOSED	IDE plugins		2023-11-14T17:12:28Z
+3061	CLOSED	Missing files when running pre-commit run -a		2023-11-09T16:57:31Z
+3059	CLOSED	Add option exclude_file_path to allow passing a file path with a list of excludes.		2023-11-09T04:11:27Z
+3058	CLOSED	Objective-C not supported fail		2023-11-08T17:08:57Z
+3057	CLOSED	Issue installing pre-commit		2023-11-10T01:22:42Z
+3056	CLOSED	`pre-commit run` gets all refs regardless of `--from-ref`		2023-11-07T18:42:26Z
+3055	CLOSED	[pre-commit]: Spellcheck hook for source code and gitlab/github for commit messages and MR/PR descriptions		2023-11-06T13:17:27Z
+3054	CLOSED	`module 'pkgutil' has no attribute 'ImpImporter'` - Fails to run on python3.12 pipx		2023-11-06T13:14:42Z
+3053	CLOSED	Python 3.13: `module 'importlib.resources' has no attribute 'read_text'`		2023-11-05T12:35:27Z
+3052	CLOSED	When running `pre-commit autoupdate` choose which type of update you want		2023-11-05T01:33:47Z
+3051	CLOSED	How to pull the remote script so it can be run in my local repository?		2023-11-03T21:18:51Z
+3050	CLOSED	`pre-push` hooks are intentionally not run on ref deletion		2023-11-03T16:23:31Z
+3049	CLOSED	Allow install into alternate location		2023-11-01T20:27:22Z
+3048	CLOSED	Be able to run pre-commit check on file removal (for languages which not file-limited, but dir-limited)		2023-11-01T13:23:11Z
+3047	CLOSED	Python library is being installed without its git version tag		2023-11-01T00:20:41Z
+3046	CLOSED	Pre-commit skips files even when i have the type staged during commit		2023-10-31T16:44:50Z
+3045	CLOSED	Language type "rust" installs rustup components outside PRE_COMMIT_HOME		2023-10-31T17:04:53Z
+3041	CLOSED	Fails to run with Python 3.12		2023-11-30T03:00:45Z
+3040	CLOSED	Is there a way to add a custom language?		2023-10-25T19:40:59Z
+3039	CLOSED	Installation fails with unquoted dependency		2023-10-25T12:17:29Z
+3037	CLOSED	run multiple hook stages		2023-10-22T10:43:56Z
+3036	CLOSED	Can not install on Azure Devops due to Ruamel		2023-10-20T21:49:44Z
+3035	CLOSED	`pre-commit autoupdate` "cycles" on ansible-lint repo		2023-10-19T23:16:26Z
+3034	CLOSED	mirror-prettier freezes at installation step		2023-10-18T15:25:45Z
+3032	CLOSED	When git commit inside a submodule, repo becomes corrupted		2023-10-16T23:53:34Z
+3030	CLOSED	Provide mechanism for running pre-commit without installing dependencies	invalid	2023-10-13T16:37:17Z
+3028	CLOSED	Potential bug: forbid-binary with git-lfs		2023-10-11T14:46:44Z
+3027	CLOSED	Pre-commit overwrites modifications to files that have been `git update-index --assume-unchanged`'ed		2023-10-10T21:33:01Z
+3026	CLOSED	Environment Variable for `--config`		2023-10-10T12:01:02Z
+3025	CLOSED	Auto-update with `--config` option should run everywhere		2023-10-10T12:03:09Z
+3022	CLOSED	Support ESLint new-style configuration		2023-10-08T11:10:08Z
+3019	CLOSED	Install the current project for a hook		2023-10-06T12:41:23Z
+3018	CLOSED	Add a file_additional type and a corresponding files_additonal pattern to extend types_or with new file extensions		2023-10-03T22:35:03Z
+3017	CLOSED	difference between running mypy directly vs with pre-commit		2023-10-03T18:45:04Z
+3015	CLOSED	Can some project be hosted on this organization?		2023-10-02T12:41:38Z
+3014	CLOSED	Pass directories instead of file paths		2023-09-29T19:51:47Z
+3013	CLOSED	Latest versions of node/npm used to set up environment for node-based hooks?		2023-09-29T15:36:47Z
+3010	CLOSED	[3.4.0] pre-commit autoupgrade downgrads yapf v0.40.1 to v0.40.0?		2023-09-21T16:32:56Z
+3009	CLOSED	pre-commit seems to install outdated codespell version		2023-09-20T12:18:27Z
+3008	CLOSED	failenames passed to `entry` drop the first one		2023-09-20T13:04:05Z
+3007	CLOSED	Option to return exit code 0 when files were changed		2023-09-19T21:10:53Z
+3005	CLOSED	Disk I/O error during db.db creation of pre-commit install		2023-09-16T00:26:35Z
+3004	CLOSED	[docs] ensure the recommendations put pyupgrade before black		2023-09-13T17:53:20Z
+3003	CLOSED	CI doesn't run weekly autoupdate		2023-09-13T13:52:19Z
+3002	CLOSED	pre-commit-validate-config and pre-commit-validate-manifest: ImportError: cannot import name 'validate_manifest_main'		2023-09-11T14:39:23Z
+3001	CLOSED	precommit hook script not using nixos compatible stuff		2023-09-10T18:50:03Z
+2997	CLOSED	prettier hook additional dependencies do not work		2023-09-09T13:26:26Z
+2995	CLOSED	Is it possible to have "greater than" in language_version?		2023-09-07T21:20:28Z
+2993	CLOSED	Disable Stashing unstaged files for `prepare-commit-msg` and `commit-msg` hooks		2023-09-06T16:01:46Z
+2992	CLOSED	local node hook: npm ERR! could not determine executable to run		2024-05-08T13:58:26Z
+2990	CLOSED	Run on all the stages but `manual`		2023-09-05T05:08:45Z
+2989	CLOSED	Pre-commit fails in a fresh macOS installation: cannot import name 'FileCache'		2023-09-13T18:40:54Z
+2988	CLOSED	autoupdate pulling in alpha versions when not requested		2023-09-04T01:48:10Z
+2987	CLOSED	prepare-commit-msg script doesnt receive all args		2023-09-03T19:46:00Z
+2986	CLOSED	coursier: additional_dependencies with non-default channel		2023-09-11T12:48:44Z
+2985	CLOSED	Allow empty `stages` entry or additional stage to never run hook as part of a stage		2023-08-31T21:51:00Z
+2983	CLOSED	Support config files not named .pre-commit-hooks.yaml		2023-08-31T12:51:41Z
+2982	CLOSED	Windows es-lint not installable with generic error		2023-08-31T12:53:50Z
+2981	CLOSED	Failure when cloning private repository		2023-08-29T15:15:23Z
+2978	CLOSED	CPU count logic does not distinguish "usable" CPUs inside cgroup'd containers (e.g. inside k8s)		2023-08-30T17:57:55Z
+2977	CLOSED	GitLab CI PermissionError: [Errno 13] Permission denied: '.git/hooks/pre-commit' at install time		2023-08-25T17:15:05Z
+2976	CLOSED	RuntimeError: no .dist-info python3.9 macos		2023-08-25T13:14:39Z
+2975	CLOSED	Manual cleanup not picked up by pre-commit		2023-08-24T12:52:24Z
+2974	CLOSED	Please support MacOS 14 Sonoma		2023-08-24T12:45:33Z
+2973	CLOSED	Allow the --config flag to be passed before the command		2023-08-23T08:29:23Z
+2970	CLOSED	pre-commit treats hook commands dying due to POSIX signal as successful	bug	2023-08-22T01:30:16Z
+2969	CLOSED	Config file isn't passing for flake8 hook		2023-08-22T19:47:25Z
+2968	CLOSED	Support a new field to set image tag for docker and docker_image languages		2023-08-18T20:28:17Z
+2967	CLOSED	Mypy run in pre-commit ignores configuration excludes		2023-08-18T14:22:52Z
+2966	CLOSED	`--no-verify` is ignored if configuration is unstaged		2023-08-17T14:31:22Z
+2965	CLOSED	Can pre-commit install offline?		2023-08-24T07:34:26Z
+2964	CLOSED	Add configuration (or documentation if already possible) to use other container runtimes than `docker`		2023-08-16T12:17:23Z
+2962	CLOSED	Difference between mypy pre-commit run --all-files vs git commit		2023-08-15T15:45:29Z
+2959	CLOSED	Does `pre-commit run my_manual_hook` really need `--hook-stage manual`?		2023-08-14T18:14:55Z
+2957	CLOSED	Prettier and ESLint hooks fails to find modules on GitHub Actions		2023-08-12T15:04:25Z
+2956	CLOSED	UNSAFE_LEGACY_RENEGOTIATION_DISABLED encountered during node environment setup		2023-10-18T19:26:44Z
+2955	CLOSED	Cannot pass arguments to hook via pre-commit run hook_id		2023-08-11T14:03:07Z
+2954	CLOSED	To increase the number of characters from 80 to 100, sometimes it becomes too tough to convey the message in 80 characters		2023-08-09T14:57:30Z
+2953	CLOSED	Preparing metadata (pyproject.toml): finished with status 'error'		2023-08-09T02:24:04Z
+2952	CLOSED	Not able to make commit through pycharm		2023-08-07T13:31:38Z
+2951	CLOSED	Monorepo: pre-commit mypy dep resolution not equivalent to running mypy natively		2023-08-07T13:33:22Z
+2950	CLOSED	Unable to find resource t64.exe in pip		2023-08-05T21:18:04Z
+2948	CLOSED	Add support for taking additional skips from command line arguments		2023-08-01T16:07:09Z
+2947	CLOSED	Installing environment for black fails		2023-08-02T08:00:41Z
+2945	CLOSED	Swiftlint hook hangs longer than running swiftlint alone		2023-08-01T00:37:39Z
+2944	CLOSED	Failed to write to log		2023-07-30T05:03:23Z
+2942	CLOSED	`pre-commit run` return error code `123` when the checks for the pre-commit hooks fail		2023-07-25T13:52:21Z
+2941	CLOSED	Friendly `--no-verify` message		2023-07-24T17:46:55Z
+2939	CLOSED	Make `--to-ref` default to `HEAD`, when only `--from-ref` is used		2023-07-23T16:34:39Z
+2938	CLOSED	CYGWIN - docker_image hook mount point incorrect		2023-07-23T15:59:59Z
+2936	CLOSED	Pre-commit run --all-files does not respect exclude or provide an except option	invalid	2024-08-16T06:14:55Z
+2935	CLOSED	Short-circuit the `check-hooks-apply` hook		2023-09-11T23:52:53Z
+2934	CLOSED	Add `working-directory` property to hooks		2023-07-20T14:33:49Z
+2933	CLOSED	Gathering metrics on hook performance		2023-07-19T13:55:54Z
+2931	CLOSED	allow Rust language hooks to install binaries from a workspace		2024-01-23T21:09:50Z
+2930	CLOSED	repo in config should respect (local) gitconfig for repo url		2023-07-18T13:25:28Z
+2928	CLOSED	Write mode for log_file in hook config		2023-07-17T15:03:13Z
+2926	CLOSED	Error while running pre-commit hook		2023-07-14T14:33:29Z
+2925	CLOSED	Support for custom git hooks		2023-07-12T21:28:33Z
+2923	CLOSED	pre-commit fails to execute if bash is not available		2023-07-10T16:19:28Z
+2922	CLOSED	pre-commit not installing on golang:1.20 image		2023-07-06T12:28:40Z
+2921	CLOSED	Yarn doesn't trigger scripts and directly returns passed on M2 Mac	question	2023-07-07T12:01:44Z
+2920	CLOSED	Podman support by allowing defining the docker executable name		2024-06-17T15:59:57Z
+2919	CLOSED	How is #2918 a dupe of #1073?		2023-07-04T21:15:33Z
+2918	CLOSED	Support `FORCE_COLOR` env var		2023-07-04T20:31:25Z
+2915	CLOSED	ModuleNotFoundError when `repo: meta` (a request for guidance in nixpkgs)		2023-07-01T19:45:49Z
+2912	CLOSED	Pre-commit hook ignores flake8 exclude option		2023-06-26T14:06:04Z
+2911	CLOSED	Add new `-W treat warning as errors` option for `pre-commit run`		2023-12-04T15:29:26Z
+2910	CLOSED	`EncodingWarning`s when running under `PYTHONWARNDEFAULTENCODING=1`		2023-06-22T13:00:44Z
+2909	CLOSED	darker pre-commit hook seems to ignore configuration in pyproject.toml		2023-06-26T12:43:21Z
+2907	CLOSED	sfadsfasdfasdf		2023-06-16T15:10:36Z
+2906	CLOSED	AttributeError: 'NoneType' object has no attribute 'split'		2023-06-16T04:30:46Z
+2902	CLOSED	Allow disabling some hooks on specific branches		2023-06-06T00:08:28Z
+2900	CLOSED	autoupdate in pre-commit.yaml with a `git commit --all` fails since 3.3.0		2023-05-31T18:17:38Z
+2899	CLOSED	local hook for r does not with latest {renv} releases anymore since template is incompatible with it		2023-07-08T10:17:26Z
+2898	CLOSED	pre-commit autoupdate fails for git version 2.20.1		2023-08-28T12:28:09Z
+2897	CLOSED	"Initializing environment" is printed two times for some hooks		2023-05-23T15:42:56Z
+2896	CLOSED	Filename starting with dash fail with most hooks		2023-05-23T14:25:24Z
+2895	CLOSED	Add ability to customise color output		2023-05-22T19:40:42Z
+2894	CLOSED	Commit		2023-05-22T19:19:56Z
+2893	CLOSED	Use pre-commit even without Git		2023-05-20T12:28:53Z
+2888	CLOSED	Install or update system dependencies in commit		2023-05-17T15:06:07Z
+2887	CLOSED	Allow language_version and default_language_version to point to specific binary		2023-05-17T14:59:24Z
+2880	CLOSED	An unexpected error has occurred: AssertionError: BUG: expected environment for python to be healthy immediately after install		2023-05-11T18:08:14Z
+2878	CLOSED	from-ref/to-ref folder deletion may recurse into new submodule of same name		2023-05-08T15:37:24Z
+2877	CLOSED	CalledProcessError during installation of environment		2023-05-08T12:32:31Z
+2876	CLOSED	pre-commit Passed badge has very poor contrast (white on green)		2023-05-06T22:37:41Z
+2875	CLOSED	Git URL rewriting not working		2023-05-05T13:02:31Z
+2874	CLOSED	'NoneType' object has no attribute 'split' in parse_version		2023-05-04T18:18:13Z
+2873	CLOSED	Circular yaml import		2023-05-04T14:41:19Z
+2872	CLOSED	Testing fails when run from source tarball		2023-05-04T11:43:40Z
+2871	CLOSED	Could we have to possibility to write pre-commit.log to the stderr stream?		2023-05-03T23:41:33Z
+2870	CLOSED	Avoid unquoting weirdness of Windows for `language: r`	windows, good-first-issue, r	2023-05-17T22:20:37Z
+2869	CLOSED	Syntax error while installing		2023-05-03T14:21:06Z
+2868	CLOSED	AttributeError: module 'pre_commit.constants' has no attribute 'HOOK_TYPES'		2023-05-03T14:20:22Z
+2867	CLOSED	pre-commit timeout for semgrep		2023-05-02T19:26:27Z
+2865	CLOSED	pre-commit autoupdate (Windows), reports: `.pre-commit-hooks.yaml is not a file`	windows, upstream-bug	2024-07-31T21:52:54Z
+2864	CLOSED	Failure from DeprecationWarning on 'pipes'	upstream-bug	2023-05-02T03:38:26Z
+2862	CLOSED	Changes from pyupgrade hook not detected		2023-04-29T21:36:38Z
+2857	CLOSED	Environment Setup Performance Improvements		2023-04-29T04:19:56Z
+2856	CLOSED	Trying to run pre-commit with terra-docs results in failure		2023-04-28T13:01:25Z
+2855	CLOSED	Mac OS Ruby issues using cfn_nag fook		2023-04-28T03:19:58Z
+2853	CLOSED	Hook being skipped for file types it should match		2023-04-24T15:52:04Z
+2852	CLOSED	Allow hook_types execution per repo		2023-04-24T20:38:53Z
+2851	CLOSED	'pre-commit validate-config' works fine but pre-commit outputs warning		2023-04-24T14:46:20Z
+2850	CLOSED	Pre-commit fails to run when typed_ast needs to be built.		2024-03-08T15:35:00Z
+2849	CLOSED	use local executable wrapper option		2023-04-24T14:05:03Z
+2848	CLOSED	run all hooks against all files regardless of the hook stages argument		2023-04-23T14:58:35Z
+2847	CLOSED	cache pre-commit package itself		2023-04-19T12:54:35Z
+2842	CLOSED	An unexpected error has occurred: CalledProcessError		2023-04-10T06:01:43Z
+2841	CLOSED	Error: spawn E2BIG		2023-04-09T15:03:23Z
+2839	CLOSED	'FatalError: pre-commit failed to diff -- perhaps due to permissions?' after fixing line endings during a merge.		2024-07-08T09:40:06Z
+2838	CLOSED	An unexpected error has occurred: CalledProcessError: command: ('python', '-mpip', 'install', '.')		2023-04-06T12:21:18Z
+2837	CLOSED	fix-encoding-pragma hooks always fails		2023-04-04T12:41:04Z
+2835	CLOSED	SwiftLint doesn't compile on Swift 5.8		2023-04-04T13:27:39Z
+2832	CLOSED	Please upgrade Ruby build to get latest security fix versions		2023-04-29T17:03:20Z
+2831	CLOSED	autoupdate down grade poetry hooks version		2023-03-29T01:17:23Z
+2830	CLOSED	Fails to run when using tea		2023-03-27T13:21:12Z
+2829	CLOSED	pathspec error while initializing environment		2023-03-27T14:05:53Z
+2828	CLOSED	[Windows 11] Significant perf decrease using Powershell vs Ubuntu(WSL)		2023-04-19T15:57:51Z
+2826	CLOSED	Add `exclude_or` property		2023-03-22T14:05:28Z
+2825	CLOSED	Hook for running pre-commit on 'git add' rather than on 'git commit'		2023-03-21T12:54:23Z
+2823	CLOSED	Executable `rustup` not found		2023-03-25T18:00:26Z
+2822	CLOSED	List outdated hooks with autoupdate		2023-03-18T15:44:36Z
+2821	CLOSED	Documentation for python language is misleading		2023-03-17T19:57:34Z
+2819	CLOSED	Bro, the first line of the issue indicates why I'm trying to bring this up again, and why it's not helpful to flat out refuse to discuss something		2023-03-16T17:51:48Z
+2818	CLOSED	Support running hooks on all/only tracked files in the repo		2023-03-16T17:27:37Z
+2817	CLOSED	A way to report (on-disk) sizes of hooks		2023-03-16T00:11:05Z
+2816	CLOSED	additional_dependencies fails to install prettytable	upstream-bug	2023-03-15T14:31:50Z
+2814	OPEN	`_has_unstaged_config` check reports false negative if the config has been symlinked in place	feature	2023-12-04T20:33:32Z
+2813	CLOSED	SSLError when running `pre-commit` installed with conda on Windows 10		2024-01-14T14:30:15Z
+2812	CLOSED	pre-commit skipping trailing-whitespace checks on all files	invalid	2023-03-25T18:01:12Z
+2811	CLOSED	autoupdate downgrades a SHA to an older tag		2023-03-13T12:19:25Z
+2807	CLOSED	unexpected flag: --java-opt with a Coursier-based hook (dustinsand/pre-commit-jvm)	upstream-bug	2023-03-10T20:41:06Z
+2806	CLOSED	Somehow switch between hooks in pre-commit.ci and CLI, or skip some in each env		2023-03-09T20:15:08Z
+2804	CLOSED	Allow local dependency in additional_dependencies		2023-03-08T18:15:26Z
+2803	CLOSED	Add an option to test staged files without stashing unstaged changes		2023-03-07T23:23:30Z
+2802	CLOSED	Add if condition inside bash script		2023-03-07T13:52:14Z
+2800	CLOSED	pre-commit can`t install environment		2023-03-06T13:45:52Z
+2799	CLOSED	No such file or directory: '/github/home/.cache/pre-commit/repo4mrvfeou/rbenv-system/.install_state_v1staging'		2023-06-13T22:04:34Z
+2795	CLOSED	Pre-commit causing the index to report deleted files when core.fsmonitor enabled	upstream-bug	2023-07-31T06:37:33Z
+2794	CLOSED	Show hook output while it's executing		2023-03-03T15:08:27Z
+2792	CLOSED	Custom path `environment.yml`		2023-03-01T13:09:23Z
+2791	CLOSED	additional_dependencies: executable in a different language		2023-03-01T13:08:20Z
+2790	CLOSED	Improve speed by setting up environments in parallel		2023-03-01T13:08:51Z
+2789	CLOSED	Detect creation of new untracked files by hook		2023-02-28T19:18:20Z
+2787	CLOSED	Node language pre-commit do not work		2024-05-13T20:31:37Z
+2786	CLOSED	How to add files back to staging area after hook fail		2023-02-27T18:58:23Z
+2785	CLOSED	Allow dry-run of CLI autoupdate command		2023-03-06T13:46:49Z
+2784	CLOSED	Allow unstaged config		2023-02-27T15:02:54Z
+2783	CLOSED	pre-commit hook not working in local repository in both docker interactive shell and cmd when trying to git commit		2023-02-26T14:46:03Z
+2782	CLOSED	pre-commit hook not working in local repository in both docker interactive shell and cmd when trying to git commit		2023-02-26T14:45:45Z
+2781	CLOSED	pass files conditionally on changed files		2023-02-24T17:26:06Z
+2780	CLOSED	Problem with "python/python3" key		2023-02-24T15:29:26Z
+2779	CLOSED	Podman support by using docker api instead of the executable		2023-02-24T12:15:24Z
+2778	CLOSED	executables not found by pre-commit run in github codespace		2023-02-24T00:00:56Z
+2777	CLOSED	print warning when cannot find pre-commit command		2023-02-23T02:06:15Z
+2773	CLOSED	pre-commit can delete/revert unstaged files if error occurs during git diff-index	bug	2023-02-21T17:30:35Z
+2764	CLOSED	Don't work with unstaged files on Windows		2023-02-19T20:35:23Z
+2762	CLOSED	Cache does not work correctly when mounted as different users		2023-02-17T17:30:26Z
+2758	CLOSED	Remove cached installed by current repository		2024-04-02T16:54:20Z
+2757	CLOSED	Groovy-lint hook		2023-02-11T15:04:02Z
+2755	CLOSED	Unable to run try-repo with hook from repository using submodules	upstream-bug, invalid	2023-02-08T18:00:59Z
+2754	CLOSED	Feature Request (and offer to help): multiple configuration files		2023-02-08T16:04:52Z
+2753	CLOSED	How to install hooks for submodule?		2023-04-21T17:10:47Z
+2750	CLOSED	CI: Error in build process for GitHub Actions		2023-02-07T20:08:30Z
+2749	CLOSED	AttributeError: 'str' object has no attribute 'value'	upstream-bug	2023-02-06T03:53:10Z
+2745	CLOSED	Github blocked	question	2023-02-03T16:04:45Z
+2744	CLOSED	Skipped reason is wrong (no files instead of wrong stage)	invalid	2023-02-02T14:43:35Z
+2742	CLOSED	Binary file change by hook not detected due to Git textconv	bug	2023-02-14T00:57:46Z
+2739	CLOSED	/dev/null not found with pre-commit 3.0.2	bug, ruby	2023-02-01T23:22:33Z
+2738	CLOSED	Feature Request: Option to exclude all files in `.gitignore` and equivalents	question	2023-02-01T13:18:09Z
+2734	CLOSED	deprecate `python_venv` language	feature, cleanup, good-first-issue	2023-02-04T19:58:36Z
+2732	OPEN	make `stages` and `hook-type` match	feature, cleanup, good-first-issue	2023-12-04T20:36:45Z
+2731	CLOSED	Pinning transitive dependencies with lockfile/constraints		2023-01-30T13:42:41Z
+2730	CLOSED	allow pin Poetry		2023-02-01T19:02:59Z
+2724	CLOSED	Cache directory doesn't work after being moved		2023-01-27T15:30:29Z
+2722	CLOSED	command: `go install` fails with: error obtaining VCS status: exit status 128 while installing check		2024-02-18T14:28:05Z
+2721	CLOSED	New flag to run only against changed files in branch		2023-01-25T05:12:44Z
+2719	CLOSED	pre-commit CI force push of updates will remove subsequent commits on Pull Requests		2023-01-23T21:20:16Z
+2716	CLOSED	pre-commit image in their own Github package		2023-01-20T14:11:35Z
+2715	CLOSED	SQLFluff fails on Rule L003 in CI but not locally (using pre-commit hooks)		2023-01-20T13:43:32Z
+2714	CLOSED	pre-commit and PYTHONHOME		2023-01-19T21:04:14Z
+2712	CLOSED	Generate a pre-commit file coverage report	question	2023-01-18T21:16:29Z
+2711	CLOSED	[Q] Passing of initial git-hook arguments to the plugin	question	2023-01-18T19:49:36Z
+2710	CLOSED	Manually override cache in CI jobs		2023-01-18T13:01:28Z
+2698	CLOSED	issue with pip-audit		2023-01-16T07:46:21Z
+2696	CLOSED	Question: Can we disable PRE_COMMIT_COLOR from .pre-commit.config.yaml	question	2023-01-13T14:31:58Z
+2695	CLOSED	Autoupdate is not working for repos with maintenance branches		2023-01-13T13:42:17Z
+2694	CLOSED	Unstaged changes lost after CTRL+C spam		2023-01-12T20:46:13Z
+2693	CLOSED	Question: Show list of scanned files	question	2023-01-12T15:45:52Z
+2692	CLOSED	What is the best practice regarding tool version management.		2023-01-17T11:36:00Z
+2691	CLOSED	Using option --config with a configuration file not in root folder does not work with git commit	invalid	2023-01-13T13:45:56Z
+2690	CLOSED	pre-commit conflicts with tox virtualenv		2023-01-10T21:37:07Z
+2689	OPEN	2nd-class support Julia	feature	2023-12-04T20:37:47Z
+2688	CLOSED	Question: hook override file or similar personal configuration		2024-01-05T13:10:32Z
+2687	CLOSED	Are multiple fixes supported in CI?		2023-01-10T17:58:33Z
+2685	CLOSED	ParserError exception raised for invalid configuration	feature	2023-01-09T18:05:52Z
+2683	CLOSED	When i try to add gitleaks		2023-06-14T05:54:08Z
+2682	CLOSED	unable to find python version		2023-01-06T18:06:15Z
+2681	CLOSED	Using pre-commits with git-worktree and flutter results in unknown flutter versions		2023-01-06T18:35:50Z
+2680	CLOSED	Caching in docker		2023-01-08T14:46:50Z
+2679	CLOSED	Question: Is there a way to reference a config file when defining a hook		2023-01-05T19:57:17Z
+2678	CLOSED	mypy on pre-commit CI fails to install -> pre-commit app fails		2023-01-05T17:29:17Z
+2676	CLOSED	pre-commit tries to install the wrong version of flake8	invalid	2023-01-04T23:38:30Z
+2675	CLOSED	Built in review of file changes, or auto addition of modification ...		2023-01-04T13:41:04Z
+2670	CLOSED	Allow disabling autoupdate in `pre-commit.ci` GitHub app		2023-01-02T20:32:55Z
+2663	CLOSED	First tutorail in docs throws an error		2023-01-01T15:28:03Z
+2660	CLOSED	pre-commit run --all-files was working on uncommitted files	question	2022-12-29T15:26:37Z
+2659	CLOSED	Specifying additional_dependencies to work on Apple M1 silicon chip		2022-12-29T15:05:39Z
+2654	CLOSED	windows run path error		2022-12-27T04:21:11Z
+2653	CLOSED	Another proposal for allowing use of files from the repository		2022-12-26T18:33:17Z
+2652	CLOSED	Add new hook-level configuration		2022-12-24T20:36:41Z
+2650	CLOSED	Passing args to docker_image		2022-12-23T09:12:39Z
+2649	CLOSED	Make Go a first class language	feature, go	2023-01-24T19:35:09Z
+2648	CLOSED	Omit [WARNING] Unstaged files detected.		2022-12-22T18:29:02Z
+2647	CLOSED	install for https://github.com/pycqa/flake8 hangs		2022-12-20T23:24:19Z
+2645	OPEN	Adding powershell linter hook - best practice		2023-12-04T20:38:41Z
+2640	CLOSED	Proposal: make language_version more intuitive or create minimum_language_version		2022-12-14T16:33:23Z
+2639	CLOSED	Specify the working directories in which a hook is executed		2022-12-12T21:10:52Z
+2636	CLOSED	Undocumented Behavior		2022-12-07T16:39:16Z
+2633	CLOSED	Force Recreation of Hook Environments		2023-10-05T17:26:42Z
+2629	CLOSED	dotnet install fails for prefixed packages		2022-12-21T19:13:19Z
+2627	CLOSED	Add feature to warn quoted quotation for literal block via `validate-config`		2022-12-04T22:53:47Z
+2626	CLOSED	Cannot run pre-commit run --all-files		2022-12-04T17:03:44Z
+2625	CLOSED	Ability to run hooks in incremental-only mode		2022-12-02T16:36:52Z
+2624	CLOSED	Feature Request: Pre-Commit Config File per Folder		2022-12-02T16:02:50Z
+2622	CLOSED	pre-commit - pass_filenames for single file		2022-12-01T23:21:22Z
+2621	CLOSED	Add an option to pass absolute filenames to hooks		2022-12-01T15:44:06Z
+2620	CLOSED	Existing Node environment not detected correctly		2022-11-29T15:12:02Z
+2619	CLOSED	The pre-commit autoupdate ignores `default_language_version` when `autoupdate`		2022-12-01T11:32:06Z
+2617	CLOSED	No package metadata was found for pre-commit	upstream-bug	2023-06-05T12:23:30Z
+2615	CLOSED	option to share virtualenv and avoid duplicate files?		2022-11-26T21:15:02Z
+2614	CLOSED	pre-commit fails in pyproject.toml for pydocstyle on Ubuntu but not Mac with _ctypes not found		2022-11-25T18:00:30Z
+2612	CLOSED	hooks file, same entry(command) and 2 ids with different args		2022-11-28T18:39:36Z
+2611	CLOSED	Documentation Bug: The Regular Expression section uses redundant anchors in the example	invalid	2022-11-27T21:34:23Z
+2610	CLOSED	Pre-commit shallow cloning strategy fails to grab the tag (git itself does)		2022-11-23T01:30:17Z
+2609	CLOSED	The sdist is missing tox.ini		2022-11-22T13:06:54Z
+2607	CLOSED	GitLab CI Job Output Splits Lines	upstream-bug	2022-11-21T17:24:46Z
+2606	CLOSED	[INFO] Initializing environment for https://gitlab.com/pycqa/flake8.		2022-11-20T18:15:44Z
+2603	CLOSED	CalledProcessError: command: ('rbenv', 'init', '-')		2022-11-18T13:03:12Z
+2600	CLOSED	Allow `pre-commit run`'s `--to-ref` flag to support specifying the current index		2022-11-16T21:46:52Z
+2599	CLOSED	Rscript not found in Windows	bug, good-first-issue, r	2022-12-12T19:28:55Z
+2597	CLOSED	flake8 W504 after black formating		2022-11-15T17:25:03Z
+2596	CLOSED	pre-commit fails to install flake8 hook		2022-11-15T15:45:12Z
+2594	CLOSED	pre-push hooks are triggered conditionally when pushing a tag		2022-12-01T03:11:32Z
+2592	CLOSED	Prettier with additional dependencies doesn't find prettier		2022-11-11T16:34:13Z
+2589	CLOSED	Raise error if `--files` don't exist		2022-11-11T15:15:28Z
+2588	CLOSED	Hook execution order		2022-11-09T17:20:37Z
+2587	CLOSED	Pre-commit with flake8 hook fails when run on Python 3.7		2024-01-22T17:42:49Z
+2586	CLOSED	Pre-commit hook poetry-lock not using expected python runtime		2022-11-07T18:06:37Z
+2585	CLOSED	psf/black hook fails when black left all files unchanged?		2022-11-06T02:30:23Z
+2584	CLOSED	Condition for skipping a check		2022-11-05T14:36:38Z
+2583	CLOSED	Is there support for "hidden" yaml keys? If not, is there interest in having it?		2022-11-05T14:56:13Z
+2582	CLOSED	Support for `pre-rebase` Hook	feature, good-first-issue	2023-03-11T20:26:53Z
+2579	CLOSED	Tests fail with Git 2.38.1		2022-11-02T20:40:45Z
+2578	CLOSED	Allow pyproject.toml to define pre-commit config		2022-11-02T15:59:55Z
+2577	CLOSED	`$PRE_COMMIT_LOCAL_BRANCH` env only contains one tag when `git push --tags` with multiple tags		2022-11-07T07:23:00Z
+2575	CLOSED	[feature] Default options for every hook		2022-11-01T13:13:47Z
+2574	CLOSED	[Question]: Option to run pre-commit hooks on modified lines only		2024-08-16T20:44:05Z
+2572	CLOSED	Question: is possible to skip analysis files if only run command via pre-commit		2022-10-31T12:03:17Z
+2567	CLOSED	echo variable not running as expected in shell script while running pre-commit		2022-10-28T12:50:08Z
+2565	CLOSED	Supporting golang submodules		2022-10-28T13:20:33Z
+2563	CLOSED	Cannot run with python 11	invalid	2022-10-27T12:48:33Z
+2562	CLOSED	Feature Request: `list` subcommand to show all installed pre-commit hooks		2024-09-04T13:48:03Z
+2560	CLOSED	The implicit `:Z` flag on docker mount prevents use of podman on some drivers		2022-10-26T16:39:29Z
+2559	CLOSED	question (feature?): how to report a summary of hooks and languages for a given project?		2022-10-26T01:44:54Z
+2558	CLOSED	Problems with docker_image gitmodules and stages commit-msg		2023-11-21T01:04:33Z
+2557	CLOSED	Pre-commit fail after update ubuntu from 22.04 to 22.10		2022-10-25T12:50:30Z
+2556	CLOSED	Is there a way to know the pre-commit run on the whole repo (flag `--all`/`-a` provided)?		2022-10-25T22:58:18Z
+2554	CLOSED	Feature request: docker_image should mount volume same as docker	invalid	2022-10-20T13:41:44Z
+2553	CLOSED	Autoupdate chnages flake8 back to old version		2022-10-19T12:38:42Z
+2551	CLOSED	Idea: selectively enable / disable specific hooks		2022-10-17T12:04:17Z
+2550	CLOSED	YAML inherits usage / Ablility to suppress warning "Unexpected key(s) present ..."		2022-10-12T18:29:22Z
+2549	CLOSED	Pre-commit hook missing argument when running git commit or using Pycharm commit button		2022-10-12T12:42:17Z
+2548	CLOSED	Use defined git		2022-10-11T12:53:14Z
+2546	CLOSED	add some explanation docs for `types: [direcrory]` usage		2022-10-13T00:16:28Z
+2545	CLOSED	Win11: Codespell doesn't use Python interpreter from INSTALL_PYTHON		2022-10-07T18:38:00Z
+2544	CLOSED	pre-commit picks up files unchanged between HEAD and origin/HEAD in CI		2022-10-05T18:05:06Z
+2543	CLOSED	[autoupdate] Please consider using this command to get the latest tag in a repository		2022-10-05T12:06:08Z
+2542	CLOSED	Hooks which don't cause pre-commit to fail		2022-10-05T02:16:45Z
+2541	CLOSED	Failure when using check-hooks-apply and forbid-new-submodules together		2022-10-04T19:52:23Z
+2540	CLOSED	get_remote_url not compatible with new version of Git ?		2022-10-04T20:19:26Z
+2538	CLOSED	macOS + SmartGit + pre-commit = 💔	upstream-bug	2022-10-03T19:50:45Z
+2537	CLOSED	eslint works locally but fails on CI	invalid	2022-10-03T15:19:43Z
+2536	CLOSED	poetry add pre-commit fails to resolve dependencies	upstream-bug	2022-10-03T13:20:38Z
+2535	CLOSED	[Question] What is the suggested method for DRY single source of truth version dependencies between package and pre-commit configs?		2022-09-30T15:53:39Z
+2533	CLOSED	[question] How to get staged files parameter?		2022-09-29T21:01:33Z
+2532	CLOSED	Github authentication issue with private hooks repo in GH actions		2023-02-15T01:57:57Z
+2530	OPEN	ValueError on Windows when config is on a different drive than the git repo	bug, windows	2022-11-11T19:37:58Z
+2529	CLOSED	"Failed" is confusing		2023-11-24T19:52:48Z
+2525	CLOSED	Executable `python` not found when committing new file		2022-09-24T19:01:20Z
+2523	CLOSED	Only first remote branch available in environment variable PRE_COMMIT_REMOTE_BRANCH		2022-09-22T23:41:45Z
+2522	CLOSED	Support passing `args` when using `try-repo`.		2022-09-22T17:08:57Z
+2521	CLOSED	warnings for regexes don't apply to `repo: local`	feature, good-first-issue	2022-09-26T16:52:14Z
+2520	CLOSED	How activate venv by pre-commit before hock?		2022-09-20T09:49:01Z
+2518	CLOSED	Error during pre-commit initialization phase: `poetry.core.semver.exceptions.ParseConstraintError: Could not parse version constraint: (>=20.4.3`	upstream-bug	2022-10-04T12:28:04Z
+2517	CLOSED	Not working with all files	invalid	2022-09-18T21:11:25Z
+2515	CLOSED	Updating .pre-commit-config.yaml to exclude some file for cpplint, but not working.		2022-09-15T17:00:37Z
+2514	CLOSED	output mode replace cannot be used when configured with pre-commit		2022-09-12T19:47:40Z
+2513	CLOSED	Autoupdate attempts to update to pre-release tags		2022-09-12T16:24:11Z
+2512	CLOSED	Let user define branch to update from	upstream-bug	2022-09-12T12:33:19Z
+2511	CLOSED	--files does not take multiple files with wildcard		2022-09-11T12:48:20Z
+2510	CLOSED	Question: How best to use pre-commit tools with an IDE?	question	2022-09-15T16:17:34Z
+2509	CLOSED	Unable run Docker lang with Podman on Mac	upstream-bug	2022-09-09T12:04:56Z
+2508	CLOSED	Let hook authors define branch to update from	upstream-bug	2022-09-09T12:06:56Z
+2507	CLOSED	pre-commit autoupdate changes poetry 1.2.0 to poetry 1.2.0rc1		2022-09-08T12:37:13Z
+2505	CLOSED	[Request] Load Rust environment for Rust hooks without a `Cargo.toml` file		2022-09-01T18:21:03Z
+2504	CLOSED	An unexpected error has occurred: OSError: [Errno 22] Invalid argument		2022-09-22T23:44:33Z
+2503	CLOSED	Bug during installing environment		2022-08-26T11:09:27Z
+2502	CLOSED	Strip basic auth from cache database repo URL		2022-08-26T15:17:24Z
+2501	CLOSED	Cannot pass arguments to black hook		2022-08-25T14:41:36Z
+2500	CLOSED	Does autoupdate respect the language version, or will it update to an incompatible rev?		2022-08-25T14:18:36Z
+2499	CLOSED	pre-commit run --all-files only runs on staged files (re-occurrence of error?)		2022-08-25T22:32:17Z
+2498	CLOSED	Custom network with language: Docker	question	2023-08-14T12:42:21Z
+2497	CLOSED	Don't resolve symbolic links to e.g. bash on installation time	upstream-bug	2022-08-23T14:02:36Z
+2496	CLOSED	RuntimeError: failed to find interpreter for Builtin discover of python_spec='python3.7m'		2022-08-23T14:08:41Z
+2494	CLOSED	Commitizen(commit-msg) duplicate entries in output	question	2022-08-26T12:59:02Z
+2493	CLOSED	dependencies issue for custom python code		2022-08-23T15:02:25Z
+2492	CLOSED	file-contents-sorter `files:` pattern does not override default	invalid	2022-08-21T18:12:46Z
+2491	CLOSED	pre-commit autoupdate fails on psf/black update		2022-09-28T22:32:49Z
+2490	CLOSED	No files to check		2022-08-19T22:39:26Z
+2487	CLOSED	pre-commit hook for eslint working locally but not in ci : additional_dependencies not found		2024-05-10T16:18:24Z
+2486	OPEN	pre-push should forbid unrelated staged changes while pushing	bug	2023-03-28T16:46:15Z
+2483	CLOSED	Do not install developer dependencies for NodeJS		2022-08-15T14:46:55Z
+2481	CLOSED	Defer environment installation if hook would be skipped		2022-08-12T14:56:33Z
+2478	CLOSED	SKIP skips invocation by alias but doesn't skip "Installing environment"		2022-08-11T20:50:16Z
+2477	CLOSED	Pre-commit asking for Github Credentials on "pre-commit run" etc		2022-08-09T23:59:28Z
+2476	CLOSED	Feature request: Ability to suppress warning message when config is missing and --skip-on-missing-config is used		2022-08-10T00:01:02Z
+2473	CLOSED	Stashed changes lost after `git add` while `pre-commit` was running		2022-07-30T21:17:09Z
+2472	CLOSED	[proposed python, question] Should I exclude venv		2022-07-30T13:36:20Z
+2471	CLOSED	Ability to override hook options when using pre-commit run	question	2022-07-28T18:58:30Z
+2470	CLOSED	Is there any way to have a global, default config?	question	2022-07-27T20:43:41Z
+2469	CLOSED	Add shellcheck disable for git hooks pre-commit not found message	invalid	2022-07-26T20:04:10Z
+2468	CLOSED	docker_image in docker container: AssertionError: Docker is either not running or not configured in this environment	question	2022-07-26T13:33:09Z
+2465	CLOSED	Prettier EOF newline mysterious removed	question	2022-07-25T16:29:51Z
+2464	CLOSED	[FEATURE PROPOSAL] Use `dulwich` instead of calling to subprocess		2022-07-22T12:23:33Z
+2463	CLOSED	stuck in [INFO] Initializing environment for git@github.com:realm/SwiftLint.git.		2022-07-21T11:52:42Z
+2462	CLOSED	(:trollface:) issues keep getting closed for no reason		2022-07-21T01:51:37Z
+2461	CLOSED	post-merge doesn't seem to find files to check		2023-10-09T10:23:38Z
+2458	CLOSED	ansible-lint python package gets installed incorrectly	upstream-bug	2022-07-12T18:02:15Z
+2457	CLOSED	Howto pass a volume with env variable in language docker_image	question	2022-07-12T17:12:32Z
+2456	CLOSED	(feat): Pre-Commit Profiles (Distribution)		2022-07-12T12:01:51Z
+2452	CLOSED	pre-commit base directory is git root instead of directory contains .pre-commit-config.yaml	question	2022-07-09T21:06:43Z
+2451	CLOSED	Python 3.11 improved tracebacks break the tests		2022-07-10T00:30:59Z
+2450	CLOSED	pre_commit/util.py:72 read_text / :68 open_binary is deprecated. Use files() instead		2022-07-10T18:20:34Z
+2449	CLOSED	Changing default config location for pre-commit run	question	2022-07-08T18:23:28Z
+2448	CLOSED	Empty .git/hooks/pre-commit.legacy File causes OSError		2023-03-01T13:10:26Z
+2447	CLOSED	Remove need for stub package metadata in `additional_dependendencies` hooks.		2022-07-08T13:16:40Z
+2445	CLOSED	SSLError on conda and Windows 10	windows, upstream-bug	2022-11-14T17:44:42Z
+2444	CLOSED	question: enforce installed hooks to be up to date		2022-07-06T12:28:58Z
+2443	CLOSED	Cannot override default 'files' option in hook		2022-07-06T12:04:05Z
+2442	CLOSED	Emojis for `black` Not Working	upstream-bug	2022-08-05T17:31:59Z
+2441	CLOSED	Pre-receive hook failed	question	2022-11-09T16:14:53Z
+2438	CLOSED	pre-commit run error: Running error: linter "gci" can't be disabled and enabled at one moment	question	2022-07-03T15:08:02Z
+2437	CLOSED	Feature Request: Add to Documentation for `require_serial`		2022-07-02T19:57:48Z
+2436	CLOSED	pre-commit run An unexpected error has occurred: CalledProcessError	upstream-bug	2022-07-02T15:06:04Z
+2435	CLOSED	Bad UX when patch can not be reapplied after stash		2022-07-01T16:23:28Z
+2434	CLOSED	[idea]: Support Cache for Github Actions CI/CD ✨		2022-06-30T19:26:15Z
+2433	CLOSED	Node hook install failures		2022-06-30T16:14:37Z
+2432	CLOSED	No way to tell pre-commit to run isolated on commit	question	2022-06-29T16:39:32Z
+2431	CLOSED	[question] How to pass login/password to git hook?		2022-06-26T11:38:00Z
+2430	CLOSED	pre-commit on stopped working when I upgraded to git version 2.36.1.windows.1		2022-06-24T17:17:05Z
+2428	CLOSED	Installing hook environments fails	upstream-bug	2022-06-21T21:59:30Z
+2427	CLOSED	Access input file names in system hooks?	question	2022-06-20T15:04:40Z
+2426	CLOSED	files filter does not match .tcc file (C++ template file)		2022-06-17T15:31:24Z
+2425	CLOSED	Loss of changes.		2022-06-16T22:50:26Z
+2424	CLOSED	Better support for diff calculation for rebase workflow		2024-04-11T12:42:50Z
+2423	CLOSED	more open source funding available from Gitpod		2022-07-12T18:13:36Z
+2420	CLOSED	Private hook repo authentication issue	question	2022-06-13T22:13:32Z
+2419	CLOSED	Problem running after installing, FileNotFoundError: [Errno 2]		2022-06-12T13:35:47Z
+2418	CLOSED	Relationship between `stages` and `hook-type`	question	2022-06-11T15:19:52Z
+2417	CLOSED	"DLL load failed while importing _ctypes" conda with python 3.10		2022-06-11T00:21:16Z
+2416	CLOSED	inconsistent result on pre-commit.ci and local machine(macOS)		2022-06-10T17:22:05Z
+2415	CLOSED	Cannot commit on windows, some kind of python error	windows, upstream-bug	2022-06-09T12:43:45Z
+2414	CLOSED	unstaged stashed files not applied, thinks there is a new file		2022-06-07T02:02:20Z
+2413	CLOSED	Ignore individual test fail, just report the failure.	question	2022-06-04T02:55:03Z
+2412	CLOSED	Possibility to add additional volumes/environment variables when running `docker` hook	question, docker	2022-06-02T15:34:56Z
+2411	CLOSED	import yaml ModuleNotFoundError: No module named 'yaml'	question, invalid	2023-11-09T22:12:32Z
+2409	CLOSED	virtualenv python version did not match created version (MacOS)	osx, upstream-bug	2022-10-11T15:15:12Z
+2408	CLOSED	Docker Image based hook fails cache creation	question, upstream-bug, docker, invalid	2022-05-29T17:10:44Z
+2406	CLOSED	prepare-commit-msg Not passing all parameters		2022-06-11T18:56:13Z
+2405	CLOSED	feature: add `all_files` option to hooks		2022-05-26T21:44:01Z
+2404	CLOSED	[ROF] Machine-readable output		2022-05-25T12:03:45Z
+2403	CLOSED	BUG: expected environment for python to be healthy() immediately after install		2022-05-24T12:01:37Z
+2402	CLOSED	Node/Npm hooks still fails in Windows		2022-09-12T11:43:22Z
+2401	CLOSED	Error message: .pre-commit-config.yaml is not a file		2023-02-14T13:43:36Z
+2400	CLOSED	Exclude option feature requests/changes		2022-05-20T05:57:08Z
+2399	CLOSED	Feat: Allow overriding plugin args on commandline		2022-05-20T12:06:00Z
+2398	CLOSED	Bandit Pre-commit hook		2022-05-20T20:35:26Z
+2397	CLOSED	pre-commit post-rewrite failure ends with detatched head		2022-05-16T12:35:04Z
+2396	CLOSED	Add support for TypeScript check (tsc)		2022-05-16T12:04:16Z
+2395	CLOSED	Only install relevant virtual env when specific hook is invoked		2022-05-16T18:41:05Z
+2394	CLOSED	Suggestion: Better documentation/error-messages with `try repo` `--commit-msg-filename`		2022-05-15T15:41:42Z
+2392	CLOSED	autoupdate doesn't update versions of additional_dependencies		2022-05-14T12:31:37Z
+2391	CLOSED	Tests fail on systems configured for default branch other than master		2022-05-15T02:21:07Z
+2389	CLOSED	pre-commit hooks having execution problems on solaris (smartos)		2022-05-14T13:38:52Z
+2388	CLOSED	Feature Request: Support for HTML Tidy		2022-05-11T17:42:40Z
+2386	CLOSED	pre-installing additional_dependencies before the main hook package	upstream-bug	2022-05-09T12:28:08Z
+2385	CLOSED	AssertionError: BUG: expected environment for python to be healthy() immediately after install.		2022-07-29T15:19:24Z
+2383	CLOSED	Ruby hooks cannot be installed when `gem` is globally configured with `--user-install`	ruby	2022-05-07T21:28:32Z
+2382	CLOSED	Idea: support a way to execute a command in a repo environment		2022-05-07T15:00:34Z
+2380	CLOSED	No colors output text		2022-05-06T17:05:33Z
+2378	CLOSED	pre-commit install-hooks should run without git tree		2022-05-09T04:26:22Z
+2377	CLOSED	Create a Docker image for this application		2022-05-05T19:25:22Z
+2376	CLOSED	Namespace clash with `inspect` package	invalid	2022-05-05T13:07:53Z
+2374	CLOSED	expected environment for python to be healthy() immediately after install		2022-05-04T18:44:44Z
+2373	CLOSED	pre-commit errors on libsonnet, tf and tfvars files.	question, invalid	2022-05-04T16:03:11Z
+2372	CLOSED	Support for `.yml` file extension		2023-01-24T04:12:28Z
+2371	CLOSED	using pre-commit install from WSL	windows, question	2024-03-25T15:29:24Z
+2369	CLOSED	Suggestion: Make pre-commit output easier to parse by problem matchers	question	2022-05-02T11:30:14Z
+2368	CLOSED	Adding `pip-audit` fails with pre-commit.ci due to `pip` support		2022-05-01T17:14:17Z
+2367	CLOSED	Feature Request: Set environment variables for hooks in .pre-commit-config.yaml	question	2023-12-13T16:08:09Z
+2366	CLOSED	Autoupdate inconsistency		2022-04-27T15:31:42Z
+2365	CLOSED	Support --from-ref and --to-ref for hook-stage commit-msg	question	2022-04-27T12:38:25Z
+2364	CLOSED	pre-commit autoupdate will downgrade if tagging scheme changes	question	2022-04-26T20:24:55Z
+2363	CLOSED	BUG: expected environment for python to be healthy() immediately after install	upstream-bug	2022-09-27T12:03:31Z
+2361	CLOSED	Flake8 --per-file-ignores critical error in pre-commit #757	question, invalid	2022-04-24T18:40:07Z
+2360	CLOSED	Limit hook runtime		2022-04-24T14:59:33Z
+2359	CLOSED	Idea: Pre-commit hook which runs `pre-commit autoupdate`		2022-04-24T02:45:44Z
+2358	CLOSED	Secret handling / loading / passing to hooks		2022-04-23T19:57:40Z
+2357	CLOSED	Multi-language additional_dependencies	question	2022-04-24T14:40:21Z
+2356	CLOSED	pre-commit with git hooks do not show proper colours in terminal	upstream-bug	2022-07-01T12:06:53Z
+2355	CLOSED	Question: Can you specify the (python) environment where e.g. black is installed?		2022-04-22T12:37:16Z
+2354	CLOSED	Apparently similar to issue 1458 but without conda-forge (ref: pre-commit repeatedly installs environments when nothing has changed #1458)		2022-11-22T16:30:04Z
+2352	CLOSED	GitLab CI – git unsafe repository		2022-04-20T15:01:05Z
+2351	CLOSED	pre-commit ts-lint fails in pipeline		2022-04-20T13:48:04Z
+2350	CLOSED	Error installing environment		2022-04-19T02:22:22Z
+2347	CLOSED	Required a parameter `condition` on .pre-commit-config.yaml when config hooks	question	2022-06-17T09:32:54Z
+2346	CLOSED	Add modified files to the index.	question	2022-04-14T22:57:36Z
+2344	CLOSED	pre-push hook failed with "ValueError: too many values to unpack (expected 4)"		2022-04-14T22:17:56Z
+2341	CLOSED	How to activate Python venv before running pre-commit?	upstream-bug	2022-04-13T14:40:01Z
+2338	CLOSED	Support `repos` argument for `pre-commit clean`		2022-12-27T17:15:44Z
+2337	CLOSED	Ability to include additional hooks	question	2022-04-11T10:42:31Z
+2336	CLOSED	update to Python 3.10, pre-commit fails	upstream-bug	2022-09-07T12:04:28Z
+2335	CLOSED	allow yaml !include to have a distributed config file	question	2022-04-08T20:40:46Z
+2334	CLOSED	golang not installed when installing gitleaks	question	2022-04-07T16:30:30Z
+2333	CLOSED	Argument list splitting seems off by one	question, invalid	2022-04-07T14:55:35Z
+2331	CLOSED	[pre-commit.ci] Provide a way to opt-out the autoupdate PR		2022-04-06T06:37:23Z
+2330	CLOSED	precommit for elixir monorepo	question	2022-04-06T14:32:47Z
+2328	CLOSED	Feature request: add a way to handle multiple fixers which modify the same files and need to run twice to converge	question	2022-04-08T15:50:35Z
+2327	CLOSED	too many knobs and switches: sane-default-config	question	2022-04-04T17:19:18Z
+2326	CLOSED	Bandit: wrong version in `dist-info`	upstream-bug	2022-04-03T15:06:43Z
+2325	CLOSED	Very poor color contrast with dark themes. Potential fixes included.		2022-04-03T23:54:04Z
+2321	CLOSED	Does not recognise `async` with Python		2022-04-01T12:33:00Z
+2320	CLOSED	Docs Request: --color auto vs always	question	2022-03-31T22:39:11Z
+2318	CLOSED	feature request: add `activate` params for python based module	question	2022-03-31T16:04:59Z
+2317	CLOSED	How to run/configure pre commit on specific folder?	question	2023-07-10T12:43:53Z
+2316	CLOSED	Feature request: Allow custom install for system hooks		2024-02-26T06:06:17Z
+2314	CLOSED	pre-commit requires system-installed dotnet	question	2022-03-30T15:14:31Z
+2313	CLOSED	[FR] - command to install all defined hooks at once	question	2022-03-30T13:27:50Z
+2311	CLOSED	tags_only autoupdate picks first (alphabetical?) tag when multiple on SHA	feature	2022-03-31T15:13:45Z
+2310	CLOSED	pre-commit doesn't lock dependencies	question	2022-03-28T22:41:48Z
+2309	CLOSED	pre-commit + black no longer working bc pre-commit does not lock dependencies	upstream-bug	2022-03-28T21:13:54Z
+2308	CLOSED	pre-commit on macos using invalid option for declare	upstream-bug	2022-08-20T22:00:34Z
+2307	CLOSED	Command `run` should allow external `diff` drivers on `--show-diff-on-failure`	question	2022-03-28T17:13:36Z
+2306	CLOSED	`pre-commit` not found. Did you forget to activate your virtualenv?- using RHEL	question	2024-05-08T12:38:33Z
+2305	CLOSED	go: command not found in pre-commit environment	question	2022-03-26T08:26:10Z
+2303	CLOSED	question: implementing a pre-commit hook configuration with an extras requirement	question	2022-03-25T05:48:28Z
+2300	CLOSED	RScript location not always correct	bug, r	2022-04-02T19:37:21Z
+2299	CLOSED	Installing precommit hooks fails due to non-existent python bin	upstream-bug	2022-10-16T12:10:54Z
+2298	CLOSED	[un]install doesn't work with hooks for specific stages	question	2022-03-21T23:01:06Z
+2296	CLOSED	How can you run against a specific commit?		2022-03-21T18:43:50Z
+2295	CLOSED	pre-commit causes `git rev-parse --show-toplevel` to return $PWD in worktrees		2022-03-22T09:15:01Z
+2294	CLOSED	override `language` in `.pre-commit-config.yaml`	question	2022-03-19T22:52:04Z
+2292	CLOSED	"pre-commit install" should install all necessary hooks		2022-03-16T14:20:45Z
+2291	CLOSED	pre-commit auto update is not setting latest tag of repository	question	2022-03-15T17:51:16Z
+2290	CLOSED	Checking commit ranges with `commit-msg` hooks		2022-04-27T14:08:10Z
+2289	CLOSED	Feature Request: ability to invoke a different pre-commit config	question	2022-03-15T02:13:08Z
+2287	CLOSED	Pre-commit does not always automatically re-apply patch when stopped with Ctrl-C		2022-04-04T13:12:37Z
+2286	CLOSED	Pre-commit tries to use python 3.9 instead of 3.10		2022-03-14T09:57:58Z
+2284	CLOSED	Option to concatenate ``args``	question	2022-03-13T15:27:42Z
+2282	CLOSED	Add hook id to the console output of hooks		2022-03-22T20:30:42Z
+2281	CLOSED	push does not triggers pre-commit hooks	question	2022-04-20T21:06:50Z
+2280	CLOSED	How to handle dynamic configuration	question	2022-03-10T15:26:56Z
+2279	CLOSED	feat discussion/req: customizable 'skipped' exit code for hook	question	2022-03-09T22:08:01Z
+2278	CLOSED	'check-yaml' hook does not support '!reference' tag		2022-03-08T17:22:10Z
+2276	CLOSED	BUG: expected environment for python to be healthy() immediately after install, please open an issue describing your environment		2022-03-09T22:49:38Z
+2275	CLOSED	Run hooks on files in specific directory	question	2022-03-31T18:40:17Z
+2274	CLOSED	Idea: Can verbose mode be augmented to spit out the full command line that is executed?	question	2022-03-04T20:46:18Z
+2273	CLOSED	Inserting flags before each file when passing file list to a hook?	question	2022-03-04T20:31:16Z
+2271	CLOSED	Add GIT_HTTP_PROXY_AUTHMETHOD to kept environment variables		2022-03-05T23:26:51Z
+2270	CLOSED	An unexpected error has occurred: AssertionError: BUG: expected environment for python to be healthy() immediately after install, please open an issue describing your environment	upstream-bug	2022-10-31T16:54:04Z
+2269	CLOSED	Consider renaming SKIP to PRE_COMMIT_SKIP		2022-03-05T08:46:44Z
+2268	CLOSED	pre-commit Passed badge has very poor contrast (gray on green)	question	2022-03-04T14:12:21Z
+2267	CLOSED	undefined behavior with multiple pyproject.toml	upstream-bug	2022-03-04T03:47:44Z
+2265	CLOSED	Running autoupdate hangs for about 5-10 minutes for each repo	question	2022-03-02T21:40:30Z
+2263	CLOSED	Pre-commit does not work on Windows using Pip v22	upstream-bug	2022-03-02T16:25:06Z
+2262	CLOSED	`path` field in hook definition?	question	2022-03-02T09:26:39Z
+2261	CLOSED	Change location of .pre-commit-config.yaml?	question	2022-03-01T16:45:10Z
+2260	CLOSED	Avoid Python minor version in hook scripts shebangs	question	2022-03-01T16:23:55Z
+2259	CLOSED	Trying to use repository local hook, but the executable is not being found	question	2022-02-25T21:40:25Z
+2258	CLOSED	Can't find git in WSL2	question	2022-02-24T14:51:13Z
+2257	CLOSED	Using pre-commit to insert a license header	question	2022-02-23T04:19:52Z
+2256	CLOSED	Feature Implmentation: Summary info optionally output in JSON format		2022-03-09T22:03:39Z
+2254	CLOSED	pre-commit run failed with no gcc		2022-02-22T05:39:24Z
+2251	CLOSED	Make copy-paste easier with wording of "Stashing unstaged files" message	question	2022-02-18T16:29:19Z
+2250	CLOSED	pre-commit autoupdate --freeze with oxipng breaks	question	2022-02-17T18:59:10Z
+2249	CLOSED	question: steps to change working directory with or without args		2022-02-17T14:00:21Z
+2248	CLOSED	Not able to run the hooks on python locally using pre-commit try-repo	question	2022-02-18T03:18:11Z
+2247	CLOSED	feature: Skip some hooks when using `--all-files`		2022-02-18T03:32:59Z
+2246	CLOSED	Weird error even after chsh -s /bin/bash	upstream-bug	2022-02-14T22:05:30Z
+2245	CLOSED	pre-commit install silently fails when running in git-bash	upstream-bug	2022-02-16T21:22:19Z
+2244	CLOSED	Pre-commit doesn't support comma separated files list	question	2022-02-11T12:13:53Z
+2243	CLOSED	Switch to `tomli`		2023-05-16T20:06:16Z
+2241	CLOSED	How can I use MonkeyType with pre-commit?	question	2022-02-09T17:18:56Z
+2240	CLOSED	feature request: mode to exit 0 if only autofixes were triggered	question	2022-02-09T17:43:56Z
+2239	CLOSED	git commit fails to install environment in a git repo	question	2022-02-18T14:36:27Z
+2238	CLOSED	SQLFluff dbt | Additional properties are not allowed ('seed-paths', 'model-paths' were unexpected).	upstream-bug	2022-02-07T13:31:35Z
+2237	CLOSED	Go pre-commit hooks and environment variables	question	2022-02-05T00:31:24Z
+2236	CLOSED	Skipping the creation of inaccessible environments	question	2022-02-05T00:29:17Z
+2235	CLOSED	Alternative to stashing files for testing	question	2022-02-04T20:30:28Z
+2234	CLOSED	Paths containing braces are causing problems	upstream-bug	2022-02-03T00:30:09Z
+2233	CLOSED	Global hook to detect pre-commit config per repo and run if present	question	2022-02-07T19:54:25Z
+2232	CLOSED	auto-update the repo URL	question	2022-02-02T20:31:04Z
+2231	CLOSED	Skipping all hooks (without using --no-verify)	question	2022-02-02T14:03:57Z
+2230	CLOSED	Unexpected version picked by pre-commit autoupdate	question	2022-02-02T00:43:08Z
+2229	CLOSED	[Help] Error While Running from VSCode Devcontainer	upstream-bug	2022-02-01T19:41:25Z
+2228	CLOSED	Overriding hook arguments	question	2022-02-01T05:45:18Z
+2226	CLOSED	tag stage	question	2022-01-30T15:42:55Z
+2225	CLOSED	File not found error when running pre-commit under py3.10	upstream-bug	2022-02-05T12:12:14Z
+2224	CLOSED	ImportError: cannot import name 'SourceDistribution' from 'pip._internal.distributions.source'.	upstream-bug	2022-01-25T16:49:10Z
+2223	CLOSED	Machine-readable output?	question	2022-01-25T13:54:22Z
+2222	CLOSED	Selecting by extension not working	question	2022-01-25T15:09:14Z
+2220	CLOSED	Support for using pre-commit when hook is part of a submodule		2022-01-24T14:53:00Z
+2219	CLOSED	Improve message for `pre-commit install`	question	2022-01-24T17:38:12Z
+2217	CLOSED	FR: set the cache path in the .pre-commit-config.yaml file	question	2023-04-21T19:45:35Z
+2214	CLOSED	Failed to build gem native extension.	upstream-bug	2022-01-17T16:27:55Z
+2213	CLOSED	An unexpected error has occurred: CalledProcessErrorv (git, submodule, ...)	upstream-bug	2022-01-18T11:39:51Z
+2212	CLOSED	Autoupdate to correct references of "git://github.com/"	question	2022-01-17T19:58:20Z
+2211	CLOSED	ImportError: cannot import name 'html5lib' in Python 3.10	upstream-bug	2022-01-17T05:10:04Z
+2209	CLOSED	`pre-commit try-repo` -> `fatal: reference is not a tree`	upstream-bug	2022-01-19T09:24:59Z
+2206	CLOSED	end-of-file-fixer add always a new line for .gitignore files		2022-01-24T22:10:10Z
+2204	CLOSED	Allow to `mamba install` environments	question	2023-01-19T09:12:23Z
+2202	CLOSED	configuration with stages: ["commit-msg"] and pass_filenames: false should error	question	2022-01-11T23:34:02Z
+2201	CLOSED	Idea: pre-commit lockfile	question	2022-01-11T21:48:07Z
+2200	CLOSED	Support git subtree (or: support sub-config files)	question	2022-01-11T13:38:20Z
+2199	CLOSED	pre-commit checks get failed with "reorder_python_imports" traceback	upstream-bug	2022-01-11T13:34:47Z
+2197	CLOSED	SSL: CERTIFICATE_VERIFY_FAILED	question	2022-01-10T15:50:14Z
+2196	CLOSED	legacy_hook, ExecutableNotFoundError: on Windows		2022-01-10T14:13:00Z
+2195	CLOSED	[Question] tags for run hooks		2022-01-09T22:20:00Z
+2194	CLOSED	Question: Run a hook against all the files of the repo	question	2022-01-11T14:13:30Z
+2193	CLOSED	prettier args		2022-01-08T18:06:50Z
+2192	CLOSED	Add ability to skip hook based on platform	question	2022-01-06T14:05:07Z
+2190	CLOSED	Using log_file in hooks causes error if files parent directories don't exist	question	2022-01-05T19:21:35Z
+2189	CLOSED	PRE_COMMIT_HOME with user home directory (~) is not expanded	question	2022-01-05T19:19:27Z
+2188	CLOSED	Use pyproject.toml for configuring pre-commit		2022-01-05T19:02:13Z
+2186	CLOSED	Permit to pass file list as environnment parameters	question	2022-01-05T13:52:11Z
+2185	CLOSED	Problematic docs for black use	upstream-bug	2022-01-04T21:19:31Z
+2184	CLOSED	Inspecting the index using GitPython		2022-01-07T14:20:54Z
+2182	CLOSED	doesn't work in visual studio 2019 on Windows	bug, windows	2022-01-06T14:05:47Z
+2180	CLOSED	Add documentation on how to use the identity hook	question	2023-02-27T15:44:35Z
+2179	CLOSED	run -v should provide file search information for easy troubleshooting	question	2022-01-01T00:52:28Z
+2178	CLOSED	New version of virtualenv causes ModuleNotFoundError: No module named 'setuptools'	upstream-bug	2022-01-05T15:37:49Z
+2176	CLOSED	ci: PR description not updated when a PR is updated		2021-12-27T17:33:50Z
+2174	CLOSED	Hook for Post-Merge stage when a file changes does not work	question	2022-01-01T01:32:01Z
+2173	CLOSED	First-class Podman support		2021-12-24T22:50:05Z
+2172	CLOSED	How I can know the pre-commit arguments inside a hook	question	2021-12-24T20:37:23Z
+2171	CLOSED	Local pre-commit hook for Rust dependency stylua results in "Executable `stylua` not found"	question	2021-12-24T21:07:47Z
+2168	CLOSED	`pre-commit` disregards `--git-dir` flag		2021-12-23T16:35:20Z
+2162	CLOSED	No support for multi-user environments or non-local home directories	question	2021-12-15T22:05:41Z
+2160	CLOSED	Conda | Activate environment for hooks	question	2021-12-13T16:24:44Z
+2159	CLOSED	Get cache path of hook repo	question	2021-12-13T17:56:46Z
+2157	CLOSED	Question: Migration from lint-staged	question	2021-12-11T16:15:05Z
+2156	CLOSED	Question: proper/generic way to stash->format staged code->pop-stash		2021-12-09T20:43:02Z
+2155	CLOSED	Please consider renaming this project to avoid confusion with pre-commit (the hook)		2021-12-09T17:44:46Z
+2153	CLOSED	No module named pre_commit	upstream-bug	2022-07-17T08:48:09Z
+2151	CLOSED	More on warnings for regular expressions	good-first-issue	2021-12-05T19:44:48Z
+2150	CLOSED	running pre-commit fails with `AttributeError: 'dict' object has no attribute 'select'`	upstream-bug	2021-12-02T16:36:36Z
+2149	CLOSED	pre-commit run allow multiple hook ids as positional args	question	2021-12-02T17:31:32Z
+2148	CLOSED	Question: how to handle partial commits?	question	2021-12-02T01:49:21Z
+2147	CLOSED	Question: how to handle partial commits?	question	2021-12-01T22:13:25Z
+2146	CLOSED	Run hook only if specific files has changed	question	2021-12-03T17:42:29Z
+2144	CLOSED	Feature request: pre-commit run check-only mode	question	2023-06-26T13:37:18Z
+2143	CLOSED	[Feature Request] : Allow to mark (tag) actions and execute them selectively according to their markers (tags).	question	2021-11-28T22:39:39Z
+2142	CLOSED	[Feature Request]: Show aliases (`--show-aliases`)	question	2021-11-28T20:37:43Z
+2141	CLOSED	InvalidManifestError .pre-commit-hooks.yaml is not a file	question	2022-12-16T21:00:41Z
+2140	CLOSED	pre-commit.ci — run manual tasks?	question	2021-11-25T03:07:20Z
+2139	CLOSED	Environment installation failing on python 3.10	upstream-bug	2021-11-24T18:35:24Z
+2133	CLOSED	[NEW FEATURE] python-local-venv language to run hooks in the same venv as pre-commit is running	question	2021-11-20T22:12:13Z
+2132	CLOSED	[Question] pre-commit running pip-compile across multiple operating systems		2021-11-18T19:14:56Z
+2131	CLOSED	Question: are you open to have pre-commit fetch the rev from poetry.lock?		2021-12-22T22:35:20Z
+2130	CLOSED	Does it clash when you use black and isort together?	question	2021-11-28T01:34:03Z
+2128	CLOSED	Warn About or Forbid Duplicate IDs	question	2021-11-15T03:11:02Z
+2127	CLOSED	pre-commit fail to restore unstaged files		2021-11-13T05:49:47Z
+2126	CLOSED	try-repo fails due to "/tmp/tmp2fv85ecw/repo18pkus5m/.pre-commit-hooks.yaml is not a file"		2021-12-18T17:50:35Z
+2125	CLOSED	Document how to run pre-commit outside a git repo		2024-07-31T21:20:31Z
+2124	CLOSED	Local entry with relative path attempts using /bin/sh in powershell	question	2021-11-11T17:11:34Z
+2123	CLOSED	Dry run mode (printing warning vs. interrupting the commit)		2021-11-10T15:38:30Z
+2122	CLOSED	ModuleNotFoundError: No module named 'pkg_resources' when installing environment	javascript, upstream-bug	2023-11-25T01:54:30Z
+2121	CLOSED	Question: Why did you go for YAML?	question	2021-11-05T13:02:50Z
+2120	CLOSED	pre-commit and pylint installed as dev dependencies with poetry. Is this the right approach?	question	2021-11-03T19:48:21Z
+2117	CLOSED	Git protocol issue	question	2021-11-02T18:52:12Z
+2116	CLOSED	Ref range parameters pass incorrect argument to git		2021-11-02T15:10:56Z
+2113	CLOSED	[QUESTION] ``additional_dependencies`` and current project extras		2021-10-29T15:02:16Z
+2112	CLOSED	pre-commit autoupdate not picking latest flake8 since master -> main	question	2021-10-29T13:04:44Z
+2110	CLOSED	Multiline Regular Expression failing to match correctly	question	2021-10-28T18:02:04Z
+2109	CLOSED	[INVALID]		2021-10-28T11:17:58Z
+2107	CLOSED	Having trouble with `git push --tags`	question	2021-10-26T14:56:53Z
+2105	CLOSED	pre-commit hangs when running pylint during run --all-files	question	2021-10-25T22:47:42Z
+2101	CLOSED	Set hook-level environment variables	question	2021-10-21T21:10:25Z
+2100	CLOSED	procedure to make init.templatedir for automatic enable of pre-commit fails on Cygwin due to path formats	question	2021-10-21T03:56:32Z
+2099	CLOSED	calling pre-commit in CI	question	2021-10-20T12:41:57Z
+2095	CLOSED	`pre-commit run --all-files` is failing	upstream-bug	2021-10-17T18:18:26Z
+2092	CLOSED	Hardcoded path makes Python upgrades on Windows difficult	question	2021-10-15T20:47:15Z
+2090	CLOSED	Skipped hook		2021-10-12T12:38:12Z
+2088	CLOSED	Whats the best way to use credentials	question	2021-10-11T22:37:47Z
+2084	CLOSED	using existing rbenv / ruby versions (MacOS / M1)		2024-06-05T13:59:22Z
+2083	CLOSED	Pass additional arguments via command line	question	2021-10-07T17:16:00Z
+2082	CLOSED	autoupdate does not update additional_dependencies (e.g. blacken-docs & black)		2021-10-07T16:43:45Z
+2081	CLOSED	Support --allow-missing-config for pre-commit autoupdate	question	2021-10-07T12:38:09Z
+2080	CLOSED	Strange behavior with modified config file	question	2021-10-05T23:31:22Z
+2079	CLOSED	Allow a different environment.yml or configurable channels for conda	question	2021-10-12T11:22:15Z
+2077	CLOSED	Permission denied error in attempting to create files during pre-commit	question	2021-10-04T19:10:47Z
+2076	CLOSED	`default_stages` in config yaml doesn't overrride `stages` in hooks yaml	question	2021-10-04T17:54:28Z
+2075	CLOSED	`--config` doesn't accept VFS files	question	2021-10-03T14:07:03Z
+2072	CLOSED	"run --files" should normalize paths to repository root before matching with "files" or "exclude"	question	2021-10-02T16:26:07Z
+2070	CLOSED	Feature/all-files per hook		2021-10-01T15:53:28Z
+2069	CLOSED	Adding tox stalls pre-commit	question	2021-10-01T20:16:50Z
+2067	CLOSED	[WinError 193] %1 is not a valid Win32 application Error	windows, question	2021-09-28T19:54:39Z
+2064	CLOSED	[WARNING] Unexpected key(s) present at root: ci	question	2021-09-27T16:46:20Z
+2063	CLOSED	Destructive operation on submodules with `submodule.recurse = true` git setting	bug	2021-10-01T23:47:50Z
+2062	CLOSED	pre-commit hook with language version language_version: python2.7 is not working	question	2022-01-14T08:59:59Z
+2061	CLOSED	Support for installing Python packages already specified in the project under test		2021-09-25T14:06:44Z
+2060	CLOSED	files are (wrongfully?) skipped on git rebase --continue with post-rewrite hooks	question	2021-09-23T20:10:56Z
+2059	CLOSED	Pre-commit Proxy Feature	question	2021-09-22T12:27:42Z
+2058	CLOSED	--to-ref: how to indicate worktree/index as reference?	question	2021-09-21T14:23:19Z
+2057	CLOSED	Executable `gem` not found	question	2021-09-21T12:38:02Z
+2056	CLOSED	Support pyproject.toml for configuration		2021-09-18T20:59:14Z
+2055	CLOSED	Question: Support a pre-commit hook without git clone (i.e. because the tool is already installed)	question	2021-09-18T21:00:44Z
+2054	CLOSED	Manually caching a hook repository without a configuration file	question	2021-09-17T23:37:40Z
+2052	CLOSED	commit-msg Hooks Crash On Aborted Commit	question	2021-09-17T02:53:41Z
+2051	CLOSED	Commandline Arguments to golang	question	2021-09-16T12:39:08Z
+2050	CLOSED	Feature request: run separate hooks in parallel	question	2021-12-06T16:31:52Z
+2049	CLOSED	Possible dead lock	upstream-bug	2021-09-15T03:02:03Z
+2048	CLOSED	Dead lock with pika library	upstream-bug	2021-09-14T21:15:04Z
+2046	CLOSED	pre-commit autoupdate yields "PermissionError: [WinError 32]"		2021-09-14T21:15:34Z
+2043	CLOSED	add warning for regular expression with `[/\]`	cleanup, good-first-issue	2021-10-28T17:36:09Z
+2042	CLOSED	Support additional_dependencies with system hook?	question	2021-09-08T16:23:36Z
+2041	CLOSED	mypy missing types-PyYAML when used by pre-commit but is fine when used solo	question	2021-09-08T12:45:37Z
+2040	CLOSED	Request for enhancement: Logging time spent on each hook	question	2021-09-08T12:42:45Z
+2038	CLOSED	Modify foreground rather than background color to improve readability	question	2021-09-03T23:38:39Z
+2037	CLOSED	Pre-commit giving error when initialising	upstream-bug	2021-09-02T19:27:36Z
+2035	CLOSED	Support the post-rewrite hook type	feature, good-first-issue	2021-09-02T18:08:24Z
+2034	CLOSED	Executing a hook after switching from a branch which edits a rev in .pre-commit.yaml uses wrong version of hook	question	2021-09-06T14:26:44Z
+2033	CLOSED	Hook execution result is not the same as expected from command line	question	2021-09-03T12:17:26Z
+2032	CLOSED	How to check if hooks are already installed?	question	2021-08-31T18:24:52Z
+2024	CLOSED	No module named 'tomli' when installing black hook	upstream-bug	2021-08-27T13:20:34Z
+2023	CLOSED	Have a way to get the most up-to-date tag from a certain style	question	2021-08-27T12:43:43Z
+2022	CLOSED	The `try-repo` command ignores the `--config` option	question	2021-08-25T06:22:10Z
+2021	CLOSED	The `try-repo` command should add the possibility of specifying hook arguments	question	2021-08-25T07:13:46Z
+2019	CLOSED	`check-useless-excludes` meta hook doesn't seem to work well with broken symlinks	bug	2021-08-31T14:34:25Z
+2018	CLOSED	Problems with local `pre_commit_hooks` dir	upstream-bug	2021-08-20T16:31:21Z
+2017	CLOSED	Run `--all-files` skips all hooks (no files to check)	question	2021-08-23T16:36:49Z
+2016	CLOSED	Ruby hooks require system dependencies even if `language_version` is specified	question, ruby	2021-08-18T17:42:49Z
+2015	CLOSED	Default stages require commit for manual run	question	2021-08-18T12:43:16Z
+2014	CLOSED	pre-commit adds non-optional arguments to local system hook	question	2021-08-17T22:57:04Z
+2013	CLOSED	Use content of staged file instead of working-directory content		2021-08-17T14:56:55Z
+2012	CLOSED	InvalidManifestError occurring in gitlab CI	question	2022-07-26T12:04:12Z
+2011	CLOSED	How to setup pre-commit to check diffs of branch for Gitlab?	question	2023-02-03T14:24:42Z
+2010	CLOSED	multiple mutable rev warnings issued on `autoupdate`	cleanup, good-first-issue	2021-08-31T01:49:04Z
+2009	CLOSED	black's language_version: python3 overrides default_language_version		2021-08-14T01:26:52Z
+2008	CLOSED	Pre-commit installed and detected per project AND globally?		2021-08-13T19:30:33Z
+2007	CLOSED	Default install arguments on `.pre-commit-config.yaml`, because `--hook-type`s again	question	2021-08-20T16:12:19Z
+2006	CLOSED	Exclude not working	question	2021-08-11T12:43:00Z
+2003	CLOSED	redirect repo	question	2021-08-10T10:25:34Z
+2002	CLOSED	Fails when force pushing unrelated histories	question	2021-08-10T12:55:04Z
+2000	CLOSED	AttributeError: 'HTMLParser' object has no attribute 'unescape'		2021-08-05T12:44:56Z
+1999	CLOSED	CalledProcessError: command: ('gem', 'build', 'fake_gem__.gemspec')	question, ruby	2021-08-18T17:24:31Z
+1998	CLOSED	Pass list of staged files as arg. [QUESTION]	question	2021-08-04T17:15:26Z
+1995	CLOSED	[FEATURE REQUEST] Build only the selected modules for golang	upstream-bug	2023-02-11T01:29:51Z
+1994	CLOSED	autoupdate downdates	question	2021-08-01T21:24:19Z
+1993	CLOSED	Hooks that need the filename list not at the end of their argv		2021-08-01T19:04:32Z
+1992	CLOSED	Command argument for customizing shebang	question	2021-07-31T15:39:03Z
+1991	CLOSED	pre-commit files collection	question	2021-07-28T12:55:10Z
+1990	CLOSED	Working with windows GitKraken Hook not working	windows, question	2021-07-26T21:32:18Z
+1988	CLOSED	Directory not excluded when pre-commit hook is installed	upstream-bug	2021-07-23T01:20:16Z
+1987	CLOSED	ValueError: check_hostname requires server_hostname	question, upstream-bug	2021-07-22T04:02:49Z
+1986	CLOSED	YAML Schemas for `.pre-commit-{config,hooks}.yaml`	question	2021-07-20T19:54:42Z
+1985	CLOSED	Pre-commit don't work with Gitpod and Pipenv	question	2021-07-21T00:21:51Z
+1983	CLOSED	Use of --dev deprecated for npm	javascript, cleanup	2023-09-11T23:12:07Z
+1982	CLOSED	Test failures		2021-08-08T12:49:16Z
+1981	CLOSED	Question regarding pre-commit hook for untracked files	question	2021-07-18T12:16:34Z
+1980	CLOSED	exclude is not excluding the files listed by regex on macos for golang	question	2021-08-03T20:09:29Z
+1979	CLOSED	UnicodeEncodeError with black hook	upstream-bug	2021-07-15T23:01:57Z
+1978	CLOSED	Docker inspect fails when running with Docker in Docker		2021-08-05T09:29:35Z
+1977	CLOSED	Re-add/re-commit files changed configuration	question	2021-07-15T15:09:07Z
+1976	CLOSED	Windows 10 support	question	2021-07-14T12:37:49Z
+1975	CLOSED	pre-commit seems to consider changing files to be a failure		2021-07-13T12:14:19Z
+1972	CLOSED	wrong path in case of workdirs		2022-04-02T19:30:45Z
+1971	CLOSED	Different executable resolution for `system` language across `pre-commit run` and `git commit` with pyenv	question	2021-07-09T01:37:15Z
+1970	CLOSED	Stdout: file not found error	upstream-bug	2021-07-07T13:39:37Z
+1969	CLOSED	Add command for cleaning out cached stashed patches	question	2021-09-28T09:31:55Z
+1967	CLOSED	error while trying to run pre-commit	upstream-bug	2021-07-03T12:56:28Z
+1966	CLOSED	mypy hook alternating between passing and failing on subsequent runs		2021-07-03T12:53:58Z
+1963	CLOSED	[FR] Additional dependency pins?	question	2021-07-10T13:49:29Z
+1961	CLOSED	`flake8` check additional files other than `*.py`	question	2021-08-03T20:10:23Z
+1960	CLOSED	define different hooks depending on the operating system	question	2021-07-01T13:46:31Z
+1959	CLOSED	ignore autoupdate for specific hook/s	question	2021-12-09T19:59:34Z
+1958	CLOSED	Add ability to recreate cached hook venvs from local repository only	question	2021-08-03T20:10:36Z
+1957	CLOSED	pre-commit.ci autoupdate PR asks to downgrade revision from commit SHA to older tag		2021-06-29T11:14:47Z
+1955	CLOSED	Using environment variables in `pre-commit-config.yaml`	question	2021-06-27T16:51:01Z
+1954	CLOSED	hook fails when invoked with pre-commit but not when invoked directly		2021-06-26T12:47:51Z
+1953	CLOSED	Surpress warnings with --silent		2021-06-23T14:23:47Z
+1952	CLOSED	pre-commit fails to install isort, possibly related to poetry-core	upstream-bug	2021-06-22T14:00:52Z
+1950	CLOSED	Precomit adds dot at end of repository url, breaking auto-hyperlinking		2021-06-22T14:21:30Z
+1948	CLOSED	Run all files ignores the specified config file	question	2021-06-21T14:24:34Z
+1946	CLOSED	Minimum version requirement for "identify" to ensure correct types are found	question	2023-03-24T12:45:55Z
+1945	CLOSED	Using mypy mirror, `pre-commit autoupdate` fails with `update target is missing these hooks`	question	2021-06-18T17:14:40Z
+1944	CLOSED	mypy with `--install-types` as an arg fails to install types because process is interactive		2023-08-03T12:42:44Z
+1942	CLOSED	Pre-commit install fails if existing hook is not utf-8	bug	2021-06-15T17:23:12Z
+1940	CLOSED	Pre-push handles only the first branch if multiple branches is pushed with "git push --all"	question	2021-06-12T16:41:52Z
+1939	CLOSED	Pass only new files to a hook	question	2021-06-11T16:18:08Z
+1937	CLOSED	Question: setting up `pylint` check		2021-06-10T21:37:06Z
+1936	CLOSED	Pre-commit hook based on an executable (not git repo)	question	2021-06-09T14:44:48Z
+1935	CLOSED	After Updating to pre-commit 2.13.0; CalledProcess Error and no py_env-python3	upstream-bug	2021-06-08T22:31:14Z
+1934	CLOSED	M1 architecture support for python based images	question	2023-01-25T15:40:57Z
+1932	CLOSED	Questions about additional_dependencies	question	2021-06-06T12:46:39Z
+1931	CLOSED	`pre-commit install` in pre-commit activated repo only replaces .git/hooks/pre-commit		2021-06-02T16:35:43Z
+1930	CLOSED	Ruby hook not working without ruby installation	question, ruby	2021-06-01T16:00:23Z
+1929	CLOSED	Vasl		2021-05-31T17:50:41Z
+1927	CLOSED	Set language to system, for a repo may not be feasible	question	2021-06-20T18:14:13Z
+1926	CLOSED	Local Python hook installs dummy package instead of my package	question	2021-05-28T02:32:22Z
+1925	CLOSED	`pre-commit autoupdate` updates rev to `stable`	upstream-bug	2021-05-27T19:37:20Z
+1924	CLOSED	`install-hooks` hangs indefinitely - git shallow clone	upstream-bug	2021-05-25T19:55:03Z
+1923	CLOSED	Question: How does pre-commit fit into dev container workflow?	question	2021-05-24T20:43:01Z
+1921	CLOSED	Option to specify `.pre-commit-config.yaml` file to use	question	2021-06-11T16:00:12Z
+1920	CLOSED	Conda installation with Windows not working	question, upstream-bug	2021-05-23T16:31:58Z
+1918	CLOSED	Failure to get the container id	feature, docker	2021-07-03T18:44:02Z
+1916	CLOSED	Possible to view the exact command that pre-commit is running?	question	2021-05-19T17:10:12Z
+1910	CLOSED	way to set fail_fast to false when using `pre-commit run --all-files .` for script usage	question	2023-06-01T12:24:39Z
+1909	CLOSED	Feature Request: I can haz .yml?	question	2021-05-14T23:37:30Z
+1908	CLOSED	Getting the information of what is to be pushed in pre-push hook	question	2022-01-01T02:54:25Z
+1907	CLOSED	allow passing options to pip	question	2021-05-11T15:19:38Z
+1905	CLOSED	Feature request: Allow `try-repo` to be run with additional args	question	2021-05-10T20:33:14Z
+1904	CLOSED	Always pass files to 1 hook	question	2021-05-10T14:23:57Z
+1903	CLOSED	Add Metahook to Manage Additional Dependencies		2021-05-09T19:44:16Z
+1902	CLOSED	Missing hook manifest, but upstream has it	question	2021-05-09T14:03:41Z
+1900	CLOSED	Error with initiating pre-commit environment (errors on pycurl) on Windows 10	question, upstream-bug	2021-05-06T22:15:07Z
+1897	CLOSED	How to change font color of `Passed` for hooks that have passed on pre-commit in iTerm2?	question	2021-07-02T20:33:50Z
+1896	CLOSED	Specific shell scripts not identified	question	2021-04-30T22:05:26Z
+1895	CLOSED	pre-commit install --install-hooks does not install other hook types	question	2021-04-30T21:14:37Z
+1894	CLOSED	Using pre-commit on gitignored files, or outside of a git repo	question	2021-04-30T19:15:57Z
+1893	CLOSED	View the list of files checked by the hooks	question	2021-06-20T18:14:34Z
+1892	CLOSED	pre-commit.ci timing out when passes locally		2021-04-27T20:44:49Z
+1891	CLOSED	Passing pipe to args	question	2021-04-28T06:01:53Z
+1889	CLOSED	Failing build on CI		2021-04-26T16:24:34Z
+1887	CLOSED	Local only hooks?	question	2021-04-21T16:52:40Z
+1886	CLOSED	pre-commit commit-msg hook is SKIPPED		2021-04-21T15:42:22Z
+1884	CLOSED	pre-commit is not working as expected	question	2021-04-21T14:48:11Z
+1882	CLOSED	Alternative way to detect root folder	question	2021-04-18T01:55:10Z
+1880	CLOSED	Parallel execution ran into "patch does not apply"	bug, good-first-issue	2021-04-16T21:12:38Z
+1879	CLOSED	How to pin a specific rev	question	2021-04-15T14:20:43Z
+1876	CLOSED	Check for pre-commit minimal version before any other validation	question	2021-04-10T14:47:28Z
+1874	CLOSED	How to specify local path as arguments on hook	question	2021-04-09T14:45:18Z
+1872	CLOSED	Clarification on pre-comimt/action#94		2021-04-09T00:58:00Z
+1870	CLOSED	[Feature] don't stash on commit --all	question	2021-04-09T14:08:34Z
+1869	CLOSED	pre-commit cached virtual environments break on system Python upgrade	question	2021-04-07T16:59:41Z
+1867	CLOSED	drop the https:// or git:// protocol definition in the repo section and automatically detect	question	2021-04-07T14:09:52Z
+1865	CLOSED	Pre-commit keep using a version of python not on the path [Linux]	question	2021-04-06T04:42:05Z
+1862	CLOSED	UnicodeEncodeError when hooks print unicode characters on Windows	upstream-bug	2022-11-02T00:12:39Z
+1861	CLOSED	link checker for Markdown?	question	2021-04-04T17:35:00Z
+1860	CLOSED	detect-aws-credentials false positive		2021-04-01T21:05:15Z
+1859	CLOSED	InvalidManifestError when using motet-a/jinjalint	question	2023-01-31T13:45:44Z
+1858	CLOSED	Support changing directory before hook installation	question	2021-03-29T23:56:18Z
+1857	CLOSED	Interactive hooks	question	2021-03-26T20:16:31Z
+1856	CLOSED	Possible to change default hooks ~./cache/pre-commit install location via .pre-commit.config.yaml?	question	2021-03-24T23:15:26Z
+1855	CLOSED	Github action caching		2021-03-24T22:16:35Z
+1853	CLOSED	Running on machines not connected to the internet?	question	2021-03-22T22:03:00Z
+1852	CLOSED	Bad executor when using pipx to install pre-commit git hook	question	2021-03-22T20:24:12Z
+1850	CLOSED	.git/hooks/pre-commit died of signal 6 aftre upgrading to macOS Big Sur 11.2.3		2021-03-21T16:22:06Z
+1849	CLOSED	'error: invalid object' after hook invokes Git commands	upstream-bug	2021-03-19T15:36:20Z
+1848	CLOSED	Bundled ruby-build version needs an update (for ruby 2.7.2 on macos)	feature, ruby	2021-03-23T14:39:23Z
+1846	CLOSED	Local repo hook failed to find tox.ini	question	2021-03-17T17:38:27Z
+1845	CLOSED	pre-commit not running on commit	question	2021-03-18T14:12:39Z
+1844	CLOSED	pre-commit breaks on centos-7 due to old git and problem with version 6.0.0 of setuptools_scm		2021-03-17T14:10:57Z
+1843	CLOSED	speechless pre-commit		2021-03-17T02:10:50Z
+1842	CLOSED	Add per-file command line switch		2021-03-17T04:38:01Z
+1840	CLOSED	Possibility to specify version for additional dependencies	question	2021-03-16T15:16:21Z
+1838	CLOSED	Executing pre-commit gives 'CalledProcessError'	upstream-bug	2021-03-14T16:11:38Z
+1837	CLOSED	Get libraries revision from requirements file in python (new try)	question	2021-03-10T19:01:07Z
+1836	CLOSED	Run Failed on Windows 10 with Microsoft Store Version (3.9) of Python		2021-03-10T21:41:49Z
+1835	CLOSED	R hooks give misleading warning when {renv} package versions differ	feature	2021-05-12T18:29:23Z
+1834	CLOSED	Hook not installed for all stages	question	2021-03-12T15:11:53Z
+1833	CLOSED	Fix package name on PyPI		2021-03-09T17:29:59Z
+1830	CLOSED	OSError: [Errno 22] Invalid argument: 'C:\\Users\\...'		2021-03-09T03:25:20Z
+1829	CLOSED	Print out the time taken to run a hook without the verbose flag	question	2021-03-10T14:52:37Z
+1827	CLOSED	Question: exposing shfmt		2021-03-06T01:08:18Z
+1826	CLOSED	Best way to handle a repo-local flake8 plugin?	question	2021-03-05T08:15:15Z
+1825	CLOSED	How to implement bump version hook?	question	2021-03-04T21:40:20Z
+1824	CLOSED	How to avoid downloading dependencies manually?	question	2021-03-03T12:50:29Z
+1823	CLOSED	Question: does pre-commit need to be available in the environment in which hooks are run?	question	2021-03-01T16:52:50Z
+1822	CLOSED	Run pre-commit.ci on branch push		2021-03-01T00:21:07Z
+1821	CLOSED	How to run pyclean?		2021-02-27T12:45:09Z
+1820	CLOSED	How to run pyclean?		2021-02-27T16:01:27Z
+1819	CLOSED	Not following XDG specs for folder placement	question	2021-02-26T17:14:07Z
+1817	CLOSED	Automatically apply changes and retry or only run if previous hooks succeeded		2021-02-25T14:00:03Z
+1816	CLOSED	get_root incorrectly identifies root of workspace in git directory	question	2021-03-07T22:52:44Z
+1815	CLOSED	Add support for Go 1.16	bug	2021-02-27T02:38:45Z
+1810	CLOSED	Executable not found with simple Python script hook	question	2021-02-22T15:46:48Z
+1807	CLOSED	passing key / credentials when pulling from a private repo, seems to fail when they are not included or manually entered.	question	2021-02-19T15:58:20Z
+1806	CLOSED	pre-commit fails to find setup.py for isort	question	2021-02-20T00:24:11Z
+1805	CLOSED	Allow to silence passed and/or skipped hooks		2021-02-19T03:14:37Z
+1804	CLOSED	Use black hook with --check option only	question	2021-02-19T07:22:13Z
+1803	CLOSED	Ability to run subset of hooks, not just one	question	2024-02-26T06:06:14Z
+1802	CLOSED	Pre-commit install fails on Windows network mount drive		2021-02-26T21:00:38Z
+1801	CLOSED	Pre-commit looking for a virtualenv that does not exist	upstream-bug	2021-02-16T22:01:09Z
+1798	CLOSED	Provide guidance on a docker-in-docker CI image	question	2021-02-11T16:16:05Z
+1797	CLOSED	Bad sys.prefix when running per-commit on M1 Mac	question	2021-02-11T16:44:41Z
+1796	CLOSED	How to execute a bash/script command, after clone, and before setup install?	question	2021-02-10T21:00:09Z
+1795	CLOSED	Verbose mode in CI?	question	2021-02-09T19:42:07Z
+1794	CLOSED	Do version numbers have to have a '.'?	question	2021-04-04T17:36:01Z
+1793	CLOSED	usage of prepare-commit-msg	question	2021-02-08T18:56:00Z
+1791	CLOSED	Show delta to main branch	question	2021-02-08T16:33:37Z
+1790	CLOSED	Hook specifies language_version but is using language system problem when upgrading to 2.10.0	question	2021-02-06T22:02:12Z
+1788	CLOSED	recursive submodule support for `language: golang`	bug	2021-02-06T21:18:37Z
+1787	CLOSED	Stashed changes conflicted with hook auto-fixes... Rolling back fixes...	bug	2021-03-23T14:06:48Z
+1786	CLOSED	M1 architecture support for node-based images	upstream-bug	2021-04-09T08:23:54Z
+1785	CLOSED	a hook for jsonnet formatting	question	2021-02-06T17:41:02Z
+1784	CLOSED	"Pass directories" option	question	2021-07-03T16:47:14Z
+1783	CLOSED	pre-push is executed several times during a single push	question	2021-02-02T14:07:57Z
+1782	CLOSED	[feature] ability to override 'fail commit' on files changes on a per hook basis	question	2021-02-02T00:24:34Z
+1780	CLOSED	Excluding a filetype from a single directory	question	2023-04-05T05:57:49Z
+1777	CLOSED	[Regression] Worktree support	bug	2021-01-27T22:08:21Z
+1776	CLOSED	results of hook during commit different from results through pre-commit run hook	question	2021-02-07T18:07:01Z
+1775	CLOSED	Batching calls to the hook?	question	2021-02-03T17:12:57Z
+1774	CLOSED	pre-commit and .env file	question	2021-02-03T18:34:46Z
+1768	CLOSED	Add mirror for stylelint	question	2023-06-22T11:38:54Z
+1767	CLOSED	Config discovery is wrong	question	2021-01-22T18:21:21Z
+1766	CLOSED	The name "pre-commit" is confusing		2021-01-22T08:52:43Z
+1765	CLOSED	The name "pre-commit" is confusing		2021-01-22T08:36:43Z
+1762	CLOSED	Support for other types of hooks	feature, question	2021-02-27T17:19:24Z
+1761	CLOSED	failed to find interpreter when running black via pre-commit	question	2022-06-16T16:27:34Z
+1760	CLOSED	Failing to correctly restore changes after stashed during commit		2021-01-15T16:41:00Z
+1759	CLOSED	Trying to use pre-commit, getting "pre-commit_hooks.yaml" is missing	question	2021-01-13T02:20:31Z
+1758	CLOSED	`pre-commit` not found. Did you forget to activate your virtualenv?	question	2021-01-26T18:12:15Z
+1757	CLOSED	node: allow to specify a minimal language_version and check system-provided version against it	question	2021-01-11T17:25:32Z
+1756	CLOSED	Multi stage config is not fully installed from single 'pre-commit install'	question	2021-01-11T19:49:37Z
+1754	CLOSED	Homebrew virtualenv not working with python3.9	question	2021-01-07T20:02:40Z
+1753	CLOSED	CVE-2020-14343 - RCE vulnerability in pyYAML dependency		2021-01-06T15:33:06Z
+1752	CLOSED	Unable to specify Python editable dependency when using local hook due to change in working directory	question	2021-01-05T01:52:16Z
+1748	CLOSED	Pinned versions compete at different scopes	question	2020-12-30T03:17:14Z
+1747	CLOSED	Apple silicon support	upstream-bug	2020-12-28T17:38:29Z
+1745	CLOSED	Empty file path with custom local hook	question	2020-12-23T20:41:31Z
+1744	CLOSED	Autoupdate replacing a sha with 'older' release	question	2021-01-26T18:13:24Z
+1742	CLOSED	How to use pre-commit for multipe folders and local script on Windows?	question	2020-12-21T20:07:08Z
+1740	CLOSED	conda support still ok?		2020-12-21T17:13:22Z
+1738	CLOSED	Installing additional_dependencies with `language: conda` fails due to disregarding channels	question	2020-12-20T19:54:56Z
+1737	CLOSED	exclude hook ids from running	question	2020-12-18T20:28:11Z
+1736	CLOSED	An unexpected error has occurred: OSError: [Errno 8] Exec format	question	2020-12-17T08:27:15Z
+1734	CLOSED	Running pre-commit in a submodule directory	question	2020-12-16T11:08:05Z
+1733	CLOSED	Support config in setup.cfg files? Or config in a separate folder?	question	2020-12-14T21:42:19Z
+1732	CLOSED	PermissionError when running `pre-commit install`	question	2021-01-26T18:12:53Z
+1731	CLOSED	Use ~/.cache/pre-commit in docker container	question	2020-12-16T19:27:19Z
+1730	CLOSED	Auto-update github-action	question	2020-12-11T17:11:57Z
+1729	CLOSED	"pre-commit run --hook-stage push run-pytest -v" says there are no files to check but "git push" runs pytest	question	2020-12-11T18:00:54Z
+1728	CLOSED	Allow passing files as single arguments to system command	question	2022-01-25T15:08:13Z
+1724	CLOSED	Feature Request: Allow defining/including groups of hooks/configs as a hook group		2020-12-05T17:25:21Z
+1723	CLOSED	flake8 exclude parameter does not seem to be taken into account	question	2022-05-31T13:50:29Z
+1722	CLOSED	How to run pre-commit at the CI if there is no git ?	question	2022-05-05T12:09:34Z
+1720	CLOSED	init-templatedir installing hooks to wrong directory	bug, question	2020-11-28T23:48:31Z
+1719	CLOSED	Docs request: Add pipx as an installation option		2020-11-28T06:05:32Z
+1718	CLOSED	check-symlinks hook not working	bug	2020-11-28T00:59:00Z
+1712	CLOSED	Question: Is it possible to add --show-diff-on-failure to git hook runs and not just CLI runs?	question	2020-11-24T17:15:26Z
+1711	CLOSED	BUG - hooks not working on windows 10, when user account name contains non-ascii characters		2020-11-25T21:26:19Z
+1710	CLOSED	Option to select the number of parallel processes		2024-08-15T21:02:06Z
+1708	CLOSED	running `pre-commit autoupdate` fails because tip of HEAD is missing hook	cleanup, good-first-issue	2020-11-22T22:03:04Z
+1706	CLOSED	re-stage files changed by end-of-file-fixer hook		2020-11-20T16:59:35Z
+1705	CLOSED	python hooks via pypi	question	2020-11-23T08:03:35Z
+1702	CLOSED	Add warning for `files` / `exclude` containing `/*`	feature, good-first-issue	2020-11-23T19:52:05Z
+1701	CLOSED	Slow on Windows with lots of submodules		2020-11-20T06:27:13Z
+1699	CLOSED	Rbenv default ruby issue on install	bug, ruby	2020-11-20T16:39:51Z
+1696	CLOSED	Run pre-commit while running rebase --continue	question	2022-11-07T11:54:08Z
+1695	CLOSED	windows recognize types: executable wrongly	question	2020-11-12T04:42:10Z
+1694	CLOSED	Path to the hook repo as `args` or `entry`	question	2020-11-12T18:28:23Z
+1693	CLOSED	Shebang generation code incorrectly prefers system python over virtualenv python	question, upstream-bug	2020-11-10T18:43:16Z
+1692	CLOSED	Dynamic routing $id will be ignore by pre-commit		2020-11-10T08:16:27Z
+1690	CLOSED	Make hook warn instead of fail	question	2020-11-09T20:16:45Z
+1689	CLOSED	SKIP still attempts to install hook	question	2020-11-09T18:21:01Z
+1682	CLOSED	'SyntaxError: Unexpected token {' when running eslint hook.	question	2020-11-05T17:23:53Z
+1681	CLOSED	Installing npm packages with path deps on Windows fails under pre-commit due to symlink perms, works fine with npm outside of it	windows, javascript, upstream-bug	2020-11-03T18:29:57Z
+1680	CLOSED	pre-commit is working well with github workflows but don't working without it	question	2020-11-04T14:04:59Z
+1679	CLOSED	Execute pre-commit on file save	question	2020-11-03T16:15:20Z
+1676	CLOSED	Allow to exclude files in LFS	question	2021-10-13T06:20:49Z
+1675	CLOSED	precommit error on windows + anaconda enviroment	question, upstream-bug	2020-11-02T17:07:38Z
+1674	CLOSED	npm dependencies issue with pre-commit 2.8.1 ?	question, javascript	2020-10-30T22:04:52Z
+1673	CLOSED	Test for executables fails on Windows	question	2020-10-30T15:43:47Z
+1671	CLOSED	bug: rbenv: no such command `install'	question, ruby	2020-10-30T20:22:06Z
+1670	CLOSED	prettier fails to install	question	2020-10-29T17:09:15Z
+1665	CLOSED	Pre-commit doesn't parse python shebangs as expected on windows	question	2020-10-28T18:03:08Z
+1664	CLOSED	provide an example for `commit-msg` hook	question	2020-12-09T07:36:01Z
+1663	CLOSED	How do I use it for making changes to a locally stored repository?	question	2020-10-29T05:43:54Z
+1660	CLOSED	github deprecated used of set-env, affects caching guidelines		2020-10-26T09:24:31Z
+1659	CLOSED	Hook Installation Error: ValueError: ZIP does not support timestamps before 1980	question	2020-10-27T18:44:42Z
+1658	CLOSED	rbenv FileNotFoundError when installing markdownlint hook	bug	2023-03-06T13:55:08Z
+1657	CLOSED	pre-commit for bare repos with separate working tree and git dir	question	2022-09-28T12:34:03Z
+1656	CLOSED	Question: Run pre-commit on staged and unstaged files.	question	2023-10-07T13:33:51Z
+1655	CLOSED	Is there a way to pin npm version?	question	2020-10-22T17:07:39Z
+1654	CLOSED	Have pre-commit call underlying hooks scripts one time only	question	2020-10-22T01:35:37Z
+1653	CLOSED	install-hooks hangs indefinitely if the hook language can't be found	question	2022-03-01T03:55:51Z
+1652	CLOSED	Failed run with prettier 1.19.1 hooks on windows and ubuntu 18.04	upstream-bug	2020-10-21T18:26:08Z
+1651	CLOSED	[BUG] - An unexpected error has occurred: CalledProcessError: command	upstream-bug	2021-05-19T07:22:14Z
+1650	CLOSED	[FEATURE REQUEST] Requesting to skip certain hooks		2020-10-17T14:28:24Z
+1649	CLOSED	Make more files abort pre-commit if unstaged	question	2020-10-16T21:27:37Z
+1648	CLOSED	Installation Error	upstream-bug	2022-09-28T12:31:44Z
+1647	CLOSED	Environment installation fails with `missing posixpath`	upstream-bug	2020-11-16T10:36:47Z
+1646	CLOSED	Pre-commit fails looking for python 3.6 interpreter in python 3.7.8 venv	question, upstream-bug	2020-11-03T16:16:46Z
+1645	CLOSED	FileNotFoundError when running pre-commit	question, upstream-bug	2020-11-09T22:11:06Z
+1642	CLOSED	Inconsistent behavior when using shared hooks	question	2020-10-14T15:39:07Z
+1641	CLOSED	filter remotes or cache results push type hook		2020-10-14T15:05:23Z
+1640	CLOSED	autoupdate: determine redirects and tke them in		2020-10-14T15:09:44Z
+1639	CLOSED	using pre-commit in pipelines	question	2020-10-13T16:56:01Z
+1638	CLOSED	always_run vs pass_filenames?	question	2020-10-13T04:38:18Z
+1636	CLOSED	Pre-commit hook running multiple times	question	2020-10-10T15:56:41Z
+1635	CLOSED	Feature request: Install all configured hooks with one command		2020-10-10T15:54:41Z
+1632	CLOSED	pre-commit failing with sample config (WSL1/Ubuntu20.4.1/Conda)	upstream-bug	2020-10-09T09:24:31Z
+1631	CLOSED	Error in setting up prettier hook	question	2020-10-08T17:31:40Z
+1630	CLOSED	Force re-installation of commit hooks	question	2020-10-07T22:54:28Z
+1629	CLOSED	[Request] Adding a python version option.	question	2020-10-07T15:39:52Z
+1628	CLOSED	RuntimeError: no .dist-info has pip	upstream-bug	2023-09-19T13:40:28Z
+1627	CLOSED	Can't run pre-commit as a module.	question	2021-08-16T18:31:29Z
+1626	CLOSED	Local python hooks don't get pip installed	question	2021-01-18T17:13:14Z
+1625	CLOSED	Q: Running precommit against added and deleted files only	question	2020-10-02T16:20:09Z
+1623	CLOSED	YAML prettier?		2020-10-01T17:24:08Z
+1622	CLOSED	Pre-commit on merge	question	2020-09-28T21:01:09Z
+1621	CLOSED	Does there exist any list of existing precommit repositories?		2020-09-27T17:00:13Z
+1620	CLOSED	Running on new files and changed files	question	2020-09-30T10:46:56Z
+1619	CLOSED	Improve documentation on files/exclude pattern		2023-03-28T16:46:01Z
+1618	CLOSED	Conflicting dependencies on importlib-metadata	upstream-bug	2020-09-25T00:59:46Z
+1615	CLOSED	Check to make sure that the hooks in the config file are installed	question	2020-09-30T22:23:24Z
+1612	CLOSED	Can't use ruby 2.7.1 on MacOS		2020-09-23T18:22:18Z
+1610	CLOSED	Pre-commit fails for git >=2.25 if repo is on a Windows subst drive	bug, windows	2020-12-12T10:05:46Z
+1609	CLOSED	Pass environment variable to hook, define in .pre-commit-config.yaml		2020-09-22T16:23:01Z
+1605	CLOSED	Add Support for MSYS2 in Windows	question	2020-09-20T19:50:56Z
+1604	CLOSED	in windows, xargs.py too large command line	question	2020-11-09T16:24:02Z
+1602	CLOSED	installing with shiv: No module named pre_commit	question	2020-09-18T15:54:49Z
+1597	CLOSED	Make pre-commit output format configurable		2020-09-09T17:00:04Z
+1596	CLOSED	pre-commit run --all --show-diff-on-failure reverts changes	question	2020-09-09T17:00:15Z
+1594	CLOSED	Running pre-commit from venv in a docker created by an user script	question	2020-09-15T02:16:20Z
+1593	CLOSED	Hook installs an ancient version of black		2020-09-08T18:41:56Z
+1589	CLOSED	improve `healthy()` check for node	feature, javascript	2020-09-07T21:24:12Z
+1588	CLOSED	Migration mode does not work on Windows if legacy script starts with `#!/bin/sh`	question	2022-10-12T15:09:50Z
+1587	CLOSED	Cached environments never change even if the rev they point to changes	question	2020-09-04T07:02:42Z
+1586	CLOSED	Pre-commit + conda on win10 looks for python in a wrong location	question	2020-09-03T07:52:06Z
+1585	CLOSED	configurable minimum_pre_commit_version, perhaps_run		2020-08-28T16:19:36Z
+1584	CLOSED	per-hook `from_ref: rev` setting		2020-08-28T16:23:19Z
+1583	CLOSED	Wrong shebang line generated for my setyp (Windows10 + pyenv-win + pre-commit installed in virtual env)		2020-09-09T21:34:42Z
+1582	CLOSED	what is the solution to not being able to install setoolkit		2020-08-27T02:16:10Z
+1581	CLOSED	Idea: support gitattributes for file inclusion/exclusion		2020-08-25T18:54:23Z
+1580	CLOSED	Difference between running mypy directly vs with pre-commit run -a	question	2023-10-03T18:45:35Z
+1579	CLOSED	Add perforce support?	feature	2023-03-03T05:23:24Z
+1578	CLOSED	Flake 8 - BUG: expected environment for python to be healthy() immediately after install		2020-08-24T16:06:27Z
+1575	CLOSED	Flask style test failing health check in CI	bug	2020-08-23T19:10:07Z
+1574	CLOSED	2.7.0: test suite is failing	question	2020-08-23T01:06:14Z
+1573	CLOSED	2.7.0: test suite is failing	question	2020-08-23T01:07:48Z
+1569	CLOSED	faster check for docker running	good-first-issue, docker	2020-08-23T01:03:51Z
+1568	CLOSED	pre-commit autoupdate prefers 1.0.5 over v1.0.6	question	2020-08-21T20:50:17Z
+1567	CLOSED	Allow Dockerfile path to be specified in docker language config	question	2020-08-21T16:33:41Z
+1565	CLOSED	Support printing custom message if a hook fails	question	2024-05-21T12:41:06Z
+1564	OPEN	Idea: Improve hook speed by skipping before/after diff via readonly flag	question	2022-01-25T14:01:32Z
+1563	CLOSED	Use case for `require_serial: false`	question	2020-08-19T05:31:56Z
+1562	CLOSED	`--all-files` doesn't honor pyproject.toml config file.	question	2020-08-18T03:58:00Z
+1559	CLOSED	ModuleNotFoundError for pre_commit_hooks when setting PYTHONPATH to project root	question	2020-08-17T06:20:11Z
+1558	CLOSED	An unexpected error has occurred: CalledProcessError: Command: ['bash', '-c', ". '/Users/dfd/.pre-commit/repodyEcO7/py_env-default/bin/activate' && cd '/Users/dfd/.pre-commit/repodyEcO7/' && pip install ."] Return code: 2 Expected return code: 0	question	2021-08-24T10:35:26Z
+1557	CLOSED	Problem running pre-commit within SourceTree.app on OSX and homebrew installed python	question	2022-04-10T21:17:18Z
+1556	CLOSED	QST (ENH?) skip hooks based on name rather than id?	question	2020-08-08T18:22:35Z
+1555	CLOSED	autoupdate downgrades isort 5.3.2 to 5.3.0	question	2020-08-07T16:29:17Z
+1554	CLOSED	FROM_REF...TO_REF doesn't work very well with shallow clones and git 2.28 (no merge base)	question	2023-05-27T20:40:27Z
+1553	CLOSED	what is the base directory for "log_file" output	question	2020-08-25T17:41:01Z
+1552	CLOSED	setup.cfg is not being read for pydocstyle	question	2022-04-28T19:04:12Z
+1550	CLOSED	Windows. UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte	question	2022-06-18T12:35:09Z
+1548	CLOSED	Cannot use v2.6.0 - says no such tag	question	2024-06-28T12:41:37Z
+1545	CLOSED	Allow git submodules as repos	question	2020-08-17T16:23:01Z
+1543	CLOSED	Старт		2020-07-23T06:20:29Z
+1542	CLOSED	Latest version not compatible with Volta	javascript, upstream-bug	2020-07-21T17:46:58Z
+1541	CLOSED	make supported hooks cli-discoverable	question	2020-07-21T20:33:19Z
+1540	CLOSED	pre-commit doesn't play nicely with open Excel files	question	2020-07-21T16:31:07Z
+1538	CLOSED	Question: Is it possible to specify `--all-files` in config yaml	question	2020-07-20T03:39:03Z
+1537	CLOSED	VS Code error: pre-commit not found. Did you forget to activate your virtualenv?	question	2022-07-26T12:06:30Z
+1536	CLOSED	special option to `pre-commit run` which works against a readonly filesystem	feature	2020-08-22T18:19:12Z
+1534	CLOSED	No git version detection or labels	question	2020-07-14T22:36:39Z
+1533	CLOSED	autoupdate: don't update to tag without .pre-commit.hooks.yaml	question	2020-07-12T04:42:24Z
+1532	CLOSED	Pre-commit runs twice when using prepare-commit-message	question	2023-02-19T20:49:55Z
+1530	CLOSED	ValueError: path is on mount '<drive_letter>:', start on mount '\\\\<server>\\<drive>'		2020-08-22T02:32:23Z
+1529	CLOSED	Unexpected pass with jsonlint	upstream-bug	2020-07-03T16:18:32Z
+1528	CLOSED	Args parameter problem in.pre-commit-config.yaml		2020-07-01T10:02:06Z
+1527	CLOSED	Installing pre-commit automatically activates virtualenv	question	2020-06-27T21:48:35Z
+1526	CLOSED	Possible to configure a hook so pip installs "extras"?		2020-09-23T22:02:36Z
+1525	CLOSED	Best practice for versioning the cache in CI environments should be documented		2020-06-26T01:09:23Z
+1524	CLOSED	Unable to use detect_private_key in the latest rev		2020-06-25T15:29:01Z
+1523	CLOSED	ModuleNotFoundError: No module named 'importlib_metadata'		2023-01-31T13:47:56Z
+1522	CLOSED	Activate virtualenv in hook template	question	2020-11-05T15:47:52Z
+1520	CLOSED	special handling of source-container formats, esp. ipynb	question	2020-06-19T16:44:44Z
+1519	CLOSED	Option to run pre-commit against all the files always	question	2022-08-14T23:31:39Z
+1517	CLOSED	Understanding how to run commit-msg hook	question	2021-04-21T14:37:08Z
+1516	CLOSED	Executable `prettier` not found	bug, javascript	2020-06-19T21:15:33Z
+1515	CLOSED	OSError: [WinError 193] %1 is not a valid Win32 application		2020-06-17T22:07:05Z
+1514	CLOSED	"Executable ... is not executable" error	question	2020-06-17T17:39:31Z
+1513	CLOSED	Display standard output produced by called hooks	question	2020-06-17T15:13:21Z
+1512	CLOSED	How to create my own pre-commit repo	question	2020-06-17T15:07:32Z
+1510	CLOSED	Documentation: add details on how to integrate your own hooks from a private git repo (e.g. not on PyPi)		2020-06-16T16:48:48Z
+1508	CLOSED	Debug how pre-commit initializes its environment	question	2020-06-24T14:59:53Z
+1505	CLOSED	Using git directly instead of a temporary file when stashing changes		2020-06-12T07:04:40Z
+1504	CLOSED	Wrong python version used by pre-commit	question	2023-06-16T09:29:18Z
+1503	CLOSED	args doesn't seem to get passed to a hook	question	2020-06-12T17:01:39Z
+1502	CLOSED	Sorry for the tone		2020-06-11T03:01:27Z
+1501	CLOSED	Parse (additional) hook arguments from the command line	question	2020-06-11T02:59:08Z
+1499	CLOSED	Possibility of data loss when using git commit --all with destructive hooks	question	2020-06-10T17:01:36Z
+1498	CLOSED	pre-comit hangs on a brakeman local hook run	question	2020-06-09T20:20:46Z
+1496	CLOSED	Stalls on hooks checkout	bug	2020-06-09T21:15:36Z
+1495	CLOSED	pre-commit hook ignores isort config	question	2020-06-09T06:41:02Z
+1493	CLOSED	Make pre-commit PEP 561 compatible package	question	2020-06-08T15:37:21Z
+1492	CLOSED	different behavior on windows		2020-06-08T15:37:08Z
+1490	CLOSED	Unable to install with pipx, incompatible importlib-resources	upstream-bug	2020-06-09T11:35:13Z
+1489	CLOSED	Creation of files does not fail hook	question	2020-06-06T22:09:25Z
+1488	CLOSED	Is there any interest in putting nodeenv behind extras_require?	question	2020-06-04T23:35:50Z
+1487	CLOSED	Using pre-commit through intellij/pycharm commits	upstream-bug	2020-06-04T22:44:44Z
+1486	CLOSED	Custom PyPI dependencies	question	2020-06-03T23:10:49Z
+1485	CLOSED	Add pre-commit-hook topic to github repositories exposing hooks		2020-08-17T16:23:14Z
+1483	CLOSED	syntax error near unexpected token `(' when running a node-based plugin	upstream-bug	2020-06-08T22:09:52Z
+1482	CLOSED	makefile target is always processed	question	2020-06-01T21:38:54Z
+1481	CLOSED	Allow running local hooks defined in `.pre-commit-hooks.yaml`		2020-06-01T15:50:34Z
+1479	CLOSED	random.shuffle's random= argument got deprecated	upstream-bug	2020-05-31T19:59:42Z
+1478	CLOSED	Tests not passing in pre-commit	question	2020-05-31T08:12:33Z
+1477	CLOSED	Running pre-commit fails when using a conda virtual environment	question, python	2020-05-30T20:48:57Z
+1476	CLOSED	Cannot run --files on Windows	bug	2020-06-09T08:54:30Z
+1475	CLOSED	Use appdirs to determine OS specific cache dir		2020-05-28T15:54:31Z
+1473	CLOSED	Global hooks (core.hooksPath)	question	2021-11-19T13:32:48Z
+1472	CLOSED	UnicodeDecodeError: 'utf-8' codec can't decode byte 0xc0 in position 9: invalid start byte	bug	2020-05-27T22:02:42Z
+1470	CLOSED	exclude and files filters	question	2020-05-28T04:02:58Z
+1469	CLOSED	Segfaults and deleting/reseting unstaged changes	question	2020-06-02T14:58:57Z
+1468	CLOSED	Finding the path of the installed hooks	question	2020-06-09T07:25:27Z
+1466	CLOSED	Local hooks are executed multiple times per run	question	2020-05-23T08:27:36Z
+1465	CLOSED	The `PATH` variable is not set properly for Gui Git clients	question	2021-11-20T14:46:43Z
+1462	CLOSED	Installing new environment every commit		2020-05-19T04:41:24Z
+1461	CLOSED	How to deal with `git commit --all`?	question	2020-05-16T17:24:05Z
+1460	CLOSED	allow declaring local hooks with less repetition	question	2020-05-16T17:58:01Z
+1459	OPEN	regression with tty detection		2022-03-01T03:20:16Z
+1458	CLOSED	pre-commit repeatedly installs environments when nothing has changed	upstream-bug	2022-04-22T12:41:09Z
+1457	CLOSED	Add possibility to have disabled hook	question	2020-05-17T16:33:41Z
+1456	CLOSED	Run project command	question	2020-05-13T21:26:11Z
+1455	CLOSED	Entry points for different OS	question	2023-09-26T20:06:51Z
+1454	CLOSED	Error creating pip environment when index requires a login	question	2023-11-17T13:42:21Z
+1453	OPEN	Create a 'download' language for fetching pre-built binaries	question	2024-07-18T12:42:38Z
+1452	CLOSED	I _think_ pre-commit ignores scoped package registries in npmrc	question	2024-07-04T15:40:35Z
+1451	CLOSED	.pre-commit-config.yaml does not exist when you use yml instead of yaml	question	2020-05-12T00:14:38Z
+1449	CLOSED	The script to install golang env requires golang	question, go	2022-01-25T13:55:22Z
+1447	CLOSED	Unhandled yaml.scanner.ScannerError when trying autoupdate with a malformed pre-commit config	bug	2020-05-11T19:36:25Z
+1446	CLOSED	How to see the actual hook command being executed?	question	2020-05-10T18:25:36Z
+1445	CLOSED	Using repo local disable ability to install python package	question	2020-05-13T20:46:11Z
+1441	CLOSED	Add option to retry cloning of the repos	question	2020-05-10T21:18:16Z
+1440	CLOSED	hook using node doesn't work on FreeBSD	question, upstream-bug	2020-05-11T19:36:08Z
+1439	OPEN	What's the best way to install pre-commit for a npm/javascript project	question	2021-10-09T01:06:07Z
+1436	CLOSED	Matching cython files: merge with python or support separately?	question	2020-05-05T21:46:40Z
+1434	CLOSED	Any scalar quotes around rev are lost during autoupdate	feature	2020-05-05T02:41:51Z
+1433	CLOSED	Pre-commit fails to find pip		2020-05-04T20:11:22Z
+1430	CLOSED	On a win7 system, performing a pre-commit reports RPC failed error		2020-05-04T03:46:56Z
+1427	CLOSED	Most pre-commit hooks broken after OS upgrade to 20.04		2020-05-11T19:35:14Z
+1426	CLOSED	Expose an env variable that indicates if pre-commit is running	feature	2020-05-24T02:01:41Z
+1425	CLOSED	Running hooks on multiple language versions	question	2020-05-02T14:59:30Z
+1423	CLOSED	Specifying hooks to be configured from a config file	question	2020-05-29T15:59:11Z
+1420	CLOSED	Issues with virtualenv configuration	question	2020-04-30T05:01:22Z
+1419	CLOSED	Encountered migration mode		2020-04-29T16:50:30Z
+1418	CLOSED	post-checkout hook prevents pre-commit hooks from working with unstaged files	bug, good-first-issue	2020-05-02T21:47:39Z
+1417	CLOSED	No way to properly run hooks into subdirectory		2022-08-08T14:54:56Z
+1416	CLOSED	[Question] How can I have the config apply in a child directory, when commiting from a parent?	question	2020-04-29T14:50:11Z
+1414	CLOSED	Generation requirements.txt by poetry	question	2020-04-26T20:40:53Z
+1412	CLOSED	Pipenv + PyCharm issues	question	2020-04-24T22:42:09Z
+1411	CLOSED	allow post-commit hook	feature	2020-04-28T18:16:09Z
+1410	CLOSED	Pre-push local and remote ref (branch name) are unavailable.	feature, good-first-issue	2021-08-06T18:29:21Z
+1409	CLOSED	Commit message format hook for semantic versioning	question	2020-04-22T19:50:29Z
+1408	CLOSED	Improving pre-commit time execution performances with docker-compose usage	question	2020-04-28T01:37:05Z
+1407	CLOSED	On a Windows system, in either win7 or win2012R2, performing a pre-commit reports pip install error		2020-04-23T07:35:47Z
+1406	CLOSED	Provide a way to reference the project directory in additional_dependencies	question	2020-04-22T19:25:34Z
+1405	CLOSED	Slowly adopt pre-commit on a big project	question	2020-04-21T17:24:40Z
+1403	CLOSED	[corner case?] pre-commit fails to add origin when there's settings under origin in the user-global config	upstream-bug	2020-04-20T18:20:48Z
+1401	CLOSED	Separate each hooks' dependencies	question	2020-04-19T02:26:52Z
+1400	CLOSED	On my win7 system, performing a pre-commit reports an error		2020-04-18T04:17:47Z
+1398	CLOSED	On a Windows system, in either win7 or win2012R2, performing a pre-commit reports an error	bug	2020-04-17T15:44:33Z
+1397	CLOSED	API to expose the common functions required to run hooks	question	2020-04-19T00:02:51Z
+1396	CLOSED	C:\python2\python.exe does not exists	question	2020-04-16T02:50:33Z
+1394	CLOSED	pre-commt run --all-files only runs on what is staged still	question	2024-07-08T19:39:26Z
+1393	CLOSED	pre-commit fails to install environment for Prettier	upstream-bug	2020-04-15T16:29:41Z
+1392	CLOSED	Support extending and/or subtracting hooks from other YAML file		2020-04-14T16:32:51Z
+1390	CLOSED	pre-commit hangs in Centos 8	question	2020-04-09T21:13:09Z
+1389	CLOSED	Pipe filenames to "entry" instead of passing as args	question	2020-04-08T17:08:04Z
+1387	CLOSED	Path is not mounted correctly when running Docker hooks from Docker	feature, docker	2021-04-29T02:51:27Z
+1386	CLOSED	CalledProcessError on install		2020-04-06T16:57:50Z
+1385	CLOSED	Bug: Cannot use pre-commit with language "node"	upstream-bug	2020-04-06T21:22:20Z
+1384	CLOSED	language_version with non-strict values	question	2020-04-04T17:32:42Z
+1383	CLOSED	[2.2.0] `pre-commit install --install-hooks` fails with: ModuleNotFoundError: No module named 'pip._vendor.six'	upstream-bug	2020-04-16T03:50:27Z
+1381	CLOSED	No colors when hooks are run by a git commit		2020-04-02T14:48:18Z
+1379	CLOSED	Fresh install ends with "fatal: unable to read"		2020-04-05T20:26:50Z
+1375	CLOSED	RuntimeError: failed to find interpreter for Builtin discover of python_spec='python3.6'	question	2023-11-08T03:56:04Z
+1374	CLOSED	Configurable maximum parallel files	question	2022-01-25T15:08:09Z
+1373	CLOSED	Windows: shebang gets crippled	question	2020-03-22T18:04:59Z
+1372	CLOSED	Option to separate hook arguments from hook file list with '--'	question	2020-03-20T00:02:24Z
+1370	CLOSED	Unable to enforce default_language_version to enforce python_venv		2020-03-19T18:52:18Z
+1368	CLOSED	test_run_a_ruby_hook test failure		2021-02-03T16:39:57Z
+1367	CLOSED	2.2.0: tests missing in pypi sdist tarball		2020-03-14T19:23:47Z
+1366	CLOSED	Is it possible to run outside a GIT repo	question	2020-03-13T16:43:56Z
+1365	CLOSED	Excluding a template directory does not work		2020-03-16T08:50:39Z
+1362	CLOSED	Provide guidance or helper function to recover stashed code after user interruption of git commit		2021-12-18T07:29:45Z
+1361	CLOSED	Feature request: add parameter to delete cached repos unused in the last X days		2020-03-11T00:26:43Z
+1360	CLOSED	Feature request: rename the `.cache` folder on Windows		2020-03-10T23:30:21Z
+1358	CLOSED	Running pre-commit with Python installed from Windows Store raises UnicodeDecodeError	bug, upstream-bug	2020-03-14T15:39:33Z
+1357	CLOSED	Add option to exclude the .pre-commit-config.yaml file from git locally only		2020-03-09T22:07:55Z
+1356	CLOSED	changing hooks working dir		2020-03-09T17:11:49Z
+1354	CLOSED	`pre-commit autoupdate` should not change `rev` fields like `master` or `stable`	question	2020-10-11T13:04:50Z
+1353	CLOSED	cache + virtualenv>=20 / python_venv + moving executables -> File not found: ... python		2020-03-14T06:28:29Z
+1352	CLOSED	Support allowlisting hooks installed when using pre-commit init-templatedir	question	2021-04-20T02:19:07Z
+1351	CLOSED	Support updating additional_dependencies in autoupdate		2022-01-16T14:56:23Z
+1350	CLOSED	"script" language without a shebang causes unexpected OSError	bug	2020-03-14T06:30:26Z
+1348	CLOSED	How to run pre-commit in a microservice-pattern application?	question	2020-02-28T01:49:13Z
+1347	CLOSED	AttributeError: 'str' object has no attribute 'exists'	question, upstream-bug	2020-02-26T19:19:25Z
+1342	CLOSED	A way to suspend errors	question	2020-02-22T15:10:46Z
+1340	CLOSED	beta-channel hooks	question	2020-03-05T21:26:11Z
+1338	CLOSED	Auto-Install different hook types		2021-12-15T17:10:52Z
+1337	CLOSED	Run pre-commit --all-files without git	question	2020-02-20T11:07:08Z
+1336	CLOSED	TypeError: expected string or bytes-like object		2020-02-23T18:30:45Z
+1335	CLOSED	Have lint-staged fail commit instead of "reverting to original state"	question	2022-04-29T17:33:17Z
+1333	CLOSED	[question] phpstan-hook gives different result than from bash	question	2020-02-17T11:52:43Z
+1332	CLOSED	Output failures to a structured-data file for displaying nicely inside CI	question	2020-08-24T16:00:47Z
+1331	CLOSED	Unable to install node environment on FreeBSD11	question, javascript, upstream-bug	2020-02-12T18:10:48Z
+1330	CLOSED	Custom --workdir with Docker hooks.	question, docker	2020-02-11T21:20:40Z
+1329	CLOSED	Pre-commit 2.0.0 does not work with conda based python in Windows.	windows, upstream-bug	2022-01-18T06:59:37Z
+1328	CLOSED	Accidentally deleted .cache/pre-commit/repo... folders		2023-02-07T13:42:50Z
+1327	CLOSED	git commit error when installing precommit hook in venv	upstream-bug	2020-02-10T20:11:52Z
+1326	CLOSED	Is there a way to force pre-commit on everything (not just what's been touched)?	question	2020-02-10T19:10:33Z
+1325	CLOSED	New version of virtualenv breaks everything	python, upstream-bug	2020-02-12T18:26:43Z
+1323	CLOSED	Supply official Docker/OCI image	question, docker	2020-03-12T15:28:13Z
+1321	CLOSED	RuntimeError: 'Exec format error' when using pipenv+pyenv-installed python 3.8.1 to install environment	upstream-bug	2020-02-09T04:36:20Z
+1320	CLOSED	Support JSON with comments	question	2021-12-04T10:34:00Z
+1317	CLOSED	Pre-commit on unstaged changes	question	2020-02-06T22:24:18Z
+1316	CLOSED	Add support for global index urls in pip config	question, python	2024-03-27T03:20:35Z
+1315	CLOSED	Top level option to run all hooks in docker container.	question	2020-02-06T17:05:48Z
+1314	CLOSED	unversioned requirement importlib-meta prohibits using pip with --require-hashes mode		2020-02-10T12:05:37Z
+1313	CLOSED	Display file being acted on? (specifically when using curl)	question	2020-02-05T19:30:20Z
+1312	CLOSED	Cannot specify custom Python shebang for hook executable	question	2020-02-18T21:24:25Z
+1310	CLOSED	Diff-only linting		2020-02-03T21:24:50Z
+1309	CLOSED	Solution: pylint in venv (tox) with pre-commit hook		2021-06-03T03:39:20Z
+1308	CLOSED	FR: Support for template config files		2020-02-03T21:26:38Z
+1307	CLOSED	[FR]: Add option to use a custom config file during `pre-commit install`	question	2024-02-29T00:12:57Z
+1305	CLOSED	Hook version of pre-commit should be compared against current version of pre-commit	question	2020-01-31T17:22:48Z
+1304	CLOSED	[Proposal]How about to automate installation of hook script after pre-commit's installation	question	2020-01-31T01:18:01Z
+1300	CLOSED	Virtualenv dependency	question	2020-01-29T16:39:46Z
+1298	CLOSED	core.hooksPath being set makes it not possible to install	question	2020-01-28T21:11:17Z
+1297	CLOSED	On Windows 10, installing Black gives a "symbolic link privilege not held" error		2020-11-18T01:10:12Z
+1296	CLOSED	Add ability to run multiple hooks selectively	question	2021-11-29T14:41:53Z
+1294	CLOSED	Question - When writing a custom hook, how to access the value given to --hook-stage	question	2020-01-22T16:21:54Z
+1291	CLOSED	add action for adding new linters		2020-01-20T20:24:57Z
+1290	CLOSED	[Question] compare two branches / commits hooks are skipped.	question	2020-01-17T15:42:44Z
+1286	CLOSED	Question: Shell variables using language:docker_image	question, docker	2020-01-15T22:07:21Z
+1285	CLOSED	Exclude argument does not work for autopep8 hook.	question	2020-01-16T16:26:00Z
+1284	CLOSED	pre-commit clean does not work under Windows	windows, question	2020-01-15T01:12:56Z
+1283	CLOSED	Using pre-commit in Atom: missing ssl module?	windows, upstream-bug	2022-11-14T17:45:28Z
+1279	CLOSED	support for `flake8 --diff`, which checks only the diff in the commit	question	2022-10-06T17:48:43Z
+1274	CLOSED	Pre-push hook checks only when pushing to certain remote	feature	2023-06-14T12:42:10Z
+1273	CLOSED	Calling pre-commit --version as a module confuses it about its name	cleanup, good-first-issue	2020-01-29T16:44:50Z
+1272	CLOSED	Node/npm post-install script failure when running as root	javascript, upstream-bug	2020-03-16T11:08:35Z
+1271	CLOSED	pre-commit generates wrong python shebang when already inside a virtualenv		2020-01-07T01:16:34Z
+1270	CLOSED	Question: is it possible to run hooks from CLI?	question	2020-01-07T13:35:58Z
+1267	CLOSED	`default_stages` should probably not include `prepare-commit-msg` and `commit-msg`	question	2020-01-02T14:03:48Z
+1264	CLOSED	Way to include hook that is skipped by default	question	2020-01-02T14:05:39Z
+1261	CLOSED	Slightly broken links in output		2020-01-02T18:27:37Z
+1260	CLOSED	pre-commit 2.0	cleanup	2020-02-24T17:20:36Z
+1258	CLOSED	[FR][bug?] pre-commit hook repo self-test	question	2020-01-02T18:28:20Z
+1255	CLOSED	Raise error when using branch name as `rev`		2019-12-28T01:43:52Z
+1253	CLOSED	Running `pre-commit` 1.20.0 on Guix gives server certificate verification failed. CAfile: none CRLfile: none	bug, good-first-issue	2020-01-03T17:38:18Z
+1250	CLOSED	pip install crashes can easily confuse newbies	cleanup	2019-12-24T02:05:44Z
+1247	CLOSED	Disabling color output should also do so for `FAIL` messages	upstream-bug	2019-12-20T15:12:39Z
+1246	CLOSED	Make statement about staging files on pre-commit.com	question	2019-12-19T22:37:21Z
+1245	CLOSED	How to run a local python file	question	2022-09-03T12:17:32Z
+1244	CLOSED	pylint cannot find module when run by pre-commit		2021-12-10T02:41:41Z
+1243	OPEN	Permission issue with rootless containers	feature, docker	2024-07-20T21:04:28Z
+1242	CLOSED	Blacklist string hook?	question	2019-12-13T20:57:07Z
+1241	CLOSED	Fails to install black with setuptools-scm error	upstream-bug	2019-12-13T17:17:26Z
+1240	CLOSED	Use defaults to avoid repeated hook id/name/entry	question	2019-12-10T18:21:55Z
+1239	CLOSED	Unable to create environment	question	2023-09-07T17:05:52Z
+1238	CLOSED	Using a Git repo in `additional_dependencies`	question	2019-12-08T18:15:50Z
+1235	CLOSED	Running tests on a system-wide install.	question	2019-12-07T17:00:01Z
+1233	CLOSED	Can't specify hook args with `pre-commit run`	question	2019-12-08T03:16:53Z
+1231	CLOSED	New version importlib_metadata module crashed pre-commit	question	2019-11-28T17:09:14Z
+1230	CLOSED	FileNotFoundError when using ```pre-commit install --install-hooks```	windows, question	2019-11-28T17:10:21Z
+1229	CLOSED	Make `bash` hooks work under Windows through WSL or MSys64		2020-11-07T19:17:44Z
+1227	CLOSED	Display durations for hooks		2019-11-22T22:24:28Z
+1226	CLOSED	[suggestion] absolute-git-dir vs show-toplevel		2019-11-22T17:01:57Z
+1225	CLOSED	RPC failed; curl 56 GnuTLS recv error (-9): A TLS packet with unexpected length was received.	question	2024-08-09T01:56:36Z
+1223	CLOSED	consider activating sponsorship option		2019-11-28T17:17:03Z
+1222	CLOSED	RPC failed; HTTP 502 curl 22 The requested URL returned error: 502		2019-11-14T14:52:17Z
+1221	CLOSED	How to have flake8 to print verbose output, if it was through pre-commit ?	question	2019-11-14T02:39:35Z
+1220	CLOSED	make `files` available for use at top-level	feature, good-first-issue	2020-01-02T18:25:50Z
+1219	CLOSED	[WinError 123] The syntax for filename, directory name, or volume label is incorrect: ''	question	2020-01-02T18:26:56Z
+1217	CLOSED	Name 'json' already defined (by an import)	question	2019-11-13T00:43:51Z
+1216	CLOSED	-mvirtualenv does not support MSYS2 (no symlinks)	upstream-bug	2019-11-08T21:04:41Z
+1214	CLOSED	Filtering which files to pass VS filtering for which files to trigger the hook	question	2019-11-07T15:22:29Z
+1213	CLOSED	feature: add ci testing on centos-7 platform		2019-11-07T15:44:07Z
+1212	CLOSED	Untracked files should be stashed	question	2019-11-07T15:15:58Z
+1211	CLOSED	fatal: reference is not a tree <commit> with older git versions		2019-11-18T21:58:33Z
+1209	CLOSED	question for Nix integration	question	2019-11-06T18:22:23Z
+1208	CLOSED	Use with ruby bundler	question, ruby	2019-11-06T19:24:44Z
+1207	CLOSED	saving the cache when running in CI	question	2020-11-03T19:09:06Z
+1206	CLOSED	error: RPC failed; result=22, HTTP code = 404 with gitlab urls without .git suffix		2019-11-08T10:49:26Z
+1204	CLOSED	Support for conda as a language	feature	2021-10-05T15:00:05Z
+1203	CLOSED	RFE: multiple config files or include feature		2019-11-02T15:26:38Z
+1202	CLOSED	29 tests failing ... what do I do wrong?		2019-11-01T18:02:51Z
+1199	CLOSED	allow pre-commit verbosity to be passed to the hook	question	2019-11-15T21:00:48Z
+1198	CLOSED	Setting a global hooks path causes "Cowardly refusing to install" everywhere	question	2021-08-04T12:55:20Z
+1194	CLOSED	Platform dependent local repo entry	question	2019-11-06T17:28:09Z
+1193	CLOSED	ruby-build tar is out of date so you can't use ruby versions later than 2016	ruby, good-first-issue	2019-10-28T23:39:47Z
+1192	CLOSED	pre-commit install yields FileExistsError: [Errno 17] File exists: '/Users/vsts/.cache/pre-commit'	bug	2019-10-28T23:39:33Z
+1191	CLOSED	this is not a troll, please revert #1179 before making a new release		2019-10-26T19:44:55Z
+1190	CLOSED	Docker language seems broken	question	2019-10-25T19:34:42Z
+1189	CLOSED	feature: make travis lint work as a pre-commit hook		2019-10-25T17:11:49Z
+1187	CLOSED	Windows: Getting ERROR: Could not install packages due to an EnvironmentError	windows, question	2020-07-14T21:01:36Z
+1186	CLOSED	Install all hook types		2024-07-19T19:07:43Z
+1184	CLOSED	Tests assume invocation from a git directory		2019-10-22T14:43:58Z
+1183	CLOSED	Offline test invocation		2019-10-22T18:53:04Z
+1182	CLOSED	how do you even use this?		2019-10-19T23:13:40Z
+1181	CLOSED	test		2019-10-19T22:32:54Z
+1178	CLOSED	pre-commit fails to read git config		2019-10-18T15:05:56Z
+1177	CLOSED	Local repo hooks not reading config files	question	2020-08-02T18:16:12Z
+1175	CLOSED	python: unable to enforce virtualenv requirements	question, python	2019-10-16T16:39:43Z
+1174	CLOSED	run hook concurrent?	question	2020-12-16T21:54:52Z
+1173	CLOSED	Run hooks on files in specific dir, rather than using `--all-files`		2023-12-13T16:37:16Z
+1171	CLOSED	Executable `/bin/bash` not found on Windows		2019-10-14T18:05:43Z
+1167	CLOSED	Support other return codes	question	2019-10-15T00:27:25Z
+1166	CLOSED	.pre-commit-hooks.yaml does not exist	question	2019-10-11T18:11:02Z
+1165	CLOSED	Allow pyproject.toml to define pre-commit config	question	2021-06-16T18:15:15Z
+1164	CLOSED	How can I run pre-commit stage for a different setup.py file?	question	2019-10-08T19:45:46Z
+1163	CLOSED	Getting ERROR: Directory '.' is not installable. Neither 'setup.py' nor 'pyproject.toml' found even if setup.py file available	question	2021-06-08T13:30:02Z
+1159	CLOSED	Misleading error message when entry script is present but not executable	cleanup, good-first-issue	2019-10-07T20:10:11Z
+1158	CLOSED	[question] is it possible to run all hooks of a repository?	question	2019-10-05T23:59:30Z
+1157	CLOSED	Support configuring run-time environment options generically	question	2019-10-07T14:23:29Z
+1156	CLOSED	use standard parsable spelling instead of parseable		2019-10-04T14:22:41Z
+1155	CLOSED	Where do the python packages get installed?	question	2019-10-03T01:01:14Z
+1154	CLOSED	pip fail because SSL_CERT_FILE is not passed		2019-10-01T14:38:36Z
+1152	CLOSED	Preinstall hooks without git repo	question	2020-10-31T23:53:14Z
+1151	CLOSED	Error installing hooks: Can not perform a '--user' install. User site-packages are not visible in this virtualenv.		2022-06-08T22:15:49Z
+1150	CLOSED	way to install 3rd party requirements	question	2019-09-25T20:39:20Z
+1149	CLOSED	InvalidManifestError. Pre-commit tries wrong user.	question	2019-09-25T12:34:54Z
+1147	CLOSED	Enforce always_run contract to all types of hooks	question	2019-10-04T14:23:09Z
+1146	CLOSED	Conditional hooks (run only if docker is present or if docker is not present)	question	2019-09-23T20:45:51Z
+1144	CLOSED	Add statistics information for individual checks (especially time of execution)	feature, good-first-issue	2020-01-02T18:26:18Z
+1143	CLOSED	Support fail_fast on check level	feature, question, good-first-issue	2021-10-22T23:19:24Z
+1141	CLOSED	include version information in error log	feature, cleanup, good-first-issue	2019-09-24T15:54:22Z
+1140	CLOSED	Support monorepos		2019-09-15T10:25:30Z
+1139	CLOSED	Install many hooks types by one command	feature	2021-12-31T16:12:39Z
+1138	CLOSED	Locking pre-commit directory per repository	question	2019-09-14T15:05:30Z
+1137	CLOSED	pre-commit tool should have its own stackoverflow tag	cleanup, good-first-issue	2019-09-13T15:17:17Z
+1136	CLOSED	Possibility to run with all files always	question	2019-09-12T14:40:28Z
+1135	CLOSED	Access to files in hook repository from hook execution	question	2019-09-09T22:43:38Z
+1134	CLOSED	An error has occurred: InvalidManifestError		2019-09-09T17:30:03Z
+1133	CLOSED	An error has occurred: InvalidManifestError	question	2022-01-24T14:04:11Z
+1132	CLOSED	An error has occurred: InvalidManifestError		2019-09-09T16:58:34Z
+1131	CLOSED	Insert variables in pre-commit configuration	question	2019-09-10T17:10:20Z
+1130	CLOSED	pytest passes, but pre-commit run of pytest hook fails with "0 collected".	question	2019-09-06T17:27:10Z
+1129	CLOSED	Add option to add project root to PYTHONPATH	question	2019-09-30T16:28:26Z
+1128	CLOSED	Unable to use language_version to require a minimal python version	question, python	2022-10-04T17:08:45Z
+1127	CLOSED	Support for interaction while running pre-commit hook		2019-09-02T14:06:58Z
+1126	CLOSED	Support for remote docker engine (CircleCI)	question, docker	2019-09-23T18:41:37Z
+1125	CLOSED	node hooks fails SSL CERTIFICATE verification failure.		2019-08-29T23:53:20Z
+1123	CLOSED	Incorrect NODE_PATH on win32	bug, windows, javascript	2019-08-27T17:39:44Z
+1121	CLOSED	Feature Request: Add 'exclude-hook' when running.	question	2019-08-23T13:42:35Z
+1120	CLOSED	Support post-checkout	feature	2020-03-14T06:27:21Z
+1119	OPEN	Completions for CLI	feature	2023-06-30T13:43:20Z
+1115	CLOSED	Possibility to skip a hook from inside the hook script	question	2019-08-15T14:20:02Z
+1114	CLOSED	How to use w/o `virtualenv`	question	2022-08-31T21:55:16Z
+1112	CLOSED	rust hook requires `--path` attribute	bug, rust	2019-08-11T21:05:12Z
+1111	CLOSED	Why messages are duplicated	question	2019-08-08T08:17:43Z
+1110	CLOSED	How to run pre-commit inside folder	question	2021-09-17T19:04:12Z
+1109	CLOSED	pre-commit shoud use on urls with .git suffix		2019-08-04T19:45:38Z
+1106	CLOSED	What's going on with the npm releases?	question	2019-08-03T14:02:14Z
+1105	CLOSED	Support `/home` mounted with `noexec`	question	2019-08-02T21:19:42Z
+1104	CLOSED	Conflicting pre-commit rewrites prevent commit	question	2020-12-30T17:41:26Z
+1102	CLOSED	Run hook once (not for every file) if a matched file is detected	question	2019-07-27T21:25:05Z
+1101	CLOSED	vscode doesn't respect virtual environment	question	2019-07-29T13:43:18Z
+1100	CLOSED	pre-commit has suppressed colors in the output of the hook tool	question	2020-05-15T12:23:59Z
+1099	CLOSED	functionality to add files to commit		2019-07-23T19:27:09Z
+1097	CLOSED	--config arg not working on pre-config install?	question	2019-07-23T16:06:45Z
+1096	CLOSED	`pre-commit init-templatedir` should expanduser before checking value to warn on	bug, good-first-issue	2019-08-03T20:55:02Z
+1095	CLOSED	Plugins should not require a .pre-commit-hooks.yaml file	question	2019-07-23T15:21:24Z
+1087	CLOSED	Option for printing files changed by hook	question	2019-07-20T18:13:49Z
+1086	CLOSED	Option for auto-commiting hook-made changes	question	2019-07-20T14:52:12Z
+1084	CLOSED	optional feature for auto installing the hooks on cloned repos	feature, question	2019-07-22T13:41:53Z
+1083	CLOSED	stash/restore of unstaged files overwrites mtime, etc.	question	2023-11-19T16:13:25Z
+1082	CLOSED	pre-commit doesn't work when called from magit	question	2024-07-29T03:09:56Z
+1081	CLOSED	Local hooks support for Docker	question	2019-07-10T14:12:37Z
+1080	CLOSED	pre-commit changing time a file was last changed	question	2019-07-09T19:14:29Z
+1078	CLOSED	`pre-commit run foo` does not work for pre-push hook `foo`	question	2019-07-09T18:54:16Z
+1076	CLOSED	autoupdate: flip-flop between shallow-fetched tags	bug	2019-07-20T22:21:28Z
+1074	CLOSED	pre-commit and pyenv	question	2019-07-04T21:22:51Z
+1073	CLOSED	Globally disable color?	question	2023-07-04T20:31:45Z
+1072	CLOSED	Docker language fails on Windows - os.getuid()	feature, windows, docker	2019-07-25T13:19:22Z
+1071	CLOSED	invalid literal for int() with base 10: 'dev2'	upstream-bug	2019-08-14T04:59:56Z
+1070	CLOSED	Pre-commit plugin "files" pattern is matching txt extension, but not others	question	2019-07-03T05:48:49Z
+1069	CLOSED	Shareable/Reusable configuration?		2019-07-02T13:20:21Z
+1068	CLOSED	Integrity check		2020-01-03T18:29:38Z
+1066	CLOSED	How to cache pre-commit hooks on travis	question	2021-11-06T14:15:54Z
+1065	CLOSED	--hook-type installation option is a confusing name		2019-09-09T16:44:40Z
+1064	CLOSED	Node environment fails to initialize on alpine based images	upstream-bug	2023-03-14T20:01:46Z
+1063	CLOSED	Pre-commit hangs waiting for GPG signature	question	2019-06-18T01:31:58Z
+1061	CLOSED	Prettier monorepo. Question.	question	2019-06-26T21:20:03Z
+1060	CLOSED	git commit running long time where as pre-commit running fine	question	2021-05-16T00:18:17Z
+1059	CLOSED	Found pre-commit 0.1 version	question, upstream-bug	2019-06-18T04:41:09Z
+1058	CLOSED	Error: cannot lock ref/Unable to create file	windows, question, upstream-bug	2019-06-19T01:38:51Z
+1057	CLOSED	make hook as optional	question	2019-06-10T17:33:25Z
+1053	CLOSED	How can I fail my commit if black test doesn't pass?	question	2019-06-10T17:16:42Z
+1050	CLOSED	daemon hook	question	2019-06-03T01:55:18Z
+1049	CLOSED	Add `--exclude` option to CLI for skipping specific hooks	question	2024-08-27T06:39:09Z
+1047	CLOSED	Pre-commit ignoring args (for ansible-lint)	question	2019-05-27T18:09:26Z
+1046	CLOSED	Pre-commit hook with black	windows, python, upstream-bug	2019-08-27T13:36:40Z
+1044	CLOSED	Trouble configuring pre-commit to run on Travis CI	question	2019-05-26T04:47:33Z
+1042	CLOSED	Permission denied when installed this environment	bug, go	2019-09-18T05:56:27Z
+1041	CLOSED	What if there is no branch named 'master' ?	question	2019-05-22T16:59:12Z
+1040	CLOSED	oops; please ignore		2019-05-21T17:42:52Z
+1039	CLOSED	Cannot install via Puppet		2019-05-21T18:30:06Z
+1038	CLOSED	Run pre-commit after a git cherry-pick	question	2019-05-18T07:04:43Z
+1037	CLOSED	FileNotFoundError when config installed on a different path	question	2019-12-23T20:33:09Z
+1036	CLOSED	pre-commit install --install-hooks fails with an error from git about empty strings	question	2019-05-16T16:15:17Z
+1035	CLOSED	Compute rule of file exclusion	question	2019-05-17T10:39:22Z
+1034	CLOSED	Branch name validation?	question	2019-05-24T05:44:20Z
+1032	CLOSED	test_environment_not_sourced fails on my Ubuntu	cleanup	2019-05-27T02:11:58Z
+1026	CLOSED	KeyboardInterrupt during git is not getting forwarded properly	bug	2019-05-13T20:17:49Z
+1023	CLOSED	Support a special `rev: PLACEHOLDER` which upon first installation will autoupdate	feature	2021-02-19T23:38:34Z
+1021	CLOSED	Good old 'utf-8' codec error on Windows	bug	2019-05-08T15:34:54Z
+1020	CLOSED	ipynb output cleaning filter	question	2019-05-23T17:59:01Z
+1019	CLOSED	ansible-lint failure only when run via pre-commit		2019-05-06T10:45:57Z
+1017	CLOSED	Unable to download latest node version	osx, upstream-bug	2021-08-31T03:39:32Z
+1013	CLOSED	broken pcre detection is broken	cleanup, good-first-issue	2019-04-29T20:44:54Z
+1010	CLOSED	FileExistsError : [WinError 183] Cannot create a file when that file already exists	bug, windows	2019-04-27T23:01:33Z
+1009	CLOSED	ability to define hooks disabled by default	question	2019-04-27T18:54:13Z
+1008	CLOSED	Question: what command should I run after updating .pre-commit-config.yaml?	question	2019-04-25T02:14:15Z
+1007	CLOSED	--show-diff-on-failure does not respect --color	feature, good-first-issue	2019-06-06T17:03:38Z
+1006	CLOSED	Intent to package: Snaps are universal Linux packages		2023-03-08T15:36:02Z
+1003	CLOSED	Show progressive output in verbose mode	question	2021-04-30T18:43:29Z
+1002	CLOSED	Support for .NET Core linters?	question	2019-06-09T15:43:04Z
+1000	CLOSED	args after -- fail	question	2019-05-02T22:12:07Z
+999	CLOSED	Amend commit support	question	2019-04-22T16:17:02Z
+997	CLOSED	Failure to check out revision pre-commit v1.15.1	bug	2019-04-16T18:30:58Z
+995	CLOSED	pre-commit autoupdate wrongly picks pre-releases like 1.2.3a0	question	2023-02-27T14:13:31Z
+994	CLOSED	improve file modification detection perf for large repos	feature	2019-04-24T19:51:39Z
+993	CLOSED	autoupdate back-versioning	question	2019-04-11T20:11:42Z
+992	CLOSED	[1.15.1] build test fails on Python 3.6	question	2019-04-09T14:41:16Z
+991	CLOSED	'files' in hooks not searching files correctly.	question	2019-04-08T20:23:00Z
+990	CLOSED	support vendored python	question	2019-04-09T17:49:16Z
+989	CLOSED	Question: How to change working directory in `system` language hook	question	2023-08-17T19:08:02Z
+988	CLOSED	Wildcard file globbing matching in subdirectory (2 levels or deeper)	question	2019-04-03T17:34:41Z
+985	CLOSED	Error when building RPM		2019-03-30T18:41:55Z
+984	CLOSED	How to apply pre-commit only to master?	question	2019-03-29T03:09:38Z
+983	CLOSED	Intermittent running of plugins	question	2019-03-28T22:05:36Z
+979	CLOSED	Handle wrongly indented .pre-commit-config.yaml		2019-03-25T14:00:54Z
+976	CLOSED	How to install subset of repos	question	2019-03-21T15:22:34Z
+975	CLOSED	Run some hooks only on commit but not on run.	question	2019-03-19T13:46:46Z
+974	CLOSED	issue a warning if a mutable ref is used (`HEAD` / `stable` / `master` / etc.)	feature, good-first-issue	2020-12-18T20:59:31Z
+971	CLOSED	Proper way to pass list/array arguments	question	2019-03-15T17:05:37Z
+970	CLOSED	pre-commit should be able to run travis lint	question, upstream-bug	2019-03-14T15:32:17Z
+969	CLOSED	Colors	question	2021-05-02T15:01:05Z
+968	CLOSED	When `pre-commit run --all-files --show-diff-on-failure` fails, produce a "helpful message"	feature, good-first-issue	2019-03-30T22:53:58Z
+965	CLOSED	warn on unknown keys at the top level	feature, good-first-issue	2019-05-12T22:04:42Z
+964	CLOSED	`minimum_pre_commit_version` at the top level in configuration	feature, good-first-issue	2019-03-22T01:51:19Z
+960	CLOSED	Installing environments fails: No matching distribution found for setuptools>=38.2.5	upstream-bug	2019-03-14T09:43:45Z
+957	CLOSED	quiet mode		2019-02-28T17:47:57Z
+955	CLOSED	[Win10, Py3.72, pre-commit 1.14.4] InvalidManifestError: Expected array but got 'OrderedDict'	question	2021-12-23T16:33:59Z
+954	CLOSED	Use current interpreter for custom hooks	question	2019-02-25T20:41:41Z
+953	CLOSED	try-repo with unstaged commits sometimes doesn't work	bug	2019-03-19T20:09:29Z
+952	CLOSED	Pre-push hook runs on all files from merge commit	question	2019-02-21T18:53:51Z
+951	CLOSED	Failed to create venv on missing path	question	2019-02-24T16:58:03Z
+950	CLOSED	pre-commit not using project pipenv virtualenv	question	2024-02-03T08:48:33Z
+947	CLOSED	Support GIT_SSH_COMMAND		2019-02-19T23:36:49Z
+946	CLOSED	Easier way to support multiple files or excludes	question	2019-02-15T00:50:52Z
+945	CLOSED	Binding pre-commit-config.yaml package versions to repo package.json?	feature, question	2024-02-23T19:14:50Z
+943	CLOSED	cspell hook install fails due pre-commit assumptions regarding npm packages	upstream-bug	2019-02-18T17:15:46Z
+942	CLOSED	hardening pre-commit security by avoiding git installation		2019-08-03T20:25:56Z
+941	CLOSED	Unable to run pre-commit	upstream-bug	2019-02-11T01:18:09Z
+939	CLOSED	Make user for docker optional	question, docker	2019-07-03T22:03:09Z
+938	CLOSED	Easy way to find hook repo?	question	2019-02-04T23:47:05Z
+934	CLOSED	weird failure to find ansible-lint executable		2019-02-13T14:33:00Z
+932	CLOSED	UnicodeDecodeError on Windows because of old pip	question, upstream-bug	2019-01-31T23:37:47Z
+930	CLOSED	Running hook on untracked files	question	2019-01-31T16:46:14Z
+929	CLOSED	pre-commit autoupdate fails when config is empty	bug, good-first-issue	2019-02-02T01:31:39Z
+926	CLOSED	How to add support for a language?	question	2021-08-31T17:06:23Z
+925	CLOSED	Resolving arguments at runtime	question	2019-01-29T18:22:11Z
+923	CLOSED	Can I show warning message without blocking the commit?	question	2021-05-11T22:08:29Z
+922	CLOSED	make auto-fixing (source alteration) user controlable	question	2019-02-13T14:33:16Z
+920	CLOSED	`default_stages` merged w/ `stages` of particular hook ID		2019-01-24T07:52:56Z
+918	CLOSED	Investigate / implement shallow cloning	feature	2019-03-16T03:45:52Z
+917	CLOSED	pre-commit using python2.7 even when trying to force python3		2019-01-14T20:41:49Z
+913	CLOSED	C:\python3\python.exe does not exist while running pre-commit on Windows	windows, python	2019-01-10T19:54:57Z
+905	CLOSED	meta repos should forbid `language` from being set	cleanup, good-first-issue	2019-01-05T17:06:18Z
+897	CLOSED	Switch from pyyaml -> ruamel.yaml	cleanup	2020-02-01T15:54:26Z
+891	CLOSED	symbolic link issue windows		2019-01-01T13:56:01Z
+890	CLOSED	gem install failing after release of gem 3.0.0		2018-12-20T16:46:58Z
+887	CLOSED	node test failing on windows due to npm issue	windows, javascript, cleanup	2019-01-21T07:00:30Z
+884	CLOSED	prepend certain characters to a commit-msg using precommit	question	2019-04-08T15:57:22Z
+882	CLOSED	Alternate Referenceable Hook ID	feature	2019-01-09T08:29:46Z
+881	CLOSED	"git add -N" prevents restoring stashed changes.	bug	2019-01-08T19:03:42Z
+879	CLOSED	Add changes generated by pre-commit		2022-12-26T16:12:36Z
+878	CLOSED	Incorrect shebang in .git/hooks/pre-commit for python3 only installations	feature	2019-01-08T19:03:21Z
+877	CLOSED	install hooks dual command are not well documented		2018-12-09T03:33:02Z
+875	CLOSED	Pre-commit should install correct python version	question, python	2019-01-15T12:07:11Z
+873	CLOSED	Add pre-commit repo setting to specify local repository	question	2018-12-09T03:34:01Z
+872	CLOSED	allow a hook to show output before completion	question	2023-10-18T17:19:58Z
+871	CLOSED	Add config option to ask user to continue anyway	question	2018-11-17T00:28:32Z
+869	CLOSED	Different Python Versions	question	2018-11-15T15:21:02Z
+868	CLOSED	pre-commit fails to try-repo ansible-lint repository with command not found		2018-11-17T00:07:05Z
+867	CLOSED	pre-commit run without --all-files always reports no files to check	question	2023-09-27T12:16:54Z
+866	CLOSED	ability to run the same hook twice	question	2018-11-20T20:23:10Z
+865	CLOSED	"identity" meta hook	feature, good-first-issue	2019-01-08T19:02:12Z
+863	CLOSED	ModuleNotFoundError: toml with 'black' hook		2018-11-10T02:40:58Z
+862	CLOSED	Support for Python projects that don't have setup.py	feature, question, python	2018-12-27T20:24:12Z
+861	CLOSED	Concurrent execution results in uneven work per thread		2018-11-21T08:18:34Z
+860	OPEN	Improve pre-push file list when merges are involved	feature	2024-09-03T16:48:34Z
+859	CLOSED	Allow detection of tool configuration changes	question	2018-11-06T15:52:10Z
+858	CLOSED	Fullpath filename passed to hooks?	question	2018-11-02T01:02:09Z
+856	CLOSED	autoupdate from a revision to a repo with latest tag missing .pre-commit-hooks.yaml errors	bug, feature, good-first-issue	2019-04-23T20:31:13Z
+855	CLOSED	Unable to force check for specific file extension	question	2018-10-27T15:15:04Z
+854	CLOSED	1.12.0 breaks for Python 3.4.3	upstream-bug	2018-11-01T18:26:14Z
+853	CLOSED	importlib-resources is not installed for python<3.7	upstream-bug	2020-03-21T16:48:55Z
+850	CLOSED	How to test hook arguments with `try-repo`?	question	2018-10-24T13:51:53Z
+849	CLOSED	Create mirrors for bandit		2018-10-29T15:31:18Z
+848	CLOSED	Ability to run with unstaged configuration	question	2021-03-07T21:14:51Z
+843	CLOSED	Pre-push not getting all relevant files	bug	2018-10-11T03:46:03Z
+842	CLOSED	Pre-commit hook ignores isort config	question	2018-10-10T22:33:44Z
+841	CLOSED	CLI --types option	question	2018-10-10T16:43:19Z
+840	CLOSED	port to packaging to avoid pkg_resources import cost	question	2018-10-14T22:32:19Z
+838	CLOSED	document/set up support tooling for editor integrations		2018-10-04T08:36:27Z
+836	CLOSED	Hook of type "script" runs multiple times?	question	2022-01-25T15:30:10Z
+835	CLOSED	UnicodeDecodeError: 'charmap' codec can't decode byte 0x81 in position 867: character maps to <undefined>	upstream-bug	2018-10-31T15:28:38Z
+834	CLOSED	How to pass a flag as part of the commit ?	question	2018-09-28T17:09:54Z
+833	CLOSED	commit-msg hook with gitlint makes the text get lost on failure	feature, good-first-issue	2022-12-27T17:20:41Z
+831	CLOSED	git.get_git_dir() appears to break with older versions of git	bug	2018-09-22T19:06:55Z
+830	CLOSED	Does not create .git/hooks/pre-commit file when pre-commit is installed	question	2018-09-19T18:02:10Z
+828	CLOSED	Don't output colors when run inside emacs	upstream-bug	2020-01-08T22:08:51Z
+827	CLOSED	Ability to define hook based on third party GitHub repo	question	2018-09-16T17:38:23Z
+826	CLOSED	Include *.sls files	question	2018-09-13T15:10:29Z
+825	CLOSED	Python executable and/or `libpython` are not running	question, upstream-bug	2018-09-07T19:30:31Z
+824	CLOSED	Support for offline/disconnected operations?	question	2024-03-20T09:42:37Z
+823	OPEN	Quiet mode (`pre-commit install --quiet`) which outputs less while running	feature	2024-03-20T12:40:47Z
+822	CLOSED	pre-commit (installed via brew): "dyld: Library not loaded: @executable_path/../.Python"	osx, upstream-bug	2018-10-03T00:29:11Z
+820	CLOSED	Fatal: unable to access 'https://github.com/ambv/black.git/': server certificate verification failed. CAfile: none CRLfile: none	question	2018-09-03T12:09:53Z
+818	CLOSED	different results between pre-commit run and git commit	question	2018-08-24T15:59:34Z
+817	CLOSED	pygrep to work with commited chunk only	feature, question	2018-08-23T15:34:39Z
+816	CLOSED	Execute python tasks as part of pre-commit	question	2018-08-23T08:43:58Z
+814	CLOSED	PyCharm support [feature request]	feature, question	2018-12-26T04:58:50Z
+813	CLOSED	additional_dependencies are not installed into local virtual env	question	2018-09-02T22:15:05Z
+810	CLOSED	python3.7: command not found	question	2022-05-07T12:17:03Z
+808	CLOSED	Hooks not installed in the right hooks directory for worktrees	bug, feature	2024-02-26T06:01:44Z
+807	CLOSED	Create `language: fail` for filename-only checks	feature, good-first-issue	2018-08-11T15:20:48Z
+806	CLOSED	Automatically stage files changed by hook	question	2018-07-27T00:53:15Z
+804	CLOSED	pre-commit as Docker run-once image	question	2022-07-28T23:29:18Z
+802	CLOSED	hook to enforce the 50/72 rule on commit messages		2020-09-03T15:44:58Z
+798	CLOSED	windows node support currently broken due to `npm` archival	windows, javascript, upstream-bug	2018-07-19T02:07:03Z
+795	CLOSED	docker_image: --entrypoint ignores parameters	question	2018-07-13T21:51:50Z
+794	CLOSED	python_venv language fails to use python3 interpreter and is using python2.7 instead	question	2018-07-18T03:20:55Z
+793	CLOSED	document way to specify which python interpreter is to be used	question	2018-07-12T19:08:57Z
+784	CLOSED	failure to install cspell as a hook but normal install works.	upstream-bug	2018-07-04T22:52:42Z
+783	CLOSED	is there any irc channel for pre-commit?	question	2020-06-05T19:05:16Z
+782	CLOSED	documention regarding adding new python based hooks needs improvement	bug	2018-07-04T22:51:49Z
+780	CLOSED	Unable to run "scripts" on Windows under git bash	windows, question	2018-07-05T00:46:19Z
+777	CLOSED	Invalid symmetric difference expression	bug	2018-07-02T18:05:27Z
+776	OPEN	git apply error when using git-crypt	bug	2022-11-01T21:04:01Z
+775	CLOSED	Error js		2018-07-02T08:07:07Z
+772	CLOSED	`stages: [commit]` hooks will run with `pre-commit run otherhookid`	bug, good-first-issue	2018-07-20T04:13:24Z
+771	CLOSED	Add hook option to run hook once per changed file	question	2022-01-25T15:03:03Z
+770	CLOSED	Failing to install some plugins when using pre-commit with python3 venv	question	2018-06-21T13:07:00Z
+768	CLOSED	Question: Using hooks at different stages	feature, question	2019-01-08T19:03:14Z
+766	CLOSED	pre-commit install invalid syntax	upstream-bug	2018-06-15T18:39:11Z
+765	CLOSED	CI Artifacts	question	2018-06-15T19:19:16Z
+763	CLOSED	Revert autocrlf setting in appveyor pending fix in `git`	cleanup	2019-04-29T05:11:20Z
+761	CLOSED	Allow specifying custom virtual environment for hooks	question, python	2021-02-22T09:33:15Z
+758	CLOSED	Allow specifying environment variables for hook installation?	question	2023-02-03T20:49:45Z
+757	CLOSED	Support custom pip binary for python hooks	question, python	2020-07-29T15:26:48Z
+755	CLOSED	venv tests break virtualenv's `pip` when run from a `-mvirtualenv` virtualenv	bug, python	2018-05-28T23:58:26Z
+749	CLOSED	Detect deleted files	question	2020-04-24T16:25:56Z
+748	CLOSED	InvalidConfigError occurred in Travis CI but not in local		2020-01-14T15:44:54Z
+747	CLOSED	yapf -i and pass pre-commit check	question	2019-10-19T00:15:28Z
+745	CLOSED	Include LICENSE in sdist	cleanup	2018-05-03T14:52:04Z
+743	CLOSED	Crashes with UnicodeDecodeError when running legacy hooks		2018-05-02T20:29:41Z
+742	CLOSED	install-local.py crashes with UnicodeDecodeError when PATH contains non ASCII characters	upstream-bug	2018-05-02T17:48:35Z
+737	CLOSED	pytest doesn't locate tests	question	2018-04-16T16:44:50Z
+735	CLOSED	Implement `pre-commit exec` or similar?		2018-04-12T15:16:16Z
+734	CLOSED	Question: availability of check_mock_methods	question	2018-04-03T17:12:27Z
+733	CLOSED	pre-commit just stashed all my uncommited files without any warning		2018-04-02T03:16:21Z
+732	CLOSED	wont install nodejs based hooks on arm64	upstream-bug	2018-04-01T16:23:06Z
+731	CLOSED	Metahooks	question	2022-06-02T17:59:41Z
+730	CLOSED	Add support for requirements.txt in python additional_dependencies argument	question, python	2021-05-09T18:13:23Z
+728	CLOSED	feature: check for .pre-commit-hooks.yaml when parsing local repo		2018-03-18T05:30:02Z
+727	CLOSED	windows system use sourcetree Or smartGit commit messy code	question	2018-03-14T02:32:23Z
+723	CLOSED	Older versions of git no longer supported	bug	2018-03-13T11:25:06Z
+719	CLOSED	Question: always_skip unless called explicitly	feature, question	2018-03-12T03:20:47Z
+708	CLOSED	Exclude untracked files (pytest + coverage)	question	2019-06-20T14:41:32Z
+707	CLOSED	Issue running pre-commit when specifying an array of `types`?	question	2018-02-21T16:27:01Z
+706	CLOSED	When using `types`, why is it necessary to specify a noop `files`?	question	2018-02-21T16:37:57Z
+705	CLOSED	Dynamic exclude base on language version	question	2018-02-25T04:51:55Z
+704	CLOSED	meta `check-useless-excludes` hook does not consider things excluded by `files` filter	feature, good-first-issue	2018-10-02T18:43:02Z
+703	CLOSED	Teach `try-repo` to clone uncommitted changes	feature	2019-01-01T23:56:03Z
+702	CLOSED	Support `.pre-commit-config.yml` filename	feature, question	2021-05-14T21:36:21Z
+701	CLOSED	conda <--> pre-commit	osx, question, python	2018-03-11T19:13:38Z
+697	CLOSED	Selecting Python 2 or 3 in Windows using language_version	question	2018-02-02T15:25:09Z
+696	CLOSED	Provide option to log all pre-commit activity	feature	2024-01-11T18:05:55Z
+693	CLOSED	Pre-push hook contract is different from git's pre-push contract	feature, question	2018-12-26T05:02:57Z
+691	CLOSED	Improve platform command line length limits	feature, question	2019-04-01T16:48:35Z
+689	CLOSED	Allow certain hook to be verbose	feature, question	2018-02-04T20:38:45Z
+683	CLOSED	cannot get "files" option to work for every file with .eb extension	question	2018-01-11T21:29:25Z
+682	CLOSED	Site is down		2018-02-07T05:00:17Z
+681	CLOSED	Print actual files being fixed by hooks	feature, question	2018-01-09T22:22:05Z
+679	CLOSED	Crash on `local`-only `golang` repositories	bug	2018-01-09T18:23:38Z
+675	CLOSED	Stuck at "Locking pre-commit directory" after add a new hooks		2024-03-23T16:45:14Z
+670	CLOSED	Question: pre-commit as an executable container	question	2018-01-04T20:35:35Z
+669	CLOSED	Write some better tests for brew's integration of pre-commit	osx, cleanup, upstream-bug, good-first-issue	2017-12-08T20:42:38Z
+668	CLOSED	fix-lint failing on Windows		2017-12-01T23:20:43Z
+666	CLOSED	Question: listing pre-push files	feature, question	2018-02-04T01:16:54Z
+665	CLOSED	pre-commit on revert	question	2018-02-11T17:46:56Z
+664	CLOSED	Not working from SmartGit	osx, upstream-bug	2017-12-19T08:19:54Z
+663	CLOSED	Handle when `core.hooksPath` is set?	feature	2019-10-29T15:25:49Z
+662	CLOSED	Restrict pre-commit checks to a folder	question	2020-03-09T15:08:08Z
+660	CLOSED	Uh oh, whoops, `pre-commit autoupdate --repo foo` only leaves foo	bug	2017-11-09T02:43:09Z
+659	CLOSED	Add search to the documentation	question	2017-11-07T18:20:21Z
+658	CLOSED	Autoupdate, select, multiple repositories	feature, good-first-issue	2018-03-04T00:33:16Z
+656	CLOSED	autoupdate just one hook-id	feature	2017-11-07T03:17:16Z
+655	CLOSED	shutil.Error while installing hooks (alpine docker, musl)	question, python, upstream-bug	2018-12-13T23:00:54Z
+651	CLOSED	Throw error if pre-commit isn't installed? Or automatic install pre-commit?	question	2017-10-30T21:35:53Z
+650	CLOSED	npm wrapper/bootstrap script	question	2017-10-30T03:13:07Z
+647	CLOSED	Implement `default_language_version` mapping	feature	2019-01-08T19:03:04Z
+645	CLOSED	Improve virtualenv cache invalidation on windows	windows, python	2017-10-27T04:38:48Z
+644	CLOSED	Difficulty working with both Python 2 and Python 3 repositories.	osx, question, python	2017-10-26T22:39:52Z
+637	CLOSED	Too much data pre-downloaded when not needed	feature	2017-10-20T23:17:33Z
+636	CLOSED	Windows git performance issues	windows, question	2017-10-18T16:08:39Z
+635	CLOSED	precommit-yaml : accept multi-document yaml file		2017-10-13T06:38:42Z
+634	CLOSED	Deprecate `pcre` language	cleanup	2018-01-14T02:14:42Z
+631	CLOSED	macOS 10.12.6 -- ERROR: virtualenv is not compatible with this system or executable	osx	2021-06-02T13:10:38Z
+625	CLOSED	Apostrophe in syspath causes error	bug	2017-09-21T21:31:37Z
+623	CLOSED	commit-msg stage does not work	bug	2017-09-20T12:58:54Z
+621	CLOSED	Unstaged files + never ran pre-commit => "No such file or directory: .../.cache/pre-commit/patch..."	bug	2017-09-18T00:03:29Z
+620	CLOSED	Git For Windows support	bug, question	2017-09-18T12:41:27Z
+618	CLOSED	dyld: Library not loaded: @rpath/libpython3.6m.dylib -- Error	osx, python	2019-07-20T05:34:42Z
+613	CLOSED	Debugging new hook	question	2022-01-25T15:08:02Z
+609	CLOSED	Remove `git fetch --unshallow` from travis-ci configuration	cleanup	2017-09-06T01:07:34Z
+607	CLOSED	`OR` relationship with `types`	feature	2020-11-03T00:01:04Z
+603	CLOSED	Non-English directories are skipped	bug	2017-09-06T13:54:56Z
+599	CLOSED	"Locking pre-commit directory" should only print if waiting for a lock	feature, cleanup	2017-09-04T19:43:13Z
+597	CLOSED	Support using existing Docker images as hooks	feature	2017-09-06T11:24:54Z
+596	CLOSED	pre-commit or pre-add	question	2017-09-05T02:23:34Z
+591	CLOSED	Support list of regexps for `exclude` configuration	feature	2017-08-23T16:30:15Z
+590	CLOSED	Same repo but different additional dependencies	feature	2018-03-04T00:33:53Z
+589	CLOSED	Developing hooks interactively	question	2019-01-08T19:02:30Z
+587	CLOSED	Deprecate and remove some (useless?) options	question, cleanup	2017-08-23T21:04:45Z
+582	CLOSED	Sign-off git commit if all pre-commit checks pass	feature	2022-11-15T23:42:15Z
+579	CLOSED	Install node packages from npm instead of git	question, javascript	2017-08-07T03:42:13Z
+577	CLOSED	"pre-commit-hooks.yaml does not exist"	question	2021-05-06T18:12:51Z
+576	CLOSED	Homebrew test block fails for 0.16.0	osx, question	2017-08-04T17:23:37Z
+570	CLOSED	git unadd changes lost if hook fails on windows	bug, windows	2017-08-02T02:25:49Z
+568	CLOSED	check-docstring-first can't handle unicode		2017-07-28T21:16:42Z
+564	CLOSED	Complete `CONTRIBUTING.md` (or create `tests/README.md`)	cleanup	2017-10-10T21:29:04Z
+562	CLOSED	pre-commit should meet the XDG Base Directory Specification	feature	2017-09-07T15:19:46Z
+557	CLOSED	Feature request - pass files to pre-commit hooks separately (i.e. xargs mode)		2022-01-25T15:07:58Z
+554	CLOSED	Feature request - hook groups and run hooks by group	feature	2017-07-07T22:11:36Z
+549	CLOSED	[Question] How to pass args to pre-recieve hook	question	2017-06-29T01:11:33Z
+548	CLOSED	pre-commit hook 'suites' or 'collections'	question	2017-07-03T18:30:35Z
+547	CLOSED	How do i create a hook that does this	question	2017-07-25T16:20:14Z
+545	CLOSED	git diff enhancement to add --no-ext-diff	bug	2017-06-09T22:01:13Z
+544	CLOSED	Feature Request - Allow transformation of found filenames	question	2017-07-03T04:39:11Z
+543	CLOSED	pkg_resources.DistributionNotFound: pre-commit on Python 2.6.6		2017-06-03T17:59:58Z
+541	CLOSED	Somebody can create new hook from PgSanity - checks the syntax of Postgresql SQL files?		2017-06-01T00:46:50Z
+539	CLOSED	computer-readable output when run in a CI job	feature, question	2017-05-18T00:13:52Z
+536	CLOSED	Unicode error: python 2 + merge conflict + non-ascii commit message	bug	2017-05-16T19:52:33Z
+534	CLOSED	Categories Hooks by Language		2017-05-08T16:58:05Z
+533	CLOSED	always_run + no `files` still crashes on `KeyError: files`	bug	2017-05-31T02:26:47Z
+532	CLOSED	Hook that updates files	question	2020-12-15T17:21:43Z
+531	CLOSED	Feature request - Add support for other types of hooks aside from pre-commit	feature	2019-04-17T08:02:11Z
+528	CLOSED	Anyway to run pre-commit on staged	question	2017-04-30T08:48:20Z
+527	CLOSED	Add hook option to not pass matching files as arguments to the program	feature	2017-05-16T19:52:43Z
+526	CLOSED	Pre-commit hook for prettier		2017-04-27T21:50:39Z
+525	CLOSED	[RFC] Make the default of `pre-commit autoupdate` use `--tags-only`?	question	2017-05-16T19:52:49Z
+523	CLOSED	Feature request: Allow files to take a glob pattern	question	2023-02-01T13:26:56Z
+522	CLOSED	Support default args for system hooks	question	2017-04-13T00:54:22Z
+521	CLOSED	New hook for tslint	question	2017-04-19T01:06:36Z
+520	CLOSED	looking for pre-commit sanctioned stylelint hook	question	2017-04-13T17:57:59Z
+519	CLOSED	Unknown Encoding error	osx	2017-06-09T16:16:49Z
+518	CLOSED	stop running push after fail		2017-09-11T16:10:38Z
+516	CLOSED	limit run to staged changes	question	2017-03-31T03:28:28Z
+514	CLOSED	Add option to generate a sample configuration file	feature	2017-05-16T19:52:59Z
+512	CLOSED	How to uninstall or upgrade?		2017-03-27T15:16:44Z
+511	CLOSED	Known issue: appveyor is currently failing		2017-05-26T20:37:24Z
+510	CLOSED	Parallel execution of individual hooks?	feature, question	2018-12-20T20:48:01Z
+509	CLOSED	Allow better pre-push interaction with git-lfs	question	2017-03-31T14:34:26Z
+508	CLOSED	Support for the plugins get run as external/system commands	question	2017-03-12T12:17:55Z
+506	CLOSED	Guidance on symlinking to linter configs	question	2017-03-17T14:56:59Z
+502	CLOSED	Validation of pre-commit breaks if 'files' property not present for `always_run` hooks	bug	2017-03-27T14:56:04Z
+500	CLOSED	Don't lint broken symlinks		2017-02-25T00:33:35Z
+499	CLOSED	A config option to store hook output into a file	feature	2017-05-08T17:51:57Z
+495	CLOSED	The 'pyyaml' distribution was not found and is required by pre-commit-hooks		2017-02-27T13:30:56Z
+492	CLOSED	Validate minimum_pre_commit_version for `local` hooks as well	feature	2017-02-16T23:11:46Z
+491	CLOSED	Encode some sort of "version" for language-local repositories	bug, feature	2017-02-16T21:50:11Z
+485	CLOSED	Python support for virtual environments		2017-02-16T17:59:01Z
+477	CLOSED	`docker build` argument order is invalid on old versions of Docker	bug	2017-01-27T22:27:25Z
+471	CLOSED	Can't use ruby hooks with "BUNDLE_DISABLE_SHARED_GEMS: true" in .bundle/config	bug, ruby	2017-01-24T14:22:44Z
+466	CLOSED	Guidance on pre-commit + monorepos	question	2021-09-17T16:58:43Z
+465	CLOSED	Use pre-commit in a pre-receive hook	question	2017-01-23T13:59:03Z
+464	CLOSED	support custom hooks's requirements?	question	2017-01-06T16:33:29Z
+457	CLOSED	InvalidConfigError: .pre-commit-config.yaml does not exist	question	2019-07-04T11:46:24Z
+456	CLOSED	Hooks pre-fetching	question	2021-12-14T16:39:50Z
+455	CLOSED	nodeenv try to download non existing tar.gz prebuilt under Cygwin	bug, windows, javascript	2017-09-06T14:32:59Z
+454	CLOSED	How to create two roules for exclude		2016-12-19T13:16:36Z
+453	CLOSED	force use of https instead of git	question	2016-12-17T15:43:18Z
+452	CLOSED	[Question] why can't we add pylint in this repo hooks.yaml file?		2016-12-07T10:00:21Z
+451	CLOSED	Support for SwiftPM packages	feature	2017-01-21T19:29:38Z
+450	CLOSED	[Question] How can I configure pre-commit globally for all projects?	question	2020-05-14T15:39:09Z
+447	CLOSED	PCRE passes even if ggrep is not installed on OS X	bug, osx	2017-01-23T23:36:03Z
+446	CLOSED	question: global/indivisible hooks?	question	2016-12-03T19:01:21Z
+445	CLOSED	Question: python hook versions and install_requires	question	2016-12-03T01:16:11Z
+440	CLOSED	Run when submodule changes	question	2016-12-01T20:25:39Z
+437	CLOSED	cygwin python checking should happen after setup code	bug	2016-11-26T23:30:13Z
+433	CLOSED	Could pre-commit have an explicit error message when used with a non-compatible git version ?		2016-12-05T16:09:16Z
+432	CLOSED	Question: support for multiple configurations?	feature, question	2016-12-05T16:09:47Z
+431	CLOSED	Feature request: pre-commit run --sha	question	2016-11-24T01:14:11Z
+430	CLOSED	Support for Go hooks	feature	2017-01-26T16:25:47Z
+429	CLOSED	how to use http proxy when do pre-commit run	question	2019-03-12T15:03:40Z
+426	CLOSED	Allow to execute Python hooks outside a virtualenv	question	2016-11-08T18:42:59Z
+425	CLOSED	setup.cfg prevent pre-commit to install	bug	2016-11-07T21:21:29Z
+424	CLOSED	PEBKAC		2016-11-03T16:43:13Z
+419	CLOSED	Not working on macOS Sierra?	bug, osx, python	2016-10-25T20:54:08Z
+418	CLOSED	Could not find valid gem __fake_gem	bug, ruby	2016-11-08T00:53:10Z
+417	CLOSED	Explictly specify a stage of push, but script run during commit		2016-10-04T01:12:04Z
+416	CLOSED	cannot use ansible-lint with pre-commit on the Mac		2016-10-03T09:52:23Z
+414	CLOSED	Configuration v2	feature, question	2019-09-15T16:12:43Z
+413	CLOSED	OSErrno 13 Permission Denied		2019-04-25T12:14:13Z
+410	CLOSED	Write regression test for external diff tool	cleanup	2016-09-10T16:46:17Z
+405	CLOSED	Warn on useless `exclude:`s during `--all-files`	feature	2017-10-30T18:06:18Z
+404	CLOSED	Expose `negate` and deprecate pcre hooks	feature	2017-09-24T18:31:10Z
+403	CLOSED	Remove python2.6 format literals	cleanup	2016-09-15T16:20:42Z
+402	CLOSED	Remove python2.6 sys.stdout.write compatibility	cleanup	2016-08-31T23:25:59Z
+401	CLOSED	Remove python2.6 tarfile_open compatibility	cleanup	2016-09-01T00:24:29Z
+397	CLOSED	Stashed changes lost if hook fails with non-UTF-8 diff containing trailing whitespace	bug	2016-08-18T15:29:16Z
+396	CLOSED	Redesigning as pure Python distribution	question	2016-08-16T14:14:08Z
+395	CLOSED	Supported CPython versions, installation methods?	question	2016-08-16T13:16:15Z
+394	CLOSED	Add support for "xargs -n1" hooks?	feature, question	2022-01-25T15:07:32Z
+393	CLOSED	Idea: Allow searching of hook directory rather than cwd	question	2017-07-03T04:39:59Z
+392	CLOSED	Staging new files		2016-08-06T09:40:27Z
+391	CLOSED	Faster (than) git clone	question	2022-06-18T00:59:42Z
+390	CLOSED	Executable normalization breaks custom entry points		2016-07-26T18:44:18Z
+389	CLOSED	Support for commit-msg	feature	2017-07-24T04:51:51Z
+386	CLOSED	do not recommend `pre-commit autoupdate` on failure of `pre-commit autoupdate`	feature	2016-08-31T19:45:27Z
+385	CLOSED	http://pre-commit.com/hooks.html contains entries that are not working		2016-06-25T14:38:51Z
+384	CLOSED	add info why it is better than https://github.com/brigade/overcommit	question, cleanup	2017-09-04T18:56:39Z
+383	CLOSED	recommend `pip install --user pre-commit` for Non Administrative Installation:		2016-06-25T14:34:24Z
+381	CLOSED	Support global git hooks in git v2.9		2016-06-15T16:47:48Z
+380	CLOSED	How to run pre commit on diff only?	question	2016-06-14T15:16:58Z
+379	CLOSED	pre-commit bug when invoking eslint via npm	bug, windows, javascript	2016-06-27T13:53:25Z
+374	CLOSED	Newly gitignored (but file still exists) files are linted	bug	2016-05-25T16:32:03Z
+371	CLOSED	Not-found executable crashes framework	bug	2016-05-20T22:03:53Z
+369	CLOSED	Ruby hooks failing with rbenv installed	bug, ruby	2016-05-17T16:19:30Z
+367	CLOSED	support hooks located in repository		2016-05-04T22:49:04Z
+366	CLOSED	fatal: ambiguous argument '': unknown revision or path not in the working tree.		2016-05-03T19:22:55Z
+365	CLOSED	Detect the python version when creating `default` py_envs	feature, python	2017-07-09T17:23:31Z
+364	CLOSED	`pre-commit uninstall` does not remove pre-push hooks		2018-11-09T17:06:35Z
+363	CLOSED	Creating repositories fails in parallel	bug	2017-08-24T04:38:04Z
+362	CLOSED	Allow using system wide python modules	feature, question	2016-05-04T22:48:24Z
+361	CLOSED	Ability to denote version requirements in hooks.yaml for Ruby dependencies	feature, ruby	2016-04-04T18:19:19Z
+360	CLOSED	Issues with running under another virtualenv + fish shell and a workaround	bug	2016-04-12T04:57:35Z
+359	CLOSED	Error `pre-commit` not found. Did you forget to activate your virtualenv?	osx	2022-01-17T13:41:30Z
+357	CLOSED	nodeenvs currently flakey with `npm ERR! cb() never called!`	bug	2016-04-03T22:36:28Z
+354	CLOSED	Warn when mismatching cygwin git/python	feature, windows	2016-11-28T08:28:57Z
+353	CLOSED	Support cygwin on windows	bug, windows	2016-03-20T03:25:24Z
+352	CLOSED	"Not a git repository" error in Cygwin	windows	2016-03-20T05:15:02Z
+351	CLOSED	Is it possible to show stdout of the scripts while the scripts is running		2016-03-09T18:34:04Z
+349	CLOSED	pre-commit initialization fails on setuptools		2016-03-08T05:28:44Z
+345	CLOSED	Maybe replace xargs with a python implementation	feature	2016-04-11T16:55:44Z
+344	CLOSED	Add option to simply run a command, without git repo		2016-05-04T22:49:12Z
+341	CLOSED	pre-commit fails with broken symlink		2016-08-23T12:07:19Z
+340	CLOSED	coala	question	2017-05-08T18:01:47Z
+337	CLOSED	Unit tests fail when only one env is used		2016-01-23T00:57:12Z
+336	CLOSED	Not working on Windows		2016-01-20T15:10:47Z
+334	CLOSED	Latest virtualenv breaks pre-commit	bug	2016-01-21T17:52:54Z
+331	CLOSED	Wrong version of pep8 installed		2016-01-12T16:51:59Z
+330	CLOSED	Error with Git bash when installing Python environment: UnicodeDecodeError: 'utf8' codec can't decode byte 0x82 in position 928: invalid start byte	bug	2016-01-13T07:16:55Z
+328	CLOSED	Consider using shallow clones for hook repositories	feature	2016-01-03T22:45:16Z
+327	CLOSED	Consider renaming the environment directory for node	feature, javascript	2017-09-04T19:02:50Z
+323	CLOSED	[Question] enforce script to run once (and only once) for each commit	feature	2015-12-22T21:09:43Z
+322	CLOSED	pre-commit fails with .git/index.lock		2015-12-23T03:31:54Z
+314	CLOSED	:args seems to break with {} in list.	bug	2015-12-09T22:37:58Z
+312	CLOSED	When hooks modify files but print nothing, we should output some message of some sort anyway	feature	2015-12-02T19:47:16Z
+311	CLOSED	additonal_dependencies isn't "rollback safe"	feature	2015-12-11T01:40:16Z
+309	CLOSED	Non-ascii prints in error handler without tty cause stacktrace	bug	2015-12-01T22:16:53Z
+307	CLOSED	Hooks should have a way of specifying minimum pre-commit version to run	feature	2015-12-07T16:08:52Z
+300	CLOSED	Cloning repo inside pre-commit fails with latest git	bug	2015-11-24T00:40:59Z
+299	CLOSED	Latest virtualenv writes virtualenv directory name to current working directory	bug, windows	2016-01-20T02:34:20Z
+294	CLOSED	Appveyor is broken :(	bug	2015-11-24T07:10:53Z
+293	CLOSED	Add option to pass additional dependencies to hooks	feature	2017-05-08T16:48:10Z
+291	CLOSED	autoupdate drops all my commented out code in the config file		2015-11-17T15:20:46Z
+289	CLOSED	Possible to accept STDIN from hooks?		2015-11-18T18:26:03Z
+285	CLOSED	Make pre-commit consider a hook as "failed" if it modifies files and still (incorrectly?) exits 0	feature	2015-11-13T00:14:41Z
+283	CLOSED	.pre-commit directory is not cleaned up	feature	2019-01-08T19:02:50Z
+282	CLOSED	Can't install node based hooks (jshint, jscs, eslint, etc.) with node 5.0.0	bug	2015-12-14T15:56:55Z
+281	CLOSED	Global configuration of files / exclude	feature	2022-04-06T14:54:44Z
+280	CLOSED	Setup in CI		2015-10-27T18:24:57Z
+278	CLOSED	Cannot install ruby hooks on OS X	bug, osx	2015-10-14T19:41:33Z
+274	CLOSED	Contributing: Add some information about running the tests to this repo	bug	2015-11-26T07:39:57Z
+273	CLOSED	Use coverage>=4 under test	bug	2015-11-24T20:42:20Z
+269	CLOSED	Make tests pass with pytest >= 2.8	bug, feature	2015-10-01T18:16:58Z
+268	CLOSED	Feature Request: more options for specifying file list to run against		2015-09-29T19:32:55Z
+267	CLOSED	Update documentation to properly demonstrate how to pass args to a hook		2015-09-29T17:04:16Z
+266	CLOSED	Unable to determine how to use pre-existing virtualenv for a hook		2018-06-24T09:44:25Z
+265	CLOSED	Set up cronjob that updates pre-commit mirrors	feature	2017-05-26T21:43:02Z
+264	CLOSED	Missing functools32 as dependency		2015-09-08T16:35:07Z
+263	CLOSED	Drop python2.6?	question	2016-08-18T14:36:15Z
+257	CLOSED	Can't match files based on shebang language	feature	2017-07-03T03:10:22Z
+256	CLOSED	Feature-request: pre-commit without changed files		2020-09-15T16:28:25Z
+255	CLOSED	Feature request: pre-commit or pre-push only hooks	feature	2015-10-05T18:30:44Z
+253	CLOSED	Add option to print diff if hooks failed and files were changed.	feature	2017-02-25T18:48:49Z
+246	CLOSED	.git/hooks/pre-commit points to a dead symlink in a non-writeable directory => IOError	bug	2015-07-23T19:59:06Z
+245	CLOSED	Allow hooks to output arbitrary bytes: UnicodeDecodeError: 'utf8' codec can't decode byte	bug	2015-07-24T13:38:49Z
+242	CLOSED	Unstaged check should not complain when running --all-files		2015-06-15T20:56:00Z
+241	CLOSED	install-local.py is failing with `DistributionNotFound: No distributions at all found for wheel`		2015-06-03T18:41:39Z
+240	CLOSED	Feature request : add a "fail fast" configuration entry	feature	2017-09-11T16:10:08Z
+238	CLOSED	pre-commit autoupdate fails on `local` hooks repos	bug	2015-06-02T22:49:09Z
+237	CLOSED	new pyflakes causes exceptions on clean run		2015-05-31T20:49:22Z
+234	CLOSED	Some versions of git don't create .git/hooks directory	bug	2015-05-24T03:33:30Z
+232	CLOSED	Remove / deprecate expected_return_code	bug	2015-11-12T22:24:18Z
+229	CLOSED	Better support for multiple projects with different language versions	feature	2015-05-18T18:11:53Z
+228	CLOSED	Feature: execute hooks in a subdirectory		2015-05-20T08:43:02Z
+227	CLOSED	Bug: base manifest value for 'exclude' is always ignored	bug	2015-05-18T22:14:29Z
+224	CLOSED	Why tests/commands/run_test.py:test_multiple_hooks_same_id ?		2015-05-07T19:49:27Z
+221	CLOSED	py.test / tox fails when running tests on a machine where pre-commit is installed		2015-05-05T23:06:18Z
+220	CLOSED	Feature request: a special "<text>" value for the hooks.yaml "files" field	feature	2017-07-03T03:09:45Z
+219	CLOSED	Add support for pcre / scripts / system hooks definition in .pre-commit-config.yaml	feature	2015-05-10T22:06:07Z
+218	CLOSED	Hook contribution & minor suggestions		2015-05-01T18:28:18Z
+217	CLOSED	xargs error	bug, osx	2015-04-23T22:18:55Z
+214	CLOSED	Not stashing changes before installing		2015-03-26T16:05:11Z
+213	CLOSED	Does not work within submodules	bug	2015-12-19T06:45:16Z
+212	CLOSED	Having trouble running on Travis-CI		2015-03-19T07:55:26Z
+210	CLOSED	autoupdate is awesome except it gobbles comments and reformats lists :/	feature	2017-08-11T03:16:40Z
+209	CLOSED	Add support for PHP hooks	feature	2017-01-04T21:33:50Z
+208	CLOSED	pre-commit potentially uses the wrong `virtualenv` when building environments		2015-03-29T16:31:33Z
+207	CLOSED	Failures when hook ids are non-ascii	bug	2015-05-23T17:52:35Z
+205	CLOSED	Windows: Large number of files causes `xargs: ... Bad file number`	bug, windows	2015-02-28T00:00:10Z
+203	CLOSED	Crash when /tmp is on a different device		2015-02-27T18:21:28Z
+202	CLOSED	Windows: pcre support	feature, windows	2017-10-10T21:20:17Z
+201	CLOSED	Windows: Ruby Support	feature, windows, ruby	2020-06-15T21:13:45Z
+200	CLOSED	Windows: Node Support	feature, windows, javascript	2018-01-13T23:45:21Z
+199	CLOSED	Windows: Terminal width support	feature, windows	2016-02-21T05:42:29Z
+198	CLOSED	Windows: Color support	feature, windows	2017-04-07T19:22:48Z
+197	CLOSED	Python2 and Python3 with pre-commit		2018-08-21T13:23:06Z
+194	CLOSED	Improve error message when attempting to run non-existent hook	feature	2015-11-27T13:07:55Z
+191	CLOSED	pre-commit should probably ignore symlinks?	bug	2017-07-03T03:09:12Z
+187	CLOSED	Support pre-push		2015-01-29T18:45:41Z
+186	CLOSED	^C^C during installation may leave pre-commit in a bad state		2015-02-09T04:59:40Z
+184	CLOSED	"OSError: [Errno 17] File exists" upon trying to commit		2015-01-09T19:03:05Z
+182	CLOSED	Create hook for detecting bad placement of toplevel docstring		2015-01-04T21:22:09Z
+181	CLOSED	Extending the PATH of the original virtualenv into pre-commit's virtualenv		2015-01-02T21:48:59Z
+180	CLOSED	aspy.yaml not found during pre-commit install		2015-01-11T18:32:47Z
+179	CLOSED	Running Pre-commit hooks on ALL files regardless of staged status		2014-11-24T16:10:30Z
+178	CLOSED	pre-commit doesn't keep current project/virtualenv in sys.path		2020-01-13T16:54:51Z
+176	CLOSED	Stashed changes lost if hook fails		2021-10-13T16:46:25Z
+173	CLOSED	commandline interface		2015-11-26T07:18:01Z
+172	CLOSED	pre-commit clobbers yaml parse errors		2014-10-01T23:17:26Z
+171	CLOSED	nothing checked if PWD is a subdirectory		2014-10-08T07:35:28Z
+169	CLOSED	Run on a single file	feature	2014-09-18T15:45:26Z
+165	CLOSED	npmrc causes npm to install to home directory instead of nodeenv	bug	2014-09-04T17:00:55Z
+164	CLOSED	Choose python more intelligently in the file installed to .git/hooks/pre-commit	feature	2014-09-04T21:48:15Z
+161	CLOSED	UnicodeEncodeError when writing to stdout in python2.6	bug	2014-09-02T23:25:34Z
+160	CLOSED	Mercurial support	feature	2018-02-23T05:17:15Z
+159	CLOSED	Won't run on Windows		2016-04-16T22:33:30Z
+158	CLOSED	Ability to specify latest sha in config yaml	question	2018-03-07T21:12:23Z
+157	CLOSED	Don't stash .pre-commit-config.yaml	feature	2015-05-10T23:45:49Z
+156	CLOSED	clean may not to be working as expected (or I don't know what I'm doing wrong)		2014-08-30T02:01:03Z
+155	CLOSED	install_requires should fix dependencies to specific versions		2015-11-13T00:23:01Z
+150	CLOSED	Add option to not follow symlinks		2014-11-12T00:22:18Z
+149	CLOSED	Support files / exclude as both regex / list of regexes		2016-10-27T14:33:26Z
+145	CLOSED	Failed hooks should print hook-id		2014-07-22T13:59:29Z
+144	CLOSED	config: reasonable defaults	question	2016-10-27T14:33:06Z
+143	CLOSED	buck's first install experience		2014-08-27T04:56:56Z
+142	CLOSED	pre-commit is private		2014-08-27T04:57:13Z
+141	CLOSED	Crash when not in a terminal	bug	2014-07-17T23:51:45Z
+140	CLOSED	Should use sys.executable instead of 'python'	bug	2014-07-22T13:59:46Z
+138	CLOSED	Don't assume `nodeenv` is executable, use `python -m ...` instead	bug	2014-07-08T17:13:27Z
+133	CLOSED	pcre hooks do not work on osx	bug, osx	2015-09-03T15:09:52Z
+129	CLOSED	Failures on filenames with spaces	bug	2014-06-21T19:13:11Z
+125	CLOSED	readlink derps on osx	bug	2014-06-18T14:25:22Z
+123	CLOSED	installed hook should run python -m pre_commit.main	bug	2014-06-18T02:57:41Z
+118	CLOSED	Add `pcre` language.	feature	2014-06-17T04:20:13Z
+114	CLOSED	Add "migration mode" to `pre-commit install`	feature	2014-06-17T02:03:07Z
+112	CLOSED	Merge conflict detection should look for MERGE_MSG and MERGE_HEAD...	bug	2014-06-13T15:07:29Z
+111	CLOSED	Add -V --version	feature	2014-06-15T20:05:44Z
+109	CLOSED	autoupdate is adding defaults to hooks it does not update	bug	2014-06-12T01:19:57Z
+107	CLOSED	Consider using one of the other rbenv plugins for getting rubies	feature	2014-06-07T21:36:11Z
+106	CLOSED	Support tags as well as shas	feature	2018-03-04T00:33:27Z
+104	CLOSED	Allow hooks to define sane defaults	feature	2014-06-07T20:28:29Z
+103	CLOSED	autoupdate might revert your version	bug	2017-02-25T17:53:43Z
+102	CLOSED	Crash on osx using scss-lint	bug	2014-06-05T04:36:01Z
+101	CLOSED	Add hook for detecting unresolved merge-conflicts	feature	2015-03-11T22:20:14Z
+99	CLOSED	Support overrides	feature	2015-11-26T07:20:29Z
+98	CLOSED	Improve error messages and logging	feature	2015-11-13T20:38:27Z
+95	CLOSED	System hooks with spaces in entry are not runnable	bug	2014-05-18T21:30:06Z
+93	CLOSED	Provide a way to optionally specify version of language	feature	2014-06-07T20:29:40Z
+90	CLOSED	Virtualenvs fail with really long paths	bug	2014-05-03T00:34:40Z
+88	CLOSED	Display hook ids when running pre-commit	feature	2014-04-20T03:11:50Z
+85	CLOSED	UnicodeDecodeError in staged_files_only	bug	2014-04-18T21:27:19Z
+82	CLOSED	pre-commit crashes when running during unresolved merge conflict	bug	2014-04-14T06:57:46Z
+76	CLOSED	Occasional flakiness of staged file stasher	bug	2014-04-14T04:27:42Z
+75	CLOSED	Add from __future__ import unicode_literals hook	feature	2015-01-19T01:00:38Z
+71	CLOSED	Add hook for checking .travis.yml and tox.ini	feature	2014-06-14T16:49:32Z
+70	CLOSED	Add flake8 hook. Deprecate pyflakes	feature	2019-04-03T14:35:59Z
+69	CLOSED	Skip hook if there are no files to run for it.	feature	2014-04-14T00:47:20Z
+68	CLOSED	--all-files, should this stash unstaged files?	feature	2014-04-14T03:17:54Z
+66	CLOSED	TypeError while instantiating LoggingHandler (2.6)	bug	2014-04-08T00:08:56Z
+63	CLOSED	Implement color correctly		2014-04-06T02:35:00Z
+58	CLOSED	^C during hook repository install causes broken state	bug	2014-04-04T05:57:31Z
+55	CLOSED	Move into commands and add tests for `_run_single_hook`		2014-04-14T00:48:44Z
+48	CLOSED	pre-commit install should add .pre-commit-files to .gitignore	feature	2014-05-07T16:33:29Z
+47	CLOSED	Add exclude pattern to hooks config	feature	2014-04-01T06:38:10Z
+44	CLOSED	Add autoupdate command to `pre-commit`	feature	2014-03-24T06:05:27Z
+42	CLOSED	Make pre-commit use `commands` style of arguments		2014-03-24T01:04:54Z
+40	CLOSED	Add way to temporarily/permanently disable hooks.	feature	2014-04-19T18:07:00Z
+39	CLOSED	Implement noop hook type	feature	2014-03-30T22:23:52Z
+36	CLOSED	pre-commit message is not incredibly useful when not on the path	feature	2014-03-23T00:21:30Z
+34	CLOSED	Fix lots of files problem	bug	2014-03-22T23:59:35Z
+32	CLOSED	pre-commit -i does not install the file with +x	bug	2014-03-19T04:42:18Z
+31	CLOSED	Run hooks only on conflicting files in a merge conflict situation	feature	2016-07-07T16:31:32Z
+30	CLOSED	Only run hooks on staged files	feature	2014-04-06T05:08:07Z
+29	CLOSED	Confirm jshint .jshintrc file actually works		2014-03-30T20:29:52Z
+28	CLOSED	Consider using --no-checkout for cloning	feature	2014-03-23T00:10:23Z
+25	CLOSED	Tests fail when running as pre-commit step (but pass otherwise)	bug	2020-01-06T15:00:24Z
+24	CLOSED	Write hook for "Always newline end of file"	feature	2014-03-23T04:50:09Z
+23	CLOSED	Add hook for requirements and setup.py	feature	2014-06-14T16:49:46Z
+22	CLOSED	Make python non-commented-out debug statement checker	feature	2014-03-14T21:54:10Z
+21	CLOSED	Maybe port all of the terrible c++ linters I've written in the past	feature	2015-01-13T22:47:24Z
+20	CLOSED	Add "missing python imports" linter	feature	2014-08-14T23:34:29Z
+19	CLOSED	Create linter for "python test files should end in _test.py"	feature	2014-03-17T02:25:33Z
+18	CLOSED	Create cheetah import order fixer	feature	2014-07-24T03:01:36Z
+17	CLOSED	Create python import order fixer	feature	2014-10-08T07:38:02Z
+16	CLOSED	Port cheetah encoding fixer	feature	2014-08-14T23:34:51Z
+15	CLOSED	Port python encoding fixer	feature	2015-11-13T22:09:44Z
+14	CLOSED	Port scss lint	feature	2014-05-07T16:35:15Z
+13	CLOSED	Port yaml file checker	feature	2014-04-04T05:32:13Z
+12	CLOSED	Port pyflakes checker	feature	2014-03-14T07:40:35Z
+11	CLOSED	Port trailing whitespace trimmer	feature	2014-03-14T22:27:28Z
+10	CLOSED	v2: make web endpoint showing all registered hook repos	feature	2014-08-28T05:12:09Z
+9	CLOSED	Write pre-commit entry point	feature	2014-03-15T21:34:10Z
+8	CLOSED	Work out how a repository will use pre-commit	feature	2014-03-14T07:39:46Z
+7	CLOSED	Work out how repos are going to work	feature	2014-03-14T07:39:38Z
+6	CLOSED	Make skeleton of client library	feature	2014-03-14T07:39:26Z
+5	CLOSED	Support node repos	feature	2014-03-14T21:54:40Z
+4	CLOSED	Support ruby repos	feature	2014-05-05T04:59:42Z
+3	CLOSED	Support python repos	feature	2014-03-14T07:39:14Z
+2	CLOSED	Add config validator	feature	2014-03-14T07:39:06Z
+1	CLOSED	Add manifest validator	feature	2014-03-13T21:55:28Z
