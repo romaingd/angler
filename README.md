@@ -33,7 +33,8 @@
     - Local / global install
     - No need for a repo-side manifest
     - Display only failing hooks
-    - Sourceable multi-part config (?)
+    - Monorepo support (?) - Check pre-commit issues
+    - Sourceable multi-part config (?) - Check pre-commit issues on the matter
     - CLI add/remove/stats + autocompletion (?)
 
 ## Similar tools
