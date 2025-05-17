@@ -2,8 +2,8 @@
 
 ## Plan
 
-- [x] Simple pre-commit hook
 - [x] Order steps below
+- [ ] Simple pre-commit hook
 - [ ] Shell script hook
 - [ ] `xargs` on staged files
 - [ ] Multiple hooks (sequential)
@@ -25,17 +25,53 @@
 ## Key features
 
 - Fast
-    - Rust binary, no intermediate VM
-    - Concurrency across and within hooks
-    - Pre-computed exact commands to run
+  - Rust binary, no intermediate VM
+  - Concurrency across and within hooks
+  - Pre-computed exact commands to run
 - Simple
-    - Human-readable expansion of each hook
-    - Local / global install
-    - No need for a repo-side manifest
-    - Display only failing hooks
-    - Monorepo support (?) - Check pre-commit issues
-    - Sourceable multi-part config (?) - Check pre-commit issues on the matter
-    - CLI add/remove/stats + autocompletion (?)
+  - Human-readable expansion of each hook
+  - Local / global install
+  - No need for a repo-side manifest
+  - Display only failing hooks
+  - Monorepo support (?) - Check pre-commit issues
+  - Sourceable multi-part config (?) - Check pre-commit issues on the matter
+  - CLI add/remove/stats + autocompletion (?)
+
+## Parallel execution
+
+### First round: full parallelism
+
+#### Snapshot Stage
+
+- Take a snapshot of all files to be modified before any hooks run
+- This serves as the "base state" that can be restored if needed
+
+#### Isolated Execution Environment
+
+- Each hook operates on a temporary copy of the files
+- Modifications are made to these copies, not the original files
+- This prevents partial modifications from being visible to other hooks
+
+#### Change Recording
+
+- Track all modifications made by each hook
+- Store these as "proposed changes" rather than applying them directly
+
+#### Validation Phase
+
+- After a hook completes, validate that its changes are compatible with changes from other hooks
+- Detect potential conflicts (same line modified differently by multiple hooks)
+
+### Second round: Sequential Fallback
+
+When conflicts are detected in parallel execution, rather than simply failing or discarding all changes, fall back to sequential.
+This preserves the automatic fixing behavior users expect.
+
+### Smart Ordering
+
+- Learn from conflict patterns to optimize future runs
+- Store information about which hooks conflict with each other
+- Automatically adjust execution strategy on subsequent runs
 
 ## Similar tools
 
@@ -62,7 +98,6 @@ package.json    # Modified on running `husky init` to auto-install `husky`
 
 TODO
 
-
 ### Pre-commit
 
 ```
@@ -76,7 +111,7 @@ pre-commit-config.yaml
 ```
 # global
 ~/.cache/pre-commit/
-    db.db                       # Store, sqlite DB, tables `repos` [repo, ref, path] and `configs` 
+    db.db                       # Store, sqlite DB, tables `repos` [repo, ref, path] and `configs`
     repo-<cloned_repo_id>/      # Cached across configs, referenced in the Store
         <repo_content>              # Cloned from source
         .pre-commit-hooks.yaml      # Manifest describing how to run the hook, part of the source
@@ -84,30 +119,30 @@ pre-commit-config.yaml
 ```
 
 - Structure
-    - Git hook-level templated block that invokes a dispatcher
-    - Project-level YAML config
-    - Global-level cached repo hooks + venv
-    - Global-level `config -> repos -> path` store for cleanup
-    - Repo-level manifest (for hook-defining repos)
+  - Git hook-level templated block that invokes a dispatcher
+  - Project-level YAML config
+  - Global-level cached repo hooks + venv
+  - Global-level `config -> repos -> path` store for cleanup
+  - Repo-level manifest (for hook-defining repos)
 - Support
-    - Many languages
-    - Hooks can require additional dependencies
-    - Extensible
-    - Hook-defining repos must expose a manifest
-    - Local hooks possible
+  - Many languages
+  - Hooks can require additional dependencies
+  - Extensible
+  - Hook-defining repos must expose a manifest
+  - Local hooks possible
 - Install
-    - Global cache is populated
-    - Adds templated redirects to a shared dispatcher
-    - Auto-install possible with template-dir
+  - Global cache is populated
+  - Adds templated redirects to a shared dispatcher
+  - Auto-install possible with template-dir
 - Run
-    - Dispatcher `<python> -m pre-commit hook-impl <config> type=<hook-type>` runs
-        - Python process
-        - Loads config, finds hooks
-        - Installs missing hooks
-        - Builds hook commands
-        - Runs hooks within subprocesses (Python `xargs`)
-    - Concurrency
-        - `xargs` runs in multithreading
-        - Serial execution can be explicitly required
-    - Directly invokable with `pre-commit run`
-    - Targeted skips possible with `SKIP=` environment variable
+  - Dispatcher `<python> -m pre-commit hook-impl <config> type=<hook-type>` runs
+    - Python process
+    - Loads config, finds hooks
+    - Installs missing hooks
+    - Builds hook commands
+    - Runs hooks within subprocesses (Python `xargs`)
+  - Concurrency
+    - `xargs` runs in multithreading
+    - Serial execution can be explicitly required
+  - Directly invokable with `pre-commit run`
+  - Targeted skips possible with `SKIP=` environment variable
