@@ -1,24 +1,8 @@
 use std::path::PathBuf;
 use std::process;
 
+mod error;
 use clap::{Parser, Subcommand};
-use thiserror::Error;
-
-/// Error types for angler operations
-#[derive(Error, Debug)]
-pub enum AnglerError {
-    #[error("Configuration error: {0}")]
-    Config(String),
-
-    #[error("Git error: {0}")]
-    Git(String),
-
-    #[error("Hook error: {0}")]
-    Hook(String),
-
-    #[error("I/O error: {0}")]
-    Io(#[from] std::io::Error),
-}
 
 /// A framework for managing and maintaining git pre-commit hooks
 #[derive(Parser)]
@@ -49,7 +33,7 @@ enum Commands {
     },
 }
 
-fn install(dir: Option<PathBuf>) -> Result<(), AnglerError> {
+fn install(dir: Option<PathBuf>) -> Result<(), error::AnglerError> {
     println!("Installing angler pre-commit hook...");
 
     // This would contain the actual installation logic
@@ -63,7 +47,7 @@ fn install(dir: Option<PathBuf>) -> Result<(), AnglerError> {
     Ok(())
 }
 
-fn run_hooks(all_files: bool, files: &[PathBuf]) -> Result<(), AnglerError> {
+fn run_hooks(all_files: bool, files: &[PathBuf]) -> Result<(), error::AnglerError> {
     println!("Running angler pre-commit hooks...");
 
     // This would contain the actual hook running logic
