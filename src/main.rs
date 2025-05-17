@@ -1,8 +1,11 @@
 use std::path::PathBuf;
 use std::process;
 
+mod commands;
 mod error;
+
 use clap::{Parser, Subcommand};
+use error::AnglerError;
 
 /// A framework for managing and maintaining git pre-commit hooks
 #[derive(Parser)]
@@ -33,21 +36,7 @@ enum Commands {
     },
 }
 
-fn install(dir: Option<PathBuf>) -> Result<(), error::AnglerError> {
-    println!("Installing angler pre-commit hook...");
-
-    // This would contain the actual installation logic
-    // For now, we'll just print what we would do
-
-    let install_dir = dir.unwrap_or_else(|| PathBuf::from(".git/hooks"));
-    println!("- Installing to directory: {}", install_dir.display());
-    println!("- Config file is required");
-
-    // Mock success for now
-    Ok(())
-}
-
-fn run_hooks(all_files: bool, files: &[PathBuf]) -> Result<(), error::AnglerError> {
+fn run_hooks(all_files: bool, files: &[PathBuf]) -> Result<(), AnglerError> {
     println!("Running angler pre-commit hooks...");
 
     // This would contain the actual hook running logic
@@ -72,7 +61,7 @@ fn main() {
     let cli = Cli::parse();
 
     let result = match cli.command {
-        Commands::Install { dir } => install(dir),
+        Commands::Install { dir } => commands::install(dir),
         Commands::Run { all_files, files } => run_hooks(all_files, &files),
     };
 
