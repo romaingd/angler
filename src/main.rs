@@ -2,6 +2,7 @@ use std::path::PathBuf;
 use std::process;
 
 mod commands;
+mod config;
 mod error;
 
 use clap::{Parser, Subcommand};
