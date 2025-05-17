@@ -2,6 +2,8 @@
 name = "angler"
 version = "0.1.0"
 edition = "2021"
+description = "Efficient git hooks management"
+license = "MIT"
 
 [dependencies]
 clap = { version = "4.5.38", features = ["derive"] }
